@@ -5,7 +5,7 @@ and is only being used by download_replays.py.
 Attributes:
     CURRENT_SEASON (str): Current season; At the start of a new CEA season
     					  rename this to something new, like SeasonFall2020.
-    REPLAY_DIRECTORY (str): Directory where replays are to be stored.
+	STARTING_DATE (str): date of the 1st game
     TEAMS_FILE (str): Teams file for the current season. Create the csv in the
     				  season folder.
     CURRENT_SEASON_NAME (str): Current season name. Must match replay vault.
@@ -24,7 +24,7 @@ CURRENT_SEASON = "Fall2020"
 TEAMS_FILE = "cea_names.csv"
 
 # Starting date of the season, YYYYMMDD format.
-STARTING_DATE = ["20200905",
+STARTING_DATE = ["20200912",
 "20200221", "20190917", "2019316"]
 
 # Number of round robin weeks

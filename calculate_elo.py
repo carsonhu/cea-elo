@@ -22,6 +22,7 @@ sc2reader.engine.register_plugin(APMTracker())
 
 UNKNOWN_TEAM = "TEAM_NOT_KNOWN"
 EXTRA_GAMES_FILE = "extra_games.csv"
+# K is used for elo.
 K=80
 counts = Counter()
 
@@ -97,8 +98,6 @@ class GameObject:
     self.glicko_rd = glicko_longterm.getRd()
     self.opp_glicko_rating = opp_glicko_longterm.getRating()
     self.opp_glicko_rd = opp_glicko_longterm.getRd()
-    # self.mmr = mmr
-    # self.opponent_mmr = opponent_mmr
     # self.apm = apm
     self.duration = duration
     self.season = season
@@ -143,7 +142,13 @@ def input_extra_elo(players, games, current_date, season):
     games.popleft()
 
 def update_rating(player1, player2, win):
+  """Update player ratings after a game
   
+  Args:
+      player1 (PlayerObject): 
+      player2 (PlayerObject): 
+      win (bool): whether player 1 won
+  """
   # Update Elo rating
   A,B = EloRating(player1.rating, player2.rating, K, win)
   player1.rating = A
@@ -221,12 +226,8 @@ def calculate_elo(directory, players, teams, aliases, season, games):
       player_names = [player_list[0].name,
                       player_list[1].name]
       player_mmrs = load_value(replay_filename, 'MMR')
-      # print(dir(replay_file))
 
       input_extra_elo(players, games, replay_file.date, season)
-
-      # print(player_list[0].avg_apm)
-      #print(replay_file.winner.players[0] == player_list[0])
 
       # resolve aliases for players who play under several accounts
       for i in range(len(player_names)):
@@ -316,12 +317,6 @@ def make_csv(player_dictionary):
       opponents_beaten = opponent_func(value.opponents_beaten, True)
       opponents_lost_to = opponent_func(value.opponents_lost_to, False)
 
-      # Biggest win
-      # new_entry.append("" if not opponents_beaten else opponents_beaten[0])
-
-      # Biggest loss
-      # new_entry.append("" if not opponents_lost_to else opponents_lost_to[0])
-
       # Opponents beaten / lost to
       new_entry.append(" ; ".join(opponents_beaten))
       new_entry.append(" ; ".join(opponents_lost_to))
@@ -346,8 +341,4 @@ if __name__ == "__main__":
 
   # Input extra elo for newest season
   input_extra_elo(players, extra_games, datetime.today(), 0)     
-  # input_extra_elo(players, extra_games, datetime(2019, 5, 8, 0), 1)     
-  # print_dictionary(players)
-  # update_glicko_longterm(players)
   make_csv(players)
-  #print(players)

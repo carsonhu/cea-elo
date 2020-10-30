@@ -25,6 +25,9 @@ id_dict_json = lambda season : "data/" + SEASONS[season] + "_id_dict.json"
 # Directory where uploaded replays are stored.
 replay_directory = lambda season: "UploadHere/" + SEASONS[season] + "/"
 
+driver = webdriver.Chrome(ChromeDriverManager().install())
+driver.get('https://cea.gg/pages/replay-vault')
+
 def update_json(id_dict, dict_json):
   """Updates the json file which checks which files have been downloaded.
 
@@ -37,9 +40,14 @@ def update_json(id_dict, dict_json):
   f.close()
 
 def get_url_list(season):
-  driver = webdriver.Chrome(ChromeDriverManager().install())
-  driver.get('https://cea.gg/pages/replay-vault')
-
+  """Gets the list of URLS from cea.gg/replay-vault
+  
+  Args:
+      season (INT): Current season. 0 is most recent, 1 is 2nd most recent, etc.
+  
+  Returns:
+      TYPE: html of all the links
+  """
   time.sleep(5)
 
   html = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
@@ -55,7 +63,6 @@ def get_url_list(season):
 
   # The first tab body would apply to the entire Starcraft 2 tab.
   season_tabs = starcraft_html.find_all("div", {"class": "shogun-tabs-body"})
-  #print(season_tabs)
 
   # Get HTML associated with current season number.
   current_season_html = season_tabs[season + 1]
@@ -63,6 +70,12 @@ def get_url_list(season):
   return current_season_links
 
 def download_replays(redownload, season):
+  """Download replays from replay vault
+  
+  Args:
+      redownload (BOOL): Whether to downlod all replays or just new ones
+      season (INT): current season
+  """
   links = get_url_list(season)
   print(links)
   try:
@@ -93,8 +106,11 @@ if __name__ == "__main__":
       description='Download Replays from CEA Replay Repository')
   parser.add_argument('--r', type=bool, dest='redownload', default=False,
                       help='True/False: Whether to redownload all replays')
+  parser.add_argument('--season', type=int, dest='season', default=0,
+                      help='INT: Which season to download replays from. 0 is \
+                        most recent, 1 is 2nd most recent, etc.')
   args = parser.parse_args()
   #print(get_url_list(1))
   # for i in range(len(SEASONS)):
   #    download_replays(args.redownload, i)
-  download_replays(args.redownload, 0)
+  download_replays(args.redownload, args.season)
