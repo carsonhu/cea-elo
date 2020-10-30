@@ -46,7 +46,7 @@ def get_date_played(weeks, date_of_game):
   """
   weeks = [abs(week - date_of_game) for week in weeks]
   min_index = weeks.index(min(weeks))
-  rounds = ['Round1', 'GapWeek', 'Round2', 'Round3', 'Round4', 'Round5', 'Round6']
+  rounds = ['WRound1', 'WGapWeek', 'WRound2', 'WRound3', 'WRound4', 'WRound5', 'WRound6']
   if min_index == 0:
     return 'Preseason'
   elif min_index < WEEKS[season]:
@@ -171,6 +171,7 @@ def organize_replays(directory, output_directory, teams, aliases, season):
       if UNKNOWN_TEAM in player_teams:
         print("Couldn't find the team for one of the players. Here's what we know:")
         print("\t%s" % map_name)
+        print("\t%s" % week_played)
         print("\t%s: %s (%s)" % (player_teams[0], player_names[0], player_races[0]))
         print("\t%s: %s (%s)" % (player_teams[1], player_names[1], player_races[1]))
         continue

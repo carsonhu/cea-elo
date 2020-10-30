@@ -13,9 +13,12 @@ import argparse
 import requests
 import shutil
 import json
+import time
 from consts import SEASONS, URL
 from drive_downloader import GoogleDriveDownloader as gdd
 from bs4 import BeautifulSoup, Tag
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 
 # TODO: Automatically find this using the relevant tab.
 id_dict_json = lambda season : "data/" + SEASONS[season] + "_id_dict.json"
@@ -34,9 +37,13 @@ def update_json(id_dict, dict_json):
   f.close()
 
 def get_url_list(season):
-  response = requests.get(URL)
-  response.encoding = 'utf-8'
-  soup = BeautifulSoup(response.text, 'html.parser')
+  driver = webdriver.Chrome(ChromeDriverManager().install())
+  driver.get('https://cea.gg/pages/replay-vault')
+
+  time.sleep(5)
+
+  html = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
+  soup = BeautifulSoup(html, 'html.parser')
   games_list = soup.find_all("div", {"class": "shogun-accordion"})
   starcraft_html = ""
   for game in games_list:
@@ -48,7 +55,7 @@ def get_url_list(season):
 
   # The first tab body would apply to the entire Starcraft 2 tab.
   season_tabs = starcraft_html.find_all("div", {"class": "shogun-tabs-body"})
-  print(season_tabs)
+  #print(season_tabs)
 
   # Get HTML associated with current season number.
   current_season_html = season_tabs[season + 1]
@@ -57,6 +64,7 @@ def get_url_list(season):
 
 def download_replays(redownload, season):
   links = get_url_list(season)
+  print(links)
   try:
     with open(id_dict_json(season), 'r') as f:
       id_dict = json.load(f)
@@ -71,7 +79,7 @@ def download_replays(redownload, season):
   for link in links:
     count += 1
     drive_id = link.get('href').split("=")[-1]
-    print(drive_id)
+    #print(drive_id)
     if drive_id not in id_dict:
       id_dict[drive_id] = 1
       gdd.download_file_from_google_drive(
@@ -86,7 +94,7 @@ if __name__ == "__main__":
   parser.add_argument('--r', type=bool, dest='redownload', default=False,
                       help='True/False: Whether to redownload all replays')
   args = parser.parse_args()
-
-  #for i in range(3):
+  #print(get_url_list(1))
+  # for i in range(len(SEASONS)):
   #    download_replays(args.redownload, i)
-  download_replays(args.redownload, 2)
+  download_replays(args.redownload, 0)

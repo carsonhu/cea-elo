@@ -1,190 +1,136 @@
-Potential error in teams file: In Round1, Facebook Zuckerzerg faced multiple teams:
+Potential error in teams file: In WRound4, Addeparchon faced multiple teams:
 Players: 
-	Ok Googler Gyalgatine
-	Bloomzerg brueda
-	Ok Googler Cicero
-	Ok Googler Alken
-	Ok Googler You
+	Ok Googler SilverBullet
 	Bloomzerg YolBolsun
-Potential error in teams file: In Round1, Bloomzerg faced multiple teams:
-Players: 
-	Facebook Lingstagram cliking
-	Facebook Lingstagram katfish
-	Facebook Lingstagram arcane
-	Facebook Zuckerzerg bScherm
-Potential error in teams file: In GapWeek, Eagleview SC2 faced multiple teams:
-Players: 
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest NaCl
-	Amazon Painforest Taeho
-Potential error in teams file: In GapWeek, Facebook Zuckerzerg faced multiple teams:
-Players: 
-	Findex Fast Expand Jackal
-	Findex Fast Expand icyCow
-	Bloomzerg Infinity
-	Findex Fast Expand StoicWilly
-	Findex Fast Expand MyKill
-Potential error in teams file: In GapWeek, Alexa 12 Pool faced multiple teams:
-Players: 
-	Red Hatlings patch
-	Red Hatlings nitrous
-	Red Hatlings philosotoss
-	Eagleview SC2 Rainier
-	Red Hatlings mrsleep
-Potential error in teams file: In GapWeek, Bloomzerg faced multiple teams:
-Players: 
-	Facebook Lingstagram cliking
-	Facebook Lingstagram nowitzki
-	Facebook Lingstagram arcane
-	Facebook Zuckerzerg bScherm
-Potential error in teams file: In Week4, Bloomzerg faced multiple teams:
-Players: 
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest NaCl
+	Ok Googler Gyalgatine
 Potential error in teams file: In Week6, Wraitheon faced multiple teams:
 Players: 
-	TEAM_NOT_KNOWN A.I. 1 (Very Hard)
-	Facebook Lingstagram katfish
-	Facebook Lingstagram arcane
 	Facebook Zuckerzerg bScherm
-Potential error in teams file: In Preseason, Google YouNube faced multiple teams:
+	Facebook Lingstagram katfish
+	TEAM_NOT_KNOWN A.I. 1 (Very Hard)
+	Facebook Lingstagram arcane
+Potential error in teams file: In Week3, Ok Googler faced multiple teams:
 Players: 
-	Alexa 12 Pool Kevin
-	United E-commerce Directorate tom
-	United E-commerce Directorate FutureNights
-	United E-commerce Directorate Alephnaut
-	United E-commerce Directorate Joba
+	Bloomzerg YolBolsun
+	Bloomzerg Infinity
+	Ok Googler Alken
+	Ok Googler Turing
+	Bloomzerg FearCat
 Potential error in teams file: In Preseason, Alexa 12 Pool faced multiple teams:
 Players: 
-	Ok Googler Gyalgatine
-	Google YouNube bees
-	Microsoft Bill 4 Gates ThEUnKnowN
+	United E-commerce Directorate Seu
 	Bloomzerg DisCerN
 	IBM Virtual Private Carriers PandaLove
-	United E-commerce Directorate Seu
-	Microsoft Bill 4 Gates imaznation
-Potential error in teams file: In Preseason, IBM Virtual Private Carriers faced multiple teams:
-Players: 
-	Alexa 12 Pool Kevin
-	Microsoft Macrohard SadKeev
-	Microsoft Macrohard crilmon
-	Microsoft Macrohard kawaiirice
-Potential error in teams file: In Preseason, Microsoft Bill 4 Gates faced multiple teams:
-Players: 
-	Amazon Painforest Kisa
-	Amazon Painforest NaCl
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest Taeho
+	Google YouNube bees
+	Ok Googler Gyalgatine
 Potential error in teams file: In Preseason, Bloomzerg faced multiple teams:
 Players: 
-	Alexa 12 Pool Kevin
-	Red Hatlings Syrill
 	Red Hatlings CODADarson
-	Red Hatlings zip
+	Red Hatlings Syrill
+	Alexa 12 Pool Kevin
 	Red Hatlings mrsleep
+	Red Hatlings zip
+Potential error in teams file: In Preseason, Google YouNube faced multiple teams:
+Players: 
+	United E-commerce Directorate Joba
+	Alexa 12 Pool Kevin
+	United E-commerce Directorate Alephnaut
+	United E-commerce Directorate FutureNights
+	United E-commerce Directorate tom
+Potential error in teams file: In Preseason, IBM Virtual Private Carriers faced multiple teams:
+Players: 
+	Microsoft Macrohard SadKeev
+	Microsoft Macrohard kawaiirice
+	Alexa 12 Pool Kevin
+	Microsoft Macrohard crilmon
 Potential error in teams file: In Preseason, United E-commerce Directorate faced multiple teams:
 Players: 
 	Alexa 12 Pool Kevin
-	Google YouNube Majak
-	Google YouNube zerocool
-	Google YouNube tskuzzy
 	Google YouNube Pacifists
+	Google YouNube tskuzzy
+	Google YouNube zerocool
+	Google YouNube Majak
 Potential error in teams file: In Preseason, New Nerds On The Block faced multiple teams:
 Players: 
-	Facebook Lingstagram arcane
 	Facebook Zuckerzerg SourSpinach
 	Facebook Zuckerzerg PluTo
-Potential error in teams file: In Round2, Bloomzerg faced multiple teams:
-Players: 
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest NaCl
-	Amazon Painforest Taeho
-Potential error in teams file: In Week8, Findex Fast Expand faced multiple teams:
-Players: 
-	Facebook Lingstagram katfish
 	Facebook Lingstagram arcane
-	Facebook Zuckerzerg bScherm
-Potential error in teams file: In Week8, Facebook Zuckerzerg faced multiple teams:
+Potential error in teams file: In Week1, Bloomzerg faced multiple teams:
 Players: 
-	Findex Fast Expand Jackal
-	United E-commerce Directorate tso
-	United E-commerce Directorate FutureNights
+	Facebook Zuckerzerg frugs
+	Facebook Lingstagram IIIIIIIIIIII
+	Facebook Zuckerzerg SourSpinach
+	Facebook Zuckerzerg juno
+Potential error in teams file: In Week1, Facebook Lingstagram faced multiple teams:
+Players: 
+	IBM Virtual Private Carriers wokparty
+	Bloomzerg YolBolsun
+	IBM Virtual Private Carriers GreatArchon
+Potential error in teams file: In Week1, IBM Virtual Private Carriers faced multiple teams:
+Players: 
+	Garmin Fenix Tiran
+	Facebook Lingstagram cliking
+	Facebook Lingstagram arcane
+Potential error in teams file: In Week2, Facebook Lingstagram faced multiple teams:
+Players: 
+	Ok Googler Cicero
+	United E-commerce Directorate Joba
 	United E-commerce Directorate Alephnaut
 	United E-commerce Directorate Inkarnate
-Potential error in teams file: In Week8, Alexa 12 Pool faced multiple teams:
-Players: 
-	Amazon Painforest Kisa
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest NaCl
-	Alexa 12 Pool Zero
-Potential error in teams file: In Week3, Ok Googler faced multiple teams:
-Players: 
-	Bloomzerg Infinity
-	Ok Googler Alken
-	Bloomzerg FearCat
-	Bloomzerg YolBolsun
-	Ok Googler Turing
-Potential error in teams file: In Week3, GM-Crew Ready faced multiple teams:
-Players: 
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest Taeho
-Potential error in teams file: In Week3, Alexa 12 Pool faced multiple teams:
-Players: 
-	GM-Crew Ready Cosmic
-	Facebook Zuckerzerg frugs
-	Facebook Zuckerzerg SourSpinach
-	Facebook Zuckerzerg Juno
-	Facebook Zuckerzerg PluTo
+	United E-commerce Directorate tso
 Potential error in teams file: In Week2, Ok Googler faced multiple teams:
 Players: 
 	Facebook Lingstagram IIIIIIIIIIII
-	Facebook Zuckerzerg SourSpinach
 	Facebook Zuckerzerg PluTo
-Potential error in teams file: In Week2, Red Hatlings faced multiple teams:
+	Facebook Zuckerzerg SourSpinach
+Potential error in teams file: In Week5, Facebook Zuckerzerg faced multiple teams:
 Players: 
-	Amazon Painforest Kisa
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest NaCl
-	Amazon Painforest Taeho
-Potential error in teams file: In Week2, Facebook Lingstagram faced multiple teams:
+	Alexa 12 Pool Zero
+	Amazon Painforest ZestIsBest
+	Alexa 12 Pool Kevin
+	Alexa 12 Pool Mestaman
+Potential error in teams file: In Week5, Amazon Painforest faced multiple teams:
 Players: 
+	Facebook Zuckerzerg NYAAAA
+	United E-commerce Directorate Inkarnate
+	United E-commerce Directorate FutureNights
+	United E-commerce Directorate Alephnaut
+Potential error in teams file: In Week8, Findex Fast Expand faced multiple teams:
+Players: 
+	Facebook Zuckerzerg bScherm
+	Facebook Lingstagram katfish
+	Facebook Lingstagram arcane
+Potential error in teams file: In Week8, Facebook Zuckerzerg faced multiple teams:
+Players: 
+	Findex Fast Expand Jackal
+	United E-commerce Directorate Alephnaut
+	United E-commerce Directorate FutureNights
 	United E-commerce Directorate Inkarnate
 	United E-commerce Directorate tso
-	Ok Googler Cicero
-	United E-commerce Directorate Alephnaut
-	United E-commerce Directorate Joba
-Potential error in teams file: In Week1, IBM Virtual Private Carriers faced multiple teams:
+Potential error in teams file: In WGapWeek, Bloomzerg faced multiple teams:
 Players: 
+	Facebook Zuckerzerg bScherm
+	Facebook Lingstagram nowitzki
 	Facebook Lingstagram cliking
-	Garmin Fenix Tiran
 	Facebook Lingstagram arcane
-Potential error in teams file: In Week1, Alexa 12 Pool faced multiple teams:
+Potential error in teams file: In WGapWeek, Facebook Zuckerzerg faced multiple teams:
 Players: 
-	Ok Googler Emil
+	Findex Fast Expand Jackal
+	Bloomzerg Infinity
 	Findex Fast Expand icyCow
-	Ok Googler pzlin
-	Ok Googler Turing
-	Ok Googler OrangCaramel
-Potential error in teams file: In Week1, Findex Fast Expand faced multiple teams:
+	Findex Fast Expand StoicWilly
+	Findex Fast Expand MyKill
+Potential error in teams file: In WRound1, Bloomzerg faced multiple teams:
 Players: 
-	Amazon Painforest Kisa
-	Amazon Painforest MrNovember
-	Alexa 12 Pool ZestIsBest
-	Amazon Painforest NaCl
-Potential error in teams file: In Week1, Bloomzerg faced multiple teams:
+	Facebook Zuckerzerg bScherm
+	Facebook Lingstagram katfish
+	Facebook Lingstagram cliking
+	Facebook Lingstagram arcane
+Potential error in teams file: In WRound1, Facebook Zuckerzerg faced multiple teams:
 Players: 
-	Facebook Lingstagram IIIIIIIIIIII
-	Facebook Zuckerzerg frugs
-	Facebook Zuckerzerg SourSpinach
-	Facebook Zuckerzerg Juno
-Potential error in teams file: In Week1, Facebook Lingstagram faced multiple teams:
-Players: 
-	IBM Virtual Private Carriers GreatArchon
-	IBM Virtual Private Carriers wokparty
+	Ok Googler You
 	Bloomzerg YolBolsun
+	Ok Googler Cicero
+	Ok Googler Alken
+	Bloomzerg brueda
+	Ok Googler Gyalgatine

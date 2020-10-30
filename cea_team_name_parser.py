@@ -1,4 +1,5 @@
 import csv
+from collections import deque
 
 def init_dictionary(filename):
   """Initializes dictionary with key player name, value team name,
@@ -22,3 +23,11 @@ def init_dictionary(filename):
             teams[alias.lower()] = team_name
             players[alias.lower()] = aliases[0]
   return (teams, players)
+
+def init_extra_games(filename):
+  extra_games = deque()
+  with open(filename, mode = 'r', encoding="utf-8-sig") as csv_file:
+    csv_reader = csv.reader(csv_file, delimiter=",")
+    for row in csv_reader:
+      extra_games.append(row)
+  return extra_games
