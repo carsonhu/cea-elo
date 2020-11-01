@@ -2,6 +2,7 @@ import sc2reader
 from sc2reader.engine.plugins import APMTracker, SelectionTracker
 from consts import SEASONS, STARTING_DATE, WEEKS
 from setup_replays import find_team, replay_directory, teams_file
+from zeroNumber import zeroNumber
 import os
 import re
 import string
@@ -9,6 +10,7 @@ import json
 import csv
 import glicko2
 import mpyq
+import sys
 import traceback
 import trueskill
 from elo import EloRating
@@ -26,11 +28,10 @@ EXTRA_GAMES_FILE = "extra_games.csv"
 K=80
 counts = Counter()
 
-
-
 class PlayerObject:
   def __init__(self, name, season, team):
     self.name = name
+    self.aliases = set()
     self.wins = 0
     self.rating = 1000
     self.glicko = glicko2.Player()
@@ -40,6 +41,7 @@ class PlayerObject:
     self.peak_rating = 1000
     self.games = []
     self.teams = {season : team}
+    self.zeroNumber = sys.maxsize
 
 
   losses = property(fget=lambda self: len(self.games) - self.wins)
@@ -231,7 +233,7 @@ def calculate_elo(directory, players, teams, aliases, season, games):
 
       # resolve aliases for players who play under several accounts
       for i in range(len(player_names)):
-        if player_names[i] in aliases:
+        if player_names[i].lower() in aliases:
             player_names[i] = aliases[player_names[i].lower()].lower()
         else:
           player_names[i] = player_names[i].lower()
@@ -271,7 +273,10 @@ def calculate_elo(directory, players, teams, aliases, season, games):
 
 def make_csv(player_dictionary):
   csv_arr = []
-  headers_arr = ["Team Name", "Name", "Wins", "Losses", "Elo (avg=1000)", "Trueskill Rating (avg=25)", "Peak MMR", "Race",
+
+  # calculate zero number
+  maxPlayer = zeroNumber(player_dictionary)
+  headers_arr = ["Team Name", "Name", "Wins", "Losses", "Elo (avg=1000)", "Trueskill Rating (avg=25)", "Peak MMR", maxPlayer + " Number", "Race",
                 "Players Defeated", "Players Lost To"]
   with open("cea_season_stats.csv", "w", newline='') as my_csv:
     csvWriter = csv.writer(my_csv, delimiter=',')
@@ -300,6 +305,10 @@ def make_csv(player_dictionary):
 
       # MMR
       new_entry.append(int(value.mmr))
+
+      # zero number
+      zeroNum = int(value.zeroNumber) if value.zeroNumber < sys.maxsize else ''
+      new_entry.append(zeroNum)
 
       # Race
       new_entry.append(value.race)
@@ -334,11 +343,13 @@ if __name__ == "__main__":
 
   # Iterate seasons descending from oldest to newest
   for season in reversed(range(len(SEASONS))):
-  #for season in [2,1]:
+  #for season in [3]:
     teams, aliases = cea_team_name_parser.init_dictionary(teams_file(season))
     calculate_elo(replay_directory(season), players,
                     teams, aliases, season, extra_games)
 
   # Input extra elo for newest season
   input_extra_elo(players, extra_games, datetime.today(), 0)     
+
+
   make_csv(players)

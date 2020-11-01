@@ -1,346 +1,345 @@
-Team Name,Name,Wins,Losses,Elo (avg=1000),Trueskill Rating (avg=25),Peak MMR,Race,Players Defeated,Players Lost To
-AltSource,Garett,6,3,1085,29.15 ± 3.5,3846,Zerg,Arcane ; KinCornKarn ; Iceman ; Iceman ; MsWolf ; Galoubet,whsper ; DarthNoob ; StoicWilly
-Facebook Zuckerzerg,Arcane,18,16,1063,29.10 ± 1.8,4415,Protoss,Inkarnate ; Cicero ; TallMonster ; Taeho ; GreatArchon ; GreatArchon ; Auditor ; DisCerN ; Infinity ; Atlantean ; icyCow ; HitmanLife ; DonRagu ; FearCat ; shengy ; CepHaLoPoD ; Maarfon ; QTWO,StagaDish ; Wailord ; Vdek ; Garett ; YolBolsun ; YolBolsun ; TwoBaneZ ; GritBear ; tso ; qxc ; FAir ; FAir ; brueda ; brueda ; danceparty ; ZESTisBEST
-AltSource,MADMDK,1,5,869,15.89 ± 4.4,2503,Protoss,lifehckr,Jackal ; Phate ; Pacifists ; LuMorY ; Enterprise
-Facebook Heart,Enterprise,7,3,1141,31.43 ± 3.6,4624,Zerg,Alken ; DOJ ; rezecib ; kelvinzhong ; MUSTARDTIGER ; MADMDK ; xale,BounD ; BounD ; brueda
-Facebook Heart,Mantric,2,4,926,23.11 ± 4.2,4346,Zerg,McStruthers ; halflings,Infinity ; Unknown ; Kolo ; Inkarnate
-AltSource,McStruthers,4,3,1042,27.74 ± 4.4,2817,Terran,Anelit ; Trizar ; owlerX ; FarFetchd,Mantric ; Kitagawa ; Kitagawa
-AltSource,Violett,1,2,966,22.29 ± 5.3,0,Zerg,Atlantean,Chiy ; nalakuwala
-Facebook Heart,nalakuwala,5,3,1090,29.02 ± 3.9,4626,Zerg,wokparty ; Treadle ; seu ; Violett ; Nebula,HawaiiRice ; keelar ; keelar
-Bloomberg Bloomzerg,brueda,26,13,1278,32.99 ± 1.6,5021,Zerg,StoicWilly ; Mestaman ; Inkarnate ; Katfish ; Alken ; Enterprise ; bScherm ; whsper ; whsper ; Puzzle ; Arcane ; Arcane ; SourSpinach ; MDM ; Ketse ; LuMorY ; Gyalgatine ; KingOfRage ; Laserath ; CODADarson ; DaFoo ; rpenguin ; TitsMcSwag ; TBSS ; Iceman ; CliKing,rezecib ; PluTo ; NaCl ; NaCl ; AGiantSmurf ; Mestaman ; OrangCaramel ; OrangCaramel ; OrangCaramel ; juno ; juno ; juno ; KawaiiRice
-MSFT-A,KingOfRage,6,5,997,25.00 ± 2.9,3738,Zerg,Taeho ; Treadle ; Infinity ; MrJefferson ; FireFerret ; Cosmic,Jackal ; Maphtar ; BounD ; PluTo ; brueda
-Microsoft Macrohard,rpenguin,1,2,971,22.67 ± 5.5,3493,Terran,sineon,Fent ; brueda
-Bloomberg Bloomzerg,Infinity,10,12,978,26.62 ± 2.2,4404,Protoss,You ; bScherm ; MaximumSnail ; Sunflasher ; Mantric ; MrSleep ; quarkral ; CliKing ; DanStraight ; Argyle,KingOfRage ; Foggy ; Arcane ; bScherm ; ViceAdmiral ; You ; DarkZero ; Alken ; OrangCaramel ; juno ; ZESTisBEST ; ZESTisBEST
-Bloomzerg,sustorm,1,3,919,19.66 ± 4.8,0,Protoss,Krayze,MrJefferson ; seu ; ZESTisBEST
-Microsoft Macrohard,Krayze,10,4,1151,33.45 ± 2.9,0,Zerg,Turing ; Zip ; Taeho ; SourSpinach ; BounD ; REALLYANGRY ; BilboBagins ; FutureNights ; FireFerret ; Greghatch,sustorm ; Katfish ; Turing ; Kevin
-Bloomzerg,Youiur,0,6,827,13.57 ± 4.8,3416,Zerg,,Syrril ; Anelit ; Taeho ; whsper ; fuinkaze ; MrNovember
-MSFT-A,fuinkaze,18,10,1132,30.81 ± 2.1,4243,Protoss,FAir ; Zip ; joLin ; Anti ; GreatArchon ; Kisa ; icyCow ; MrJefferson ; HowieZ ; Projekt ; Thames ; Nitrous ; juice ; DanStraight ; Maarfon ; DJRUFIO ; Youiur ; Argyle,Syrril ; Emil ; eXiled ; keelar ; Katfish ; Inkarnate ; tso ; qxc ; OrangCaramel ; StoicWilly
-Eagleview SC2,DJRUFIO,5,13,829,19.39 ± 2.8,3212,Terran,Sunflasher ; Dejanigma ; MAznDragon ; KGBXaiver ; sineon,Argyle ; StdyFriend ; FireFerret ; Philosotoss ; Laserath ; Saichotic ; Zip ; wokparty ; fuinkaze ; Kitagawa ; NaCl ; StoicWilly ; StoicWilly
-Garmin Fenix,Sunflasher,4,8,954,22.23 ± 3.4,3344,Protoss,IslandCow ; juliuspark ; SophieG ; Galoubet,DJRUFIO ; MrJefferson ; Alex ; Infinity ; sandboX ; Spectre ; ShOckWavE ; juno
-Eagleview SC2,Mannered,15,5,1201,33.00 ± 2.5,4265,Terran,Kolo ; Zip ; CowInAPie ; Anelit ; Gokhan ; empathe ; Pacifists ; ZeroCool ; TYTY ; Jakers ; Thames ; TabulaRasa ; KinCornKarn ; PapaGil ; Argyle,Zip ; MrJin ; AGiantSmurf ; juno ; StoicWilly
-Garmin Fenix,MrJin,14,2,1191,32.85 ± 3.5,3804,Protoss,Mannered ; DisCerN ; Expendable ; Maphtar ; rskaliotis ; halflings ; Projekt ; bleatongordy ; Lackthereof ; Lackthereof ; IGotPlanz ; ChozSun ; FarFetchd ; FarFetchd,Noodle ; bablit
-Garmin Fenix,PapaGil,1,6,864,18.02 ± 4.3,2772,Zerg,MaximumSnail,Majak ; Tiran ; Pacifists ; commamloser ; SourSpinach ; Mannered
-Eagleview SC2,Maphtar,9,13,965,22.32 ± 2.3,3330,Terran,Anelit ; KingOfRage ; DaFoo ; Syrril ; MrSleep ; Evan ; Nebula ; Nebula ; Cots,MyKill ; Shardarki ; DaFoo ; DisCerN ; Vutalisk ; Vutalisk ; GreatArchon ; PluTo ; Foggy ; bablit ; MrJin ; StoicWilly ; MrNovember
-Eagleview SC2,Trizar,0,2,929,18.60 ± 6.4,2640,Terran,,BadassGinger ; McStruthers
-Garmin Fenix,BadassGinger,1,5,852,16.79 ± 4.2,2674,Terran,Trizar,MUSTARDTIGER ; MrJefferson ; ZeroCool ; LuMorY ; LatinPride
-Google A-Movers,Alken,15,9,1142,29.56 ± 2.0,4504,Protoss,frugs ; wokparty ; Taeho ; Taeho ; PluTo ; PluTo ; SourSpinach ; Arioch ; Vutalisk ; Infinity ; segv ; owlerX ; sineon ; sineon ; Galoubet,FutureNights ; seu ; Enterprise ; frugs ; Slumdog ; Turing ; brueda ; juno ; KawaiiRice
-Facebook Zuckerzerg,frugs,13,8,1181,31.12 ± 2.2,4686,Zerg,Kevin ; Alken ; Fent ; Anelit ; rezecib ; CheriLady ; Syrril ; Alex ; icyCow ; FearCat ; Feniks ; FireFerret ; colonelxc,rezecib ; You ; DarkZero ; Alken ; Cicero ; tso ; Kevin ; MrNovember
-Google A-Movers,You,13,6,1130,31.61 ± 2.5,3715,Terran,frugs ; StirFry ; Spectre ; Wailord ; Wailord ; Arioch ; DisCerN ; Infinity ; BilboBagins ; FearCat ; FireFerret ; Nitrous ; MsWolf,Infinity ; CowInAPie ; Crilmon ; danceparty ; juno ; ZESTisBEST
-Facebook Zuckerzerg,PluTo,18,12,1046,31.20 ± 1.8,4490,Protoss,Kevin ; brueda ; tso ; Slumdog ; Cicero ; chelseafan ; Taeho ; pzlin ; Gyalgatine ; KingOfRage ; ABlindMan ; Pacifists ; Maphtar ; Jackal ; FutureNights ; HawaiiRice ; Thames ; Rook,BilboBagins ; Auditor ; DarkZero ; Alken ; Alken ; Emil ; Slumdog ; TwoBaneZ ; SilverBullet ; Mestaman ; StoicWilly ; MrNovember
-Google BetaStars,HawaiiRice,1,4,918,21.00 ± 4.5,3954,Random,nalakuwala,shengy ; PluTo ; LatinPride ; DarkZero
-Facebook Zuckerzerg,SourSpinach,20,17,1038,29.92 ± 1.7,4793,Protoss,Kevin ; OrangCaramel ; AGiantSmurf ; Inkarnate ; SilverBullet ; Cicero ; Cicero ; Cicero ; Puzzle ; LuMorY ; JimGaynor ; Allen ; ReMiiX ; commamloser ; BigJoeLogs ; Pacifists ; Lagforce ; Syzygy ; MyKill ; PapaGil,shengy ; Gyalgatine ; Zip ; YolBolsun ; Alken ; Krayze ; Katfish ; Turing ; Inkarnate ; brueda ; Mestaman ; Mestaman ; OrangCaramel ; OrangCaramel ; ZESTisBEST ; Zero ; Zero
-Google 1E100 Ads Per Minute,Cicero,12,9,1170,29.57 ± 2.1,4521,Protoss,NaCl ; frugs ; ThEUnKnowN ; Alpha ; UWUMcSwagXD ; Syngularity ; DisCerN ; DisCerN ; ABlindMan ; shengy ; sergeydr ; xale,IIIIIIIIIIII ; Arioch ; MDM ; SourSpinach ; SourSpinach ; SourSpinach ; PluTo ; Arcane ; ZESTisBEST
-Google BetaStars,rezecib,4,6,1007,28.29 ± 3.1,4377,Zerg,brueda ; frugs ; joLin ; sineon,Wailord ; Enterprise ; frugs ; keelar ; Kevin ; MrNovember
-Facebook Legacy,Wailord,5,4,1034,29.65 ± 3.3,4578,Zerg,GritBear ; Arcane ; Fran ; rezecib ; Jackal,DarthNoob ; You ; You ; MrNovember
-IBM Virtual Private Carriers,GreatArchon,20,18,1032,26.59 ± 1.8,4245,Terran,StirFry ; DOJ ; chelseafan ; LuMorY ; AlexD ; Maphtar ; Alephnaut ; MrJefferson ; MrJefferson ; Tiran ; Tiran ; baemax ; Unholy ; Jackal ; Nitrous ; lifehckr ; Cots ; Argyle ; Winze ; Galoubet,Gyalgatine ; Fran ; SadKeev ; chelseafan ; Arcane ; Arcane ; fuinkaze ; Slumdog ; Katfish ; Inkarnate ; GritBear ; FAir ; FAir ; StoicWilly ; StoicWilly ; StoicWilly ; StoicWilly ; MrNovember
-Facebook Wings,baemax,1,2,956,20.82 ± 5.4,3591,Zerg,VoxVeritas,GreatArchon ; DarthNoob
-I BM,VoxVeritas,0,3,888,15.28 ± 5.6,2761,Zerg,,Projekt ; baemax ; Zip
-Facebook Wings,Littlenold,1,3,927,19.02 ± 5.2,3672,Zerg,RexAliquid,MorOs ; Treadle ; KiDZ
-IBM Raiders,Treadle,5,5,1006,25.51 ± 3.3,3770,Terran,HitmanLife ; BilboBagins ; Littlenold ; KinCornKarn ; sergeydr,KingOfRage ; Vutalisk ; Puzzle ; nalakuwala ; juno
-Facebook Wings,StirFry,5,3,1074,25.87 ± 3.9,3009,Protoss,Tarnasa ; Bumblebee ; Tetto ; Evan ; MsWolf,Vauxhall ; GreatArchon ; You
-Google Proxy Batch,Expendable,3,4,968,22.70 ± 4.1,3614,Protoss,Anelit ; HitmanLife ; Projekt,Taeho ; joLin ; MrJin ; StoicWilly
-Findex Fast Expand,Anelit,11,10,1020,22.43 ± 2.3,3387,Zerg,Atlantean ; TheDoctor ; Dejanigma ; Pocari ; MUSTARDTIGER ; Greghatch ; Calm ; StdyFriend ; Youiur ; lifehckr ; Galoubet,Daggerfield ; Iceman ; Maphtar ; Expendable ; Vdek ; McStruthers ; wokparty ; Newbi ; frugs ; Mannered
-Findex (AUS),JimGaynor,5,3,1016,25.49 ± 3.8,3424,Terran,DarthNoob ; MrJefferson ; Phate ; CulperAgent ; owlerX,FarFetchd ; DisCerN ; SourSpinach
-Google Proxy Batch,DarthNoob,6,4,1117,30.02 ± 3.2,3336,Protoss,Garett ; Wailord ; baemax ; MyKill ; MrSleep ; Maarfon,JimGaynor ; Zip ; juno ; StoicWilly
-Findex Fast Expand,MyKill,5,12,924,21.29 ± 2.8,3050,Protoss,Maphtar ; CAholder ; smokeygun ; StdyFriend ; ChozSun,imaznation ; MUSTARDTIGER ; MaximumSnail ; Funkytown ; CowInAPie ; SourSpinach ; DarthNoob ; Liqht ; Kitagawa ; Katfish ; GritBear ; NaCl
-Findex Fast Expand,StoicWilly,35,8,1315,35.50 ± 1.8,4962,Terran,juno ; FAir ; AGiantSmurf ; AGiantSmurf ; AGiantSmurf ; Mannered ; fuinkaze ; DarthNoob ; Newbi ; Noodle ; Garett ; Alpha ; wokparty ; LilPinkBoba ; PluTo ; GreatArchon ; GreatArchon ; GreatArchon ; GreatArchon ; Fran ; Gokhan ; Gokhan ; maybecake ; Expendable ; Maphtar ; LuisG ; madscyentist ; halflings ; Lackthereof ; Nitrous ; imaznation ; Iceman ; DJRUFIO ; DJRUFIO ; FarFetchd,Puzzle ; Liqht ; Kitagawa ; Pancakes ; brueda ; OrangCaramel ; juno ; MrNovember
-Wraitheon,FireFerret,3,6,922,23.03 ± 3.6,3782,Terran,MorOs ; Daggerfield ; DJRUFIO,KingOfRage ; Fran ; You ; Krayze ; frugs ; MrNovember
-Ok Googler,Fran,6,7,1021,26.80 ± 2.9,4530,Terran,GreatArchon ; Spitfire ; MrSleep ; FireFerret ; Nitrous ; Starviper,shengy ; seu ; Wailord ; Slumdog ; Inkarnate ; juno ; StoicWilly
-Google A-Movers,Gyalgatine,13,13,1019,27.88 ± 1.9,4544,Terran,keelar ; Slumdog ; DOJ ; SourSpinach ; GreatArchon ; Vutalisk ; Gokhan ; Atlantean ; Dejanigma ; Jackal ; Greghatch ; Greghatch ; Starviper,Feniks ; Alephnaut ; PluTo ; ShOckWavE ; Puzzle ; YolBolsun ; Crilmon ; brueda ; danceparty ; juno ; Kevin ; Kevin ; MrNovember
-Alexa 12 Pool,Slumdog,19,9,1184,32.54 ± 1.9,4616,Terran,OrangCaramel ; NaCl ; Alken ; Newbi ; ShOckWavE ; Taeho ; PluTo ; GreatArchon ; LuMorY ; Fran ; Alephnaut ; shengy ; shengy ; Nitrous ; Iceman ; Hyz ; ChozSun ; Winze ; Winze,Gyalgatine ; Ketse ; PluTo ; Taeho ; SilverBullet ; Turing ; Inkarnate ; GritBear ; danceparty
-Google A-Movers,SilverBullet,9,4,1188,32.57 ± 2.8,4561,Terran,Slumdog ; Puzzle ; Kolo ; PluTo ; Malk ; icyCow ; imaznation ; Hyz ; Hyz,SourSpinach ; YolBolsun ; NaCl ; MrNovember
-Wraitheon,Puzzle,6,5,1087,29.96 ± 2.8,4527,Protoss,StoicWilly ; DOJ ; DOJ ; Gyalgatine ; Treadle ; seu,SourSpinach ; SilverBullet ; NaCl ; brueda ; OrangCaramel
-RHECS,Nitrous,7,13,907,23.15 ± 2.4,3262,Terran,LuMorY ; Kisa ; juba ; clahey ; clahey ; PanDasoul ; Daggerfield,Unholy ; Alex ; juba ; Fran ; GreatArchon ; DARKARTY ; TallMonster ; chelseafan ; You ; fuinkaze ; Slumdog ; StoicWilly ; MrNovember
-Google Noobernetes,clahey,0,2,929,19.01 ± 6.6,2046,Terran,,Nitrous ; Nitrous
-Red Hat Hatlings,Bobsponge,0,2,932,18.75 ± 6.3,2823,Zerg,,halflings ; joLin
-Google Cannon Platform,halflings,5,6,933,22.67 ± 3.4,3265,Zerg,Bobsponge ; MrSleep ; Jakers ; MsWolf ; Winze,Mantric ; Arkane ; pzlin ; MrJin ; StoicWilly ; Kevin
-Google Noobernetes,MUSTARDTIGER,4,6,918,20.06 ± 3.4,2470,Terran,MyKill ; BadassGinger ; KGBXaiver ; sergeydr,MrSleep ; Vauxhall ; Anelit ; Vutalisk ; Arioch ; Enterprise
-RHECS,MrSleep,6,12,924,20.81 ± 2.5,3549,Zerg,Kevin ; Phate ; bleatongordy ; MUSTARDTIGER ; juice ; juice,halflings ; Maphtar ; Infinity ; protoaST ; Fran ; LuMorY ; vTakker ; KiDZ ; DOJ ; Kolo ; DarthNoob ; Kevin
-Red Hatlings,patch,0,5,898,17.30 ± 5.8,3035,Terran,,Tarnasa ; Pacifists ; Fent ; ZESTisBEST ; Zero
-Google Noobernetes,Tarnasa,2,5,907,19.80 ± 4.0,2995,Terran,patch ; RexAliquid,Jackal ; joLin ; Zip ; StirFry ; Katfish
-Red Hatlings,Zip,17,11,1072,28.51 ± 1.9,4014,Zerg,OrangCaramel ; Mannered ; DarthNoob ; SourSpinach ; Kisa ; Kisa ; meTzelmaTz ; Frolic ; Vauxhall ; Syzygy ; liquid ; IGotPlanz ; Tarnasa ; VoxVeritas ; Maarfon ; QTWO ; DJRUFIO,Kixantrix ; LuMorY ; Alpha ; fuinkaze ; YolBolsun ; Krayze ; Mannered ; Inkarnate ; GritBear ; NaCl ; Kevin
-Peloton Zealot Legs,Iceman,10,15,880,22.67 ± 2.1,3681,Protoss,juno ; tskuzzy ; Arioch ; Anelit ; cindy ; Pocari ; PanDasoul ; Majak ; Ockie ; Winze,juice ; ABlindMan ; AlexD ; pzlin ; chelseafan ; chelseafan ; Marshmellow ; Garett ; Garett ; DetRice ; tskuzzy ; Slumdog ; brueda ; StoicWilly ; Kevin
-Google Xpendables,Arioch,6,7,1023,25.81 ± 3.0,3445,Zerg,Cicero ; wokparty ; Sowha ; MUSTARDTIGER ; maryp ; BlueTopaz,Iceman ; LuMorY ; PandaKhan ; You ; Alken ; Mestaman ; juno
-Peloton Zealot Legs,Daggerfield,2,10,847,17.76 ± 3.4,2559,Terran,Anelit ; MsWolf,Winze ; Maarfon ; Nitrous ; FireFerret ; DEVD ; BaconPancake ; MaximumSnail ; meTzelmaTz ; DisCerN ; tskuzzy
-Google ggMail,Maarfon,3,6,850,20.03 ± 3.3,3086,Zerg,CulperAgent ; KGBXaiver ; Daggerfield,Argyle ; Bdang ; Arcane ; Zip ; DarthNoob ; fuinkaze
-Google YouNube,Nebula,0,6,796,11.71 ± 4.6,0,Protoss,,Argyle ; Rook ; Maphtar ; Maphtar ; Laserath ; nalakuwala
-Peloton Zealot Legs,Argyle,5,20,742,18.52 ± 2.3,3005,Zerg,Sup ; Maarfon ; DJRUFIO ; lifehckr ; Nebula,Thames ; Jackal ; Pacifists ; Infinity ; BigJoeLogs ; WryWonder ; WryWonder ; Ketse ; GreatArchon ; wokparty ; PandaKhan ; PandaKhan ; DetRice ; Newbi ; Newbi ; fuinkaze ; Mannered ; NaCl ; juno ; MrNovember
-Google YouNube,xale,1,7,828,16.58 ± 4.1,3041,Zerg,RexAliquid,Dejanigma ; Gokhan ; IIIIIIIIIIII ; pzlin ; Kitagawa ; Enterprise ; Cicero
-Peloton Zealot Legs,Kitagawa,14,3,1138,31.41 ± 3.1,4659,Terran,StoicWilly ; DetRice ; McStruthers ; McStruthers ; LuMorY ; GeLouKo ; MrJefferson ; Feniks ; MyKill ; shengy ; sergeydr ; DJRUFIO ; xale ; Galoubet,Alex ; DetRice ; tskuzzy
-Shopify Dropshippers,Alephnaut,12,16,963,25.32 ± 2.0,4547,Terran,tskuzzy ; Lyte ; Taeho ; Taeho ; nowitzki ; Gyalgatine ; IIIIIIIIIIII ; Alex ; SagittariusG ; FearCat ; quarkral ; Galoubet,FearCat ; ZergGirl ; GreatArchon ; DOJ ; Chiy ; ThEUnKnowN ; ViceAdmiral ; Slumdog ; OrangCaramel ; OrangCaramel ; danceparty ; juno ; ZESTisBEST ; KawaiiRice ; KawaiiRice ; Kevin
-VISARD,SagittariusG,0,1,960,20.79 ± 7.2,0,Terran,,Alephnaut
-Shopify Dropshippers,BounD,8,7,1008,29.18 ± 2.9,4774,Protoss,Enterprise ; Enterprise ; Vdek ; KingOfRage ; Vauxhall ; PandaLove ; shengy ; Tetto,Krayze ; TwoBaneZ ; Turing ; Turing ; Mestaman ; Zero ; Zero
-VISARD,Tetto,0,4,849,12.94 ± 5.0,0,Zerg,,Syzygy ; Sup ; BounD ; StirFry
-Shopify Our CEO Plays Zerg,HaZe,1,0,1040,29.21 ± 7.2,2872,Protoss,MsWolf,
-VISARD,MsWolf,1,8,795,13.49 ± 3.9,0,Protoss,Evan,Daggerfield ; Jackal ; halflings ; HowieZ ; HaZe ; StirFry ; Garett ; You
-United E-commerce Directorate,seu,6,8,996,26.76 ± 2.6,4579,Zerg,Alken ; YolBolsun ; Fran ; Alien ; sustorm ; owlerX,Puzzle ; nalakuwala ; TwoBaneZ ; GritBear ; AGiantSmurf ; Kevin ; Kevin ; Zero
-VISARD,owlerX,0,5,857,15.88 ± 5.4,0,Protoss,,Galoubet ; seu ; JimGaynor ; McStruthers ; Alken
-Ok Googler,Turing,10,7,1210,35.05 ± 2.2,4942,Zerg,juno ; juno ; Inkarnate ; Slumdog ; Krayze ; Alken ; DarkZero ; SourSpinach ; BounD ; BounD,YolBolsun ; Krayze ; keelar ; NaCl ; Mestaman ; ZESTisBEST ; KawaiiRice
-Alexa 12 Pool,DarkZero,4,1,1132,33.60 ± 4.2,5476,Protoss,frugs ; PluTo ; Infinity ; HawaiiRice,Turing
-Google AlphaStars,Fent,6,1,1135,30.37 ± 4.1,4541,Terran,Mestaman ; REALLYANGRY ; rpenguin ; MorOs ; Spitfire ; patch,frugs
-Alexa 12 Pool,Mestaman,23,8,1288,37.66 ± 1.8,5287,Protoss,juno ; OrangCaramel ; brueda ; NaCl ; Inkarnate ; Turing ; keelar ; Crilmon ; YolBolsun ; Liqht ; tom ; KiDZ ; PluTo ; SourSpinach ; SourSpinach ; Arioch ; IIIIIIIIIIII ; BounD ; Philosotoss ; DonRagu ; quarkral ; Thames ; maryp,Frontstab ; Fent ; Emil ; FAir ; brueda ; OrangCaramel ; MrNovember ; MrNovember
-Amazon Painforest,MrNovember,22,1,1449,41.53 ± 2.6,5440,Zerg,Kevin ; StoicWilly ; OrangCaramel ; OrangCaramel ; Mestaman ; Mestaman ; SilverBullet ; frugs ; eXiled ; PluTo ; Wailord ; GreatArchon ; Gyalgatine ; rezecib ; DisCerN ; Maphtar ; FutureNights ; FireFerret ; Nitrous ; Youiur ; FarFetchd ; Argyle,OrangCaramel
-Google A-Movers,OrangCaramel,27,15,1292,35.41 ± 1.5,5234,Protoss,Zero ; MrNovember ; StoicWilly ; juno ; Mestaman ; brueda ; brueda ; brueda ; YolBolsun ; fuinkaze ; bablit ; Puzzle ; Lyte ; Kolo ; joLin ; Taeho ; SourSpinach ; SourSpinach ; Auditor ; Infinity ; Alephnaut ; Alephnaut ; MrJefferson ; HowieZ ; shengy ; Cosmic ; Winze,SourSpinach ; Zip ; bScherm ; Slumdog ; keelar ; tso ; Mestaman ; juno ; juno ; ZESTisBEST ; ZESTisBEST ; MrNovember ; MrNovember ; Zero ; Zero
-Alexa 12 Pool,ZESTisBEST,29,7,1299,37.98 ± 1.9,5411,Protoss,juno ; OrangCaramel ; OrangCaramel ; Inkarnate ; Turing ; TwoBaneZ ; Cicero ; Ender ; You ; Frontstab ; Rainier ; ThEUnKnowN ; Arcane ; SourSpinach ; DisCerN ; DisCerN ; NYAAAA ; Infinity ; Infinity ; Shardarki ; Alephnaut ; icyCow ; FearCat ; sustorm ; Jakers ; shengy ; imaznation ; patch ; Cosmic,Kolo ; WhiteRa ; keelar ; Zero ; Zero ; Zero ; Zero
-Amazon Painforest,Feniks,1,3,935,20.26 ± 4.9,3526,Protoss,Gyalgatine,Alex ; Kitagawa ; frugs
-Alexa 12 Pool,Kevin,25,11,1342,32.72 ± 1.5,4984,Protoss,juno ; danceparty ; NaCl ; frugs ; Emil ; Krayze ; Cata ; Zip ; pzlin ; Gyalgatine ; Gyalgatine ; rezecib ; seu ; seu ; Alephnaut ; FearCat ; Syzygy ; halflings ; PandaLove ; PandaLove ; MrSleep ; bees ; bees ; Iceman ; smokeygun,MrSleep ; FearCat ; DisCerN ; DisCerN ; SourSpinach ; PluTo ; DOJ ; frugs ; TwoBaneZ ; juno ; MrNovember
-Amazon Primal,Taeho,9,12,1053,24.07 ± 2.3,3846,Protoss,Slumdog ; LuMorY ; Expendable ; olaf ; DanStraight ; ChozSun ; Youiur ; RexAliquid ; Winze,Pocari ; Alephnaut ; Alephnaut ; Syrril ; KingOfRage ; PluTo ; Arcane ; Alken ; Alken ; Krayze ; Slumdog ; OrangCaramel
-Facebook Zuckerzerg,keelar,11,2,1201,36.01 ± 3.1,4878,Zerg,ZESTisBEST ; OrangCaramel ; Turing ; fuinkaze ; nalakuwala ; nalakuwala ; rezecib ; Pacifists ; TheMageGuy ; Vauxhall ; Syzygy,Gyalgatine ; Mestaman
-Amazon Painforest,TheMageGuy,0,1,960,20.79 ± 7.2,3704,Protoss,,keelar
-Bloomberg Bloomzerg,FearCat,4,9,954,24.19 ± 3.0,3575,Terran,Kevin ; Funkytown ; Alephnaut ; Winze,Alephnaut ; Arcane ; Frontstab ; You ; frugs ; juno ; juno ; ZESTisBEST ; Kevin
-Bloomzerg,shengy,7,12,911,25.71 ± 2.4,3966,Zerg,SourSpinach ; Fran ; Allen ; DEVD ; HawaiiRice ; Bumblebee ; KGBXaiver,BounD ; nowitzki ; Arcane ; Lyte ; Kitagawa ; Cicero ; eXiled ; Slumdog ; Slumdog ; Katfish ; OrangCaramel ; ZESTisBEST
-Facebook Lingstagram,Katfish,11,2,1207,36.16 ± 3.1,4175,Protoss,Krayze ; fuinkaze ; SourSpinach ; GreatArchon ; Kronya ; juba ; Lethologica ; Alex ; MyKill ; shengy ; Tarnasa,qxc ; brueda
-Facebook Zuckerzerg,juno,31,9,1296,35.57 ± 1.7,4854,Zerg,Kevin ; StoicWilly ; OrangCaramel ; OrangCaramel ; brueda ; brueda ; brueda ; NaCl ; NaCl ; GritBear ; Mannered ; Alken ; You ; DarthNoob ; Foggy ; DOJ ; Arioch ; Fran ; Gyalgatine ; Treadle ; ReMiiX ; Infinity ; Alex ; Alephnaut ; HitmanLife ; FearCat ; FearCat ; Sunflasher ; Jackal ; Evan ; Argyle,Iceman ; Turing ; Turing ; Mestaman ; OrangCaramel ; ZESTisBEST ; StoicWilly ; Kevin ; Zero
-Capital OneA,MaximumSnail,2,2,971,20.63 ± 4.7,3200,Zerg,MyKill ; Daggerfield,PapaGil ; Infinity
-Capital OneA,MrJefferson,5,7,959,24.11 ± 3.1,4103,Protoss,Arkane ; Sunflasher ; Vauxhall ; sustorm ; BadassGinger,KingOfRage ; JimGaynor ; GreatArchon ; GreatArchon ; fuinkaze ; Kitagawa ; OrangCaramel
-Capital OneA,Pocari,2,4,940,20.24 ± 4.1,3006,Terran,Taeho ; TabulaRasa,Iceman ; Alex ; Anelit ; wokparty
-Eagleview SC2,DEVD,1,2,953,20.49 ± 5.5,2814,Protoss,Daggerfield,shengy ; Chiy
-Google Proxy Batch,Chiy,3,1,1066,27.87 ± 4.8,3343,Zerg,Violett ; Alephnaut ; DEVD,joLin
-Google 1E100 Ads Per Minute,Alex,7,9,967,25.76 ± 2.6,3734,Zerg,Kitagawa ; Sunflasher ; Pocari ; Feniks ; Nitrous ; KinCornKarn ; CliKing,Alephnaut ; MxGLasender ; LuMorY ; WhiteRa ; frugs ; Katfish ; Inkarnate ; Inkarnate ; juno
-Eagleview SC2,LuMorY,10,9,1026,25.77 ± 2.4,4166,Zerg,Zip ; Arioch ; Saichotic ; CODADarson ; Alex ; TYTY ; OneShotKilla ; MrSleep ; MADMDK ; BadassGinger,Nitrous ; Gokhan ; GreatArchon ; SourSpinach ; Taeho ; Alpha ; Kitagawa ; Slumdog ; brueda
-Google Xpendables,Pacifists,7,6,970,24.95 ± 3.1,3509,Zerg,FutureNights ; patch ; MADMDK ; PapaGil ; PanDasoul ; sineon ; Argyle,SourSpinach ; PluTo ; tom ; tskuzzy ; Mannered ; keelar
-Google YouNube,ZeroCool,2,3,967,21.65 ± 4.2,2955,Protoss,FutureNights ; BadassGinger,Sup ; kelvinzhong ; Mannered
-Eagleview SC2,PanDasoul,0,4,862,14.69 ± 5.2,3281,Protoss,,Iceman ; Nitrous ; MorOs ; Pacifists
-Facebook Wings,LatinPride,2,0,1075,32.07 ± 6.3,0,Random,HawaiiRice ; BadassGinger,
-Google BetaStars,KiDZ,3,1,1047,27.31 ± 5.0,3624,Protoss,rskaliotis ; Littlenold ; MrSleep,Mestaman
-Facebook Wings,segv,0,1,964,21.68 ± 7.2,3499,Zerg,,Alken
-Findex (AUS),lifehckr,0,5,822,12.28 ± 4.8,0,Protoss,,Argyle ; MADMDK ; Atlantean ; Anelit ; GreatArchon
-Findex Fast Expand,Jackal,7,13,932,22.97 ± 2.4,4487,Protoss,Kisa ; KingOfRage ; Kixantrix ; Tarnasa ; MADMDK ; MsWolf ; Argyle,commamloser ; Gyalgatine ; GreatArchon ; Wailord ; PluTo ; Foggy ; Foggy ; UWUMcSwagXD ; Alpha ; bScherm ; Pancakes ; qxc ; juno
-Garmin Fenix,KGBXaiver,0,5,849,14.30 ± 4.9,2475,Terran,,DJRUFIO ; Maarfon ; shengy ; MUSTARDTIGER ; NaCl
-Google YouNube,KinCornKarn,2,5,886,20.25 ± 3.8,3234,Terran,Kronos ; TabulaRasa,Alex ; Treadle ; DOJ ; Garett ; Mannered
-Garmin Fenix,Kronos,0,1,960,20.79 ± 7.2,0,Random,,KinCornKarn
-Google YAM,rskaliotis,0,2,936,19.98 ± 6.5,2938,Terran,,KiDZ ; MrJin
-Garmin Fenix,RexAliquid,1,6,808,13.47 ± 4.0,0,Random,sergeydr,xale ; Tarnasa ; Littlenold ; REALLYANGRY ; Smitti ; Taeho
-Garmin Fenix,TabulaRasa,0,3,901,16.44 ± 5.6,2705,Zerg,,KinCornKarn ; Pocari ; Mannered
-Google Noobernetes,Frolic,0,1,965,22.02 ± 7.3,2405,Terran,,Zip
-Red Hat Hatlings,Vutalisk,6,4,1022,26.22 ± 3.4,3950,Zerg,DOJ ; Treadle ; Maphtar ; Maphtar ; MUSTARDTIGER ; sineon,Gyalgatine ; Kolo ; Alken ; NaCl
-Microsoft Bill 4 Gates,DOJ,8,9,1055,26.45 ± 2.5,4246,Terran,Kevin ; NaCl ; Alephnaut ; FunkMasterJ ; wtfpwnlzr ; MrSleep ; KinCornKarn ; StdyFriend,Gyalgatine ; Vutalisk ; GreatArchon ; Puzzle ; Puzzle ; Enterprise ; Inkarnate ; NaCl ; juno
-I BM,HowieZ,1,3,937,21.07 ± 5.4,3515,Protoss,MsWolf,Unknown ; fuinkaze ; OrangCaramel
-MSFT-A,GritBear,13,3,1224,32.25 ± 2.7,4341,Zerg,Slumdog ; Alpha ; Zip ; Arcane ; GreatArchon ; seu ; AlexD ; Syrril ; MorOs ; FutureNights ; MyKill ; TomNook ; Theios,Wailord ; NaCl ; juno
-I BM,MorOs,2,3,962,21.99 ± 4.5,0,Zerg,Littlenold ; PanDasoul,FireFerret ; Fent ; GritBear
-Shopify Dropshippers,Thadeaus,1,1,999,25.48 ± 6.3,3052,Protoss,Shardarki,tsuki
-Raytheon Husky Unit,Shardarki,1,2,971,23.33 ± 5.8,0,Zerg,Maphtar,Thadeaus ; ZESTisBEST
-Raytheon Husky Unit,Thames,2,5,911,22.42 ± 3.9,3918,Protoss,Selesse ; Argyle,icyCow ; PluTo ; fuinkaze ; Mannered ; Mestaman
-Shopify Our CEO Plays Zerg,Selesse,0,1,960,20.79 ± 7.2,0,Zerg,,Thames
-AltSource,maryp,0,2,911,15.43 ± 5.9,1893,Zerg,,Arioch ; Mestaman
-Alexa 12 Pool,whsper,4,2,1106,31.63 ± 4.1,0,Protoss,DetRice ; Garett ; Allen ; Youiur,brueda ; brueda
-AltSource,Jakers,0,3,916,18.67 ± 6.0,0,Terran,,halflings ; Mannered ; ZESTisBEST
-Amazon Painforest,joLin,6,3,1062,27.61 ± 3.5,4393,Zerg,TwoBaneZ ; Chiy ; Expendable ; Bobsponge ; Projekt ; Tarnasa,rezecib ; fuinkaze ; OrangCaramel
-Ok Googler,TwoBaneZ,6,2,1186,34.05 ± 3.1,4405,Random,Kevin ; Arcane ; PluTo ; CowInAPie ; BounD ; seu,joLin ; ZESTisBEST
-Amazon Painforest,Malk,0,1,964,21.68 ± 7.2,0,Protoss,,SilverBullet
-Bloomberg Bloomzerg,DisCerN,10,11,1006,27.65 ± 2.2,4086,Zerg,Kevin ; Kevin ; JimGaynor ; Laserath ; Maphtar ; imaznation ; imaznation ; Starviper ; Cosmic ; Daggerfield,Ketse ; Arcane ; Frontstab ; You ; YolBolsun ; Cicero ; Cicero ; MrJin ; ZESTisBEST ; ZESTisBEST ; MrNovember
-Google BetaStar,Vauxhall,2,5,946,21.94 ± 4.0,3565,Protoss,StirFry ; MUSTARDTIGER,FutureNights ; MrJefferson ; BounD ; Zip ; keelar
-Capital OneA,Projekt,1,4,928,20.39 ± 5.0,3682,Protoss,VoxVeritas,Expendable ; joLin ; fuinkaze ; MrJin
-Google ggMail,Atlantean,4,6,975,22.51 ± 3.3,2881,Protoss,juba ; Yaxhiro ; Rook ; lifehckr,Rook ; Violett ; Gyalgatine ; Anelit ; Syngularity ; Arcane
-Garmin Fenix,Evan,1,7,819,14.33 ± 3.9,2928,Zerg,FarFetchd,MsWolf ; Maphtar ; maybecake ; AquAblAck ; Sapientia ; StirFry ; juno
-Garmin Fenix,Tiran,1,2,957,22.44 ± 5.4,0,Zerg,PapaGil,GreatArchon ; GreatArchon
-Google Xpendables,sineon,2,10,811,16.43 ± 3.3,3121,Terran,Sup ; Lackthereof,DJRUFIO ; juice ; Pacifists ; rpenguin ; rezecib ; IIIIIIIIIIII ; Vutalisk ; WryWonder ; Alken ; Alken
-VISARD,sergeydr,0,5,833,12.46 ± 4.9,0,Terran,,RexAliquid ; MUSTARDTIGER ; Treadle ; Kitagawa ; Cicero
-Red Hat Hatlings,AlexD,1,2,991,26.61 ± 5.4,3515,Terran,Iceman,GreatArchon ; GritBear
-AltSource,CulperAgent,0,2,931,19.00 ± 6.2,0,Terran,,Maarfon ; JimGaynor
-Capital OneA,REALLYANGRY,1,2,977,23.47 ± 5.9,3902,Zerg,RexAliquid,Fent ; Krayze
-Capital OneA,Spitfire,0,2,936,20.15 ± 6.6,0,Protoss,,Fran ; Fent
-Shopify Our CEO Plays Zerg,Lethologica,0,1,968,22.26 ± 7.3,3506,Terran,,Katfish
-Shopify Dropshippers,Inkarnate,18,10,1219,33.13 ± 1.9,4758,Terran,Slumdog ; Emil ; fuinkaze ; Lyte ; Zip ; DOJ ; SourSpinach ; GreatArchon ; Ketse ; Fran ; ZergGirl ; AquAblAck ; Laserath ; commamloser ; Alex ; Alex ; Mantric ; TBSS,SourSpinach ; Arcane ; Turing ; NaCl ; NaCl ; brueda ; Mestaman ; danceparty ; ZESTisBEST ; KawaiiRice
-Google 1E100 Ads Per Minute,Syzygy,2,5,941,20.83 ± 4.2,3937,Protoss,StagaDish ; Tetto,FutureNights ; SourSpinach ; Zip ; keelar ; Kevin
-Facebook Wings,HitmanLife,2,4,956,20.08 ± 4.3,0,Random,SophieG ; FarFetchd,Expendable ; Treadle ; Arcane ; juno
-Facebook Wings,Unknown,2,0,1074,32.20 ± 6.0,3677,Zerg,HowieZ ; Mantric,
-Google YouNube,Galoubet,1,13,727,13.65 ± 3.5,2706,Zerg,owlerX,Dejanigma ; Sunflasher ; Alephnaut ; Anelit ; GreatArchon ; CowInAPie ; coolwhip ; Kolo ; Garett ; ViceAdmiral ; ViceAdmiral ; Kitagawa ; Alken
-Google YAM,vTakker,1,0,1040,29.84 ± 6.9,3100,Terran,MrSleep,
-Google Cannon Platform,FarFetchd,1,9,817,16.88 ± 3.6,3519,Protoss,JimGaynor,Evan ; PandaLove ; HitmanLife ; McStruthers ; MrJin ; MrJin ; NaCl ; StoicWilly ; MrNovember
-Amazon Painforest,NaCl,20,7,1249,33.51 ± 1.9,4376,Protoss,brueda ; brueda ; GritBear ; Inkarnate ; Inkarnate ; Turing ; SilverBullet ; Puzzle ; Zip ; DOJ ; Vutalisk ; BaconPancake ; FutureNights ; MyKill ; Bumblebee ; KGBXaiver ; DJRUFIO ; FarFetchd ; Argyle ; Winze,DOJ ; Cicero ; Slumdog ; Mestaman ; juno ; juno ; Kevin
-Capital OneA,Bumblebee,0,3,885,15.02 ± 5.5,3604,Zerg,,shengy ; StirFry ; NaCl
-Bloomzerg,AquAblAck,1,1,997,24.00 ± 6.5,0,Zerg,Evan,Inkarnate
-Facebook Wings,kelvinzhong,1,1,1002,24.89 ± 5.7,3679,Protoss,ZeroCool,Enterprise
-Findex Fast Expand,icyCow,3,6,960,24.18 ± 3.5,3190,Zerg,Thames ; TomNook ; StdyFriend,Laserath ; Arcane ; fuinkaze ; frugs ; SilverBullet ; ZESTisBEST
-Findex Fast Expand,Winze,2,16,738,13.89 ± 3.2,2979,Protoss,ITmedic ; Daggerfield,DanStraight ; Iceman ; Lackthereof ; halflings ; FearCat ; DonRagu ; MxGLasender ; GreatArchon ; Taeho ; Foggy ; Cata ; bablit ; Slumdog ; Slumdog ; NaCl ; OrangCaramel
-IBM Raiders,Kolo,7,4,1077,29.68 ± 3.0,4354,Terran,ZESTisBEST ; Vutalisk ; Mantric ; FutureNights ; MrSleep ; bees ; Galoubet,Allen ; SilverBullet ; Mannered ; OrangCaramel
-Facebook Heart,BilboBagins,1,3,955,24.27 ± 4.6,3912,Zerg,PluTo,Treadle ; You ; Krayze
-Peloton,Phate,1,2,955,19.76 ± 5.0,2661,Zerg,MADMDK,MrSleep ; JimGaynor
-VISARD,SophieG,0,2,904,14.10 ± 5.7,0,Zerg,,Sunflasher ; HitmanLife
-AltSource,Sup,2,2,975,20.58 ± 4.4,2440,Terran,ZeroCool ; Tetto,Argyle ; sineon
-Amazon Painforest,meTzelmaTz,1,1,991,23.49 ± 6.3,4412,Zerg,Daggerfield,Zip
-IBM Virtual Private Carriers,wokparty,12,9,1083,25.48 ± 2.3,3308,Terran,Anelit ; Philosotoss ; Rob ; Pocari ; Kerms ; Kerms ; Ares ; Rook ; Greghatch ; CliKing ; DJRUFIO ; Argyle,Kixantrix ; sandboX ; Arioch ; ThEUnKnowN ; nalakuwala ; Rainier ; Alken ; Crilmon ; StoicWilly
-Facebook Wings,Arkane,1,1,1005,25.15 ± 5.4,3814,Terran,halflings,MrJefferson
-Google Proxy Batch,Alien,0,1,952,18.69 ± 6.5,0,Terran,,seu
-Shopify Dropshippers,Allen,2,3,1012,26.63 ± 4.1,3729,Protoss,Kolo ; Foggy,shengy ; SourSpinach ; whsper
-Amazon Painforest,bablit,5,1,1120,33.13 ± 4.2,3830,Terran,MrJin ; Maphtar ; Majak ; Majak ; Winze,OrangCaramel
-Amazon Painforest,commamloser,2,3,991,25.19 ± 4.4,0,Zerg,Jackal ; PapaGil,GeLouKo ; SourSpinach ; Inkarnate
-Shopify Dropshippers,FutureNights,4,13,925,22.10 ± 2.8,3550,Zerg,Alken ; Vauxhall ; Syzygy ; CepHaLoPoD,ZeroCool ; Pacifists ; tsuki ; MDM ; PluTo ; Kolo ; Ender ; Krayze ; GritBear ; NaCl ; danceparty ; KawaiiRice ; MrNovember
-AMD RyzenG,CowInAPie,3,2,1033,28.90 ± 4.3,0,Terran,You ; MyKill ; Galoubet,TwoBaneZ ; Mannered
-AMD RyzenG,Dejanigma,3,4,952,20.70 ± 3.7,3299,Zerg,juba ; xale ; Galoubet,DJRUFIO ; ReMiiX ; Gyalgatine ; Anelit
-AMD RyzenG,Gokhan,2,4,983,25.18 ± 4.0,0,Protoss,LuMorY ; xale,Gyalgatine ; Mannered ; StoicWilly ; StoicWilly
-Garmin Fenix,juba,6,5,985,24.96 ± 3.1,3938,Zerg,MxGLasender ; Smitti ; maybecake ; Feaisil ; Nitrous ; bees,Nitrous ; Dejanigma ; Atlantean ; Liqht ; Katfish
-AMD RyzenG,Spectre,2,1,1049,29.56 ± 5.1,2886,Terran,sandboX ; Sunflasher,You
-AMD RyzenG,iWushu,0,1,960,20.79 ± 7.2,0,Terran,,tskuzzy
-Google 1E100 Ads Per Minute,tskuzzy,12,3,1178,29.43 ± 2.5,3993,Zerg,Kitagawa ; Newbi ; PandaKhan ; IIIIIIIIIIII ; Pacifists ; maybecake ; Syrril ; iWushu ; TBSS ; Calm ; Iceman ; Daggerfield,Iceman ; Alephnaut ; DaFoo
-Micro Pro,AGiantSmurf,10,4,1264,35.21 ± 2.7,5711,Protoss,brueda ; Mannered ; Pancakes ; TheGladiator ; Lyte ; tsuki ; seu ; Zeman ; MAznDragon ; Majak,SourSpinach ; StoicWilly ; StoicWilly ; StoicWilly
-Apple MacRoPro,Foggy,5,3,1060,27.80 ± 3.4,0,Terran,Infinity ; Maphtar ; Jackal ; Jackal ; Winze,Allen ; YolBolsun ; juno
-Apple MacRoPro,Funkytown,1,1,976,20.68 ± 5.9,0,Zerg,MyKill,FearCat
-Google YouNube,MAznDragon,0,2,916,16.15 ± 5.8,0,Protoss,,DJRUFIO ; AGiantSmurf
-Micro Pro,coolwhip,2,0,1073,31.97 ± 6.1,0,Terran,LilPinkBoba ; Galoubet,
-Apple MacRoPro,Laserath,3,3,995,25.83 ± 3.8,3528,Protoss,icyCow ; DJRUFIO ; Nebula,DisCerN ; Inkarnate ; brueda
-Facebook Zuckerzerg,tsuki,2,1,1025,26.59 ± 5.2,3255,Protoss,Thadeaus ; FutureNights,AGiantSmurf
-Google Noobernetes,maybecake,3,5,969,22.32 ± 3.9,3743,Random,Rook ; Rook ; Evan,juba ; Combust ; Lunatic ; tskuzzy ; StoicWilly
-Google Noobernetes,Smitti,2,1,1024,26.11 ± 5.4,2943,Zerg,BaconPancake ; RexAliquid,juba
-Garmin Fenix,Rook,3,6,892,17.81 ± 3.6,2983,Terran,Atlantean ; ogreinside ; Nebula,maybecake ; maybecake ; Atlantean ; CheeseMaster ; PluTo ; wokparty
-Google Cannon Platform,Lunatic,2,0,1066,31.01 ± 6.4,3521,Zerg,maybecake ; Optimization,
-Google BetaStar,Optimization,0,1,960,20.79 ± 7.2,3504,Zerg,,Lunatic
-Ok Googler,pzlin,3,2,1021,26.91 ± 4.1,4261,Protoss,halflings ; Iceman ; xale,PluTo ; Kevin
-Google YouNube,bees,0,4,881,16.63 ± 5.2,3175,Zerg,,juba ; Kolo ; Kevin ; Kevin
-IBM Virtual Private Carriers,PandaLove,1,3,926,21.32 ± 4.5,4641,Terran,FarFetchd,BounD ; Kevin ; Kevin
-Facebook Lingstagram,IIIIIIIIIIII,4,4,1010,27.23 ± 3.4,4152,Terran,Cicero ; YolBolsun ; xale ; sineon,Alephnaut ; tskuzzy ; Mestaman ; KawaiiRice
-Google YouNube,sandboX,2,1,1020,27.17 ± 5.3,3074,Zerg,wokparty ; Sunflasher,Spectre
-Wraitheon,Starviper,0,4,872,16.39 ± 5.0,0,Terran,,ReMiiX ; DisCerN ; Gyalgatine ; Fran
-Wraitheon,Newbi,10,5,1112,30.23 ± 2.7,2832,Protoss,FAir ; bScherm ; UWUMcSwagXD ; MDM ; Anelit ; Kerms ; Greghatch ; DanStraight ; Argyle ; Argyle,eXiled ; tskuzzy ; Slumdog ; FAir ; StoicWilly
-Workday My Life for HR,DetRice,4,2,1092,32.54 ± 4.2,3625,Zerg,Kitagawa ; Larry ; Iceman ; Argyle,whsper ; Kitagawa
-Workday My Life for HR,SLeePY,0,1,960,20.79 ± 7.2,0,Terran,,OneShotKilla
-Peloton Zealot Legs,OneShotKilla,2,4,927,19.34 ± 4.0,0,Protoss,SLeePY ; Treher,DonRagu ; Kisa ; LuMorY ; Sowha
-Shopify Dropshippers,Zero,20,2,1511,42.43 ± 2.1,6049,Terran,KawaiiRice ; ZESTisBEST ; ZESTisBEST ; ZESTisBEST ; ZESTisBEST ; juno ; OrangCaramel ; OrangCaramel ; qxc ; tso ; YolBolsun ; SourSpinach ; SourSpinach ; BounD ; BounD ; ReMiiX ; seu ; BicepCurls ; OooLaLa ; patch,tso ; OrangCaramel
-Micro Pro,Lagforce,1,3,957,22.11 ± 4.9,0,Terran,BlueTopaz,SourSpinach ; Ender ; Pancakes
-Micro Pro,Vdek,3,2,1035,28.35 ± 4.1,4685,Zerg,Arcane ; Anelit ; Calm,BounD ; TheGladiator
-Google YouNube,empathe,0,1,978,22.66 ± 7.2,3004,Zerg,,Mannered
-Google Noobernetes,Lackthereof,1,4,915,18.17 ± 4.8,0,Zerg,Winze,sineon ; MrJin ; MrJin ; StoicWilly
-Google A-Movers,YolBolsun,12,9,1138,31.67 ± 2.0,4873,Protoss,FAir ; FAir ; Turing ; SilverBullet ; Zip ; Arcane ; Arcane ; Foggy ; SourSpinach ; Gyalgatine ; DisCerN ; Zergachu,seu ; IIIIIIIIIIII ; TallMonster ; bScherm ; Liqht ; Mestaman ; OrangCaramel ; danceparty ; Zero
-Workday My Life for HR,BaconPancake,1,2,961,21.81 ± 5.6,3084,Zerg,Daggerfield,Smitti ; NaCl
-Workday My Life for HR,GeLouKo,1,1,1024,27.90 ± 6.2,0,Protoss,commamloser,Kitagawa
-Workday My Life for HR,olaf,0,1,946,17.22 ± 6.2,0,Zerg,,Taeho
-Wraitheon,Zergachu,0,1,966,22.71 ± 7.4,0,Zerg,,YolBolsun
-Google YouNube,Sapientia,1,0,1022,26.41 ± 7.6,3047,Zerg,Evan,
-Google ggMail,Majak,2,7,861,19.68 ± 3.9,2868,Zerg,PapaGil ; Cots,Iceman ; Joba ; CheriLady ; undertone ; bablit ; bablit ; AGiantSmurf
-Google BetaStar,Combust,1,0,1035,28.95 ± 6.9,0,Zerg,maybecake,
-Ok Googler,ReMiiX,2,3,1004,25.70 ± 4.7,4183,Terran,Dejanigma ; Starviper,SourSpinach ; juno ; Zero
-Google Cannon Platform,CheeseMaster,1,0,1040,29.16 ± 6.9,3425,Zerg,Rook,
-Google BetaStar,CheriLady,1,1,1004,25.91 ± 5.6,0,Terran,Majak,frugs
-Google Noobernetes,Larry,0,1,966,22.15 ± 7.1,0,Protoss,,DetRice
-Google Noobernetes,Feaisil,0,1,964,20.27 ± 6.8,0,Zerg,,juba
-Wraitheon,smokeygun,2,7,848,17.51 ± 3.7,2640,Zerg,A.I. 1 (Very Hard) ; RelaxedBrain,DanStraight ; Greghatch ; MyKill ; UWUMcSwagXD ; UWUMcSwagXD ; FAir ; Kevin
-TEAM_NOT_KNOWN,A.I. 1 (Very Hard),0,1,960,20.79 ± 7.2,0,Zerg,,smokeygun
-Addeparchon,Ender,11,6,1148,29.23 ± 2.8,4693,Protoss,MDM ; DaFoo ; DaFoo ; Pikmet ; Milkman ; Lagforce ; DonRagu ; FutureNights ; Faz ; CliKing ; ITmedic,DaFoo ; Lyte ; qxc ; qxc ; danceparty ; ZESTisBEST
-MSFT-B,DaFoo,4,6,977,23.64 ± 3.0,4076,Terran,tskuzzy ; Ender ; WryWonder ; Maphtar,Maphtar ; Rainier ; Ender ; Ender ; FAir ; brueda
-Addeparchon,FAir,15,7,1264,33.13 ± 2.1,4960,Protoss,Mestaman ; Pancakes ; Newbi ; PandaKhan ; Arcane ; Arcane ; chelseafan ; TallMonster ; GreatArchon ; GreatArchon ; Quirkedkirk ; DaFoo ; Ectoplasm ; colonelxc ; smokeygun,Newbi ; fuinkaze ; YolBolsun ; YolBolsun ; KawaiiRice ; KawaiiRice ; StoicWilly
-MSFT-B,PandaKhan,5,2,1084,29.17 ± 3.8,2093,Zerg,whoyou ; Arioch ; protoaST ; Argyle ; Argyle,tskuzzy ; FAir
-Microsoft One Xbox One X,TYTY,1,3,936,20.81 ± 4.8,3224,Terran,Greghatch,Kronya ; LuMorY ; Mannered
-Addeparchon,Greghatch,3,11,891,20.03 ± 3.1,2806,Protoss,Cress ; TheMonkies ; smokeygun,TYTY ; BigJoeLogs ; Saichotic ; Gyalgatine ; Gyalgatine ; Anelit ; hello ; wokparty ; ThEUnKnowN ; Newbi ; Krayze
-Addeparchon,Kronya,2,2,1025,28.05 ± 5.2,2851,Zerg,TYTY ; ActiveFire,Lyte ; Katfish
-Microsoft One Xbox One X,ActiveFire,0,2,915,16.50 ± 6.1,2186,Protoss,,Ockie ; Kronya
-Amazon Primal,Kisa,5,6,1000,23.18 ± 3.0,3124,Protoss,Kixantrix ; Kixantrix ; StagaDish ; OneShotKilla ; juice,Nitrous ; Jackal ; Zip ; Zip ; Lyte ; fuinkaze
-MSFT-B,imaznation,1,6,904,20.72 ± 4.1,3340,Protoss,MyKill,DisCerN ; DisCerN ; PeeAndKeele ; SilverBullet ; ZESTisBEST ; StoicWilly
-Microsoft Bill 4 Gates,ThEUnKnowN,6,4,1087,29.18 ± 3.4,0,Terran,Rainier ; wokparty ; Philosotoss ; Philosotoss ; Alephnaut ; Greghatch,UWUMcSwagXD ; Cicero ; tso ; ZESTisBEST
-Red Hatlings,CODADarson,1,2,991,24.23 ± 5.0,3011,Protoss,BigJoeLogs,LuMorY ; brueda
-Red Hatlings,Syrril,5,6,968,24.36 ± 3.0,4028,Zerg,fuinkaze ; Taeho ; bleatongordy ; Faz ; Youiur,Maphtar ; TheGladiator ; Rainier ; tskuzzy ; frugs ; GritBear
-New Nerds On The Block,QTWO,0,5,834,14.03 ± 4.8,1934,Protoss,,Cots ; Hyz ; Arcane ; Zip ; Alpha
-New Nerds On The Block,chelseafan,4,4,1054,28.34 ± 3.3,4719,Protoss,GreatArchon ; Nitrous ; Iceman ; Iceman,GreatArchon ; PluTo ; FAir ; KawaiiRice
-New Nerds On The Block,BigJoeLogs,3,3,978,23.11 ± 4.2,3723,Zerg,CAholder ; Greghatch ; Argyle,CODADarson ; SourSpinach ; Crilmon
-United E-commerce Directorate,Joba,1,1,989,25.06 ± 6.1,3089,Protoss,Majak,hello
-United E-commerce Directorate,tom,2,1,1066,31.01 ± 5.3,4495,Zerg,WryWonder ; Pacifists,Mestaman
-IBM Virtual Private Carriers,Alpha,6,4,1084,28.83 ± 3.1,3645,Protoss,Zip ; LuMorY ; Jackal ; Yaxhiro ; Kerms ; QTWO,Cicero ; GritBear ; KawaiiRice ; StoicWilly
-Microsoft Macrohard,KawaiiRice,13,2,1310,38.86 ± 2.9,5506,Zerg,brueda ; FAir ; FAir ; Inkarnate ; Turing ; eXiled ; Alken ; Alpha ; chelseafan ; IIIIIIIIIIII ; Alephnaut ; Alephnaut ; FutureNights,tso ; Zero
-Microsoft Macrohard,SadKeev,1,0,1040,31.65 ± 6.3,4546,Zerg,GreatArchon,
-Microsoft Macrohard,Crilmon,6,2,1180,35.72 ± 3.4,5151,Zerg,tso ; You ; wokparty ; Gyalgatine ; BigJoeLogs ; TomNook,tso ; Mestaman
-MSFT-A,danceparty,12,1,1295,37.09 ± 3.0,5038,Zerg,Inkarnate ; Slumdog ; Ender ; YolBolsun ; You ; Arcane ; Gyalgatine ; Alephnaut ; FutureNights ; Faz ; Theios ; Cosmic,Kevin
-MSFT-A,Lyte,6,5,1079,28.74 ± 2.9,4185,Zerg,Ender ; Kronya ; Kisa ; Philosotoss ; shengy ; DanStraight,Alephnaut ; Inkarnate ; tso ; AGiantSmurf ; OrangCaramel
-Google A-Movers,Emil,6,2,1171,34.23 ± 3.2,0,Zerg,Mestaman ; fuinkaze ; Cata ; PluTo ; DanStraight ; StdyFriend,Inkarnate ; Kevin
-Facebook Lingstagram,CliKing,1,6,874,18.07 ± 4.2,2640,Zerg,TheMonkies,Alex ; Infinity ; wokparty ; Ender ; tso ; brueda
-GM-Crew Ready,Cosmic,0,8,848,16.89 ± 4.8,3343,Protoss,,DonRagu ; KingOfRage ; DisCerN ; qxc ; qxc ; OrangCaramel ; danceparty ; ZESTisBEST
-GM-Crew Ready,DanStraight,2,7,869,20.19 ± 3.6,2632,Terran,smokeygun ; Winze,Infinity ; Taeho ; Lyte ; Newbi ; fuinkaze ; Emil ; qxc
-GM-Crew Ready,eXiled,8,3,1175,34.73 ± 3.2,4907,Protoss,qxc ; fuinkaze ; Newbi ; MDM ; Tilena ; DonRagu ; DonRagu ; shengy,qxc ; KawaiiRice ; MrNovember
-MSFT-B,MDM,5,5,1038,26.31 ± 3.2,3443,Terran,Cicero ; liquid ; FutureNights ; RelaxedBrain ; ogreinside,Auditor ; Newbi ; Ender ; eXiled ; brueda
-GM-Crew Ready,UWUMcSwagXD,5,2,1074,27.98 ± 3.8,0,Terran,ThEUnKnowN ; DonRagu ; Jackal ; smokeygun ; smokeygun,Newbi ; Cicero
-Google ggMail,Ockie,1,5,852,16.24 ± 4.2,1938,Protoss,ActiveFire,Iceman ; TheMonkies ; CAholder ; Milkman ; Sowha
-Shopify Dropshippers,TheMonkies,1,2,923,16.98 ± 4.8,2407,Terran,Ockie,CliKing ; Greghatch
-Google 1E100 Ads Per Minute,WryWonder,4,2,1025,25.32 ± 4.0,3609,Zerg,Ares ; sineon ; Argyle ; Argyle,DaFoo ; tom
-Wraitheon,DonRagu,4,6,955,24.66 ± 3.5,3532,Terran,OneShotKilla ; Hyz ; Cosmic ; Winze,Arcane ; UWUMcSwagXD ; Ender ; eXiled ; eXiled ; Mestaman
-Peloton Zealot Legs,RelaxedBrain,0,2,924,18.39 ± 6.3,0,Zerg,,smokeygun ; MDM
-Microsoft One Xbox One X,Saichotic,2,1,1017,25.41 ± 5.0,0,Zerg,Greghatch ; DJRUFIO,LuMorY
-Eagleview SC2,wtfpwnlzr,0,2,929,18.20 ± 6.1,0,Protoss,,Kerms ; DOJ
-Findex Fast Expand,Kerms,2,5,905,19.71 ± 3.8,3006,Zerg,wtfpwnlzr ; ITmedic,LilPinkBoba ; wokparty ; wokparty ; Alpha ; Newbi
-United E-commerce Directorate,tso,10,3,1246,37.42 ± 2.6,5247,Zerg,Zero ; KawaiiRice ; OrangCaramel ; frugs ; Crilmon ; fuinkaze ; ThEUnKnowN ; Lyte ; Arcane ; CliKing,PluTo ; Crilmon ; Zero
-Facebook Lingstagram,hello,2,0,1072,32.11 ± 6.3,3826,Protoss,Joba ; Greghatch,
-Facebook Lingstagram,nowitzki,2,1,1040,27.26 ± 4.7,3434,Terran,IGotPlanz ; shengy,Alephnaut
-Wraitheon,qxc,11,2,1263,38.16 ± 3.1,5446,Terran,Katfish ; eXiled ; Ender ; Ender ; fuinkaze ; Arcane ; Jackal ; TomNook ; DanStraight ; Cosmic ; Cosmic,eXiled ; Zero
-IBM Virtual Private Carriers,CAholder,1,2,937,18.24 ± 5.0,2809,Terran,Ockie,MyKill ; BigJoeLogs
-Google Xpendables,Yaxhiro,0,2,918,16.49 ± 5.9,0,Terran,,Atlantean ; Alpha
-Peloton Zealot Legs,FunkMasterJ,0,1,960,20.00 ± 6.5,0,Zerg,,DOJ
-New Nerds On The Block,Faz,0,3,897,16.86 ± 5.5,0,Protoss,,Syrril ; Ender ; danceparty
-Addeparchon,Hyz,2,7,869,19.72 ± 3.8,0,Zerg,qmx ; QTWO,colonelxc ; DonRagu ; nStrage ; Anti ; Slumdog ; SilverBullet ; SilverBullet
-Peloton Zealot Legs,Cots,1,8,780,13.65 ± 3.7,0,Terran,QTWO,Majak ; Maphtar ; Philosotoss ; IslandCow ; Noobtoss ; GreatArchon ; undertone ; ViceAdmiral
-Microsoft One Xbox One X,Sowha,2,1,1029,25.50 ± 5.1,0,Protoss,OneShotKilla ; Ockie,Arioch
-MSFT-B,ViceAdmiral,6,1,1113,30.53 ± 3.9,3302,Terran,Infinity ; Alephnaut ; ChozSun ; Cots ; Galoubet ; Galoubet,Rainier
-Findex Fast Expand,Tilena,0,1,971,22.78 ± 7.3,0,Zerg,,eXiled
-New Nerds On The Block,Rob,0,1,953,18.96 ± 6.5,0,Terran,,wokparty
-Red Hatlings,Philosotoss,4,6,967,21.72 ± 3.4,3424,Protoss,Jasonion ; Theios ; DJRUFIO ; Cots,PeeAndKeele ; Lyte ; wokparty ; ThEUnKnowN ; ThEUnKnowN ; Mestaman
-Facebook Zuckerzerg,NYAAAA,0,1,993,23.85 ± 7.6,0,Zerg,,ZESTisBEST
-Eagleview SC2,Rainier,4,2,1099,30.02 ± 4.0,4227,Zerg,ViceAdmiral ; wokparty ; DaFoo ; Syrril,ThEUnKnowN ; ZESTisBEST
-IBM Virtual Private Carriers,StdyFriend,2,7,836,17.17 ± 3.2,3240,Terran,qmx ; DJRUFIO,MyKill ; liquid ; icyCow ; Anelit ; DOJ ; LilPinkBoba ; Emil
-Addeparchon,TomNook,0,4,902,18.15 ± 5.7,0,Zerg,,icyCow ; Crilmon ; GritBear ; qxc
-Facebook Zuckerzerg,bScherm,4,3,1108,31.06 ± 3.1,4654,Zerg,OrangCaramel ; YolBolsun ; Infinity ; Jackal,Infinity ; Newbi ; brueda
-Amazon Primal,juice,2,5,888,18.99 ± 3.5,0,Terran,Iceman ; sineon,MrSleep ; MrSleep ; Unholy ; Kisa ; fuinkaze
-GM-Crew Ready,TitsMcSwag,0,1,967,21.87 ± 6.9,4713,Terran,,brueda
-Microsoft Bill 4 Gates,ZergGirl,1,1,1013,27.44 ± 5.3,4674,Zerg,Alephnaut,Inkarnate
-Google Xpendables,Milkman,1,2,964,21.44 ± 5.3,0,Protoss,Ockie,Xiv ; Ender
-Google Xpendables,colonelxc,1,4,899,18.40 ± 4.4,3150,Zerg,Hyz,bleatongordy ; whoyou ; frugs ; FAir
-Google Xpendables,Quirkedkirk,1,1,1011,25.33 ± 6.1,0,Protoss,Jasonion,FAir
-Alexa 12 Pool,TallMonster,3,2,1054,29.39 ± 3.8,4093,Zerg,YolBolsun ; TBSS ; Nitrous,Arcane ; FAir
-Amazon Painforest,Liqht,5,2,1128,33.77 ± 3.6,5297,Zerg,StoicWilly ; YolBolsun ; juba ; MyKill ; Calm,Laybunz ; Mestaman
-Amazon Painforest,Cata,4,2,1091,30.31 ± 4.1,3825,Protoss,Zeman ; Bobalicious ; Unholy ; Winze,Emil ; Kevin
-Amazon Painforest,ShOckWavE,3,1,1078,31.16 ± 4.4,4552,Zerg,PeeAndKeele ; Gyalgatine ; Sunflasher,Slumdog
-Amazon Primal,bleatongordy,2,5,924,20.02 ± 3.9,3113,Terran,liquid ; colonelxc,MrSleep ; Syrril ; LilPinkBoba ; TheGladiator ; MrJin
-Amazon Primal,Theios,0,4,893,15.99 ± 5.5,3678,Zerg,,Philosotoss ; Velvacaine ; GritBear ; danceparty
-IBM Virtual Private Carriers,ITmedic,0,3,867,12.52 ± 5.1,0,Terran,,Winze ; Kerms ; Ender
-RHECS,ChozSun,0,6,828,14.60 ± 4.3,2007,Terran,,MyKill ; Velvacaine ; Taeho ; ViceAdmiral ; Slumdog ; MrJin
-Garmin Fenix,Unholy,3,4,950,23.21 ± 3.8,3646,Zerg,Nitrous ; juice ; BondiolaKing,Zeman ; GreatArchon ; Cata ; Pancakes
-Google 1E100 Ads Per Minute,PeeAndKeele,3,2,1051,29.38 ± 4.3,4237,Terran,Ketse ; Philosotoss ; imaznation,ShOckWavE ; Pancakes
-Google 1E100 Ads Per Minute,whoyou,2,1,1030,26.19 ± 5.3,3414,Random,CepHaLoPoD ; colonelxc,PandaKhan
-Shopify Dropshippers,qmx,0,2,899,14.59 ± 5.4,2053,Terran,,StdyFriend ; Hyz
-Google 1E100 Ads Per Minute,Laybunz,1,1,1002,27.84 ± 5.6,0,Zerg,Liqht,Zeman
-Google 1E100 Ads Per Minute,Bobalicious,0,1,957,20.09 ± 7.0,0,Protoss,,Cata
-Amazon Painforest,WhiteRa,2,0,1112,37.48 ± 4.9,0,Protoss,ZESTisBEST ; Alex,
-MSFT-A,LilPinkBoba,4,2,1058,27.92 ± 4.4,4362,Zerg,bleatongordy ; Kerms ; CepHaLoPoD ; StdyFriend,coolwhip ; StoicWilly
-MSFT-A,Kixantrix,3,3,985,23.99 ± 3.3,4055,Terran,wokparty ; Zip ; Ectoplasm,Jackal ; Kisa ; Kisa
-Bloomberg Bloomzerg,Auditor,3,3,1017,28.61 ± 3.6,4432,Protoss,PluTo ; MDM ; LuisG,Arcane ; undertone ; OrangCaramel
-Epic Systims,madscyentist,0,2,950,20.10 ± 6.7,3170,Zerg,,Minkintosh ; StoicWilly
-Garmin Fenix,Minkintosh,1,0,1040,29.21 ± 7.2,2397,Zerg,madscyentist,
-Epic Systims,MxGLasender,3,2,1025,28.39 ± 4.5,4651,Terran,Alex ; Cress ; Winze,juba ; Noodle
-Epic Systims,Pancakes,6,2,1156,33.27 ± 3.4,4839,Protoss,StoicWilly ; PeeAndKeele ; Velvacaine ; Lagforce ; Unholy ; Jackal,AGiantSmurf ; FAir
-Garmin Fenix,Velvacaine,2,2,989,23.63 ± 5.1,0,Protoss,Theios ; ChozSun,Anti ; Pancakes
-Epic Systims,Zeman,2,3,978,26.58 ± 4.3,3496,Zerg,Laybunz ; Unholy,mmun ; Cata ; AGiantSmurf
-Facebook Lingstagram,cindy,0,1,948,19.28 ± 6.4,0,Protoss,,Iceman
-Facebook Lingstagram,Ketse,4,3,1031,29.00 ± 3.3,3685,Terran,Slumdog ; DisCerN ; Ares ; Argyle,PeeAndKeele ; Inkarnate ; brueda
-Facebook Lingstagram,Marshmellow,2,0,1070,31.97 ± 6.0,0,Terran,liquid ; Iceman,
-Peloton Zealot Legs,liquid,2,4,926,19.28 ± 4.0,3114,Terran,BondiolaKing ; StdyFriend,bleatongordy ; MDM ; Marshmellow ; Zip
-Facebook Lingstagram,undertone,3,0,1097,34.34 ± 5.6,3460,Zerg,Auditor ; Majak ; Cots,
-Red Hatlings,CepHaLoPoD,1,4,904,17.89 ± 4.5,0,Zerg,BlueTopaz,FutureNights ; whoyou ; LilPinkBoba ; Arcane
-Red Hatlings,ABlindMan,1,2,988,24.57 ± 4.9,0,Protoss,Iceman,PluTo ; Cicero
-Google A-Movers,Xiv,1,0,1035,28.33 ± 7.2,3389,Zerg,Milkman,
-Micro Pro,Cress,1,2,935,18.85 ± 5.0,2936,Protoss,BondiolaKing,Greghatch ; MxGLasender
-Google ggMail,BondiolaKing,0,3,873,13.87 ± 5.3,3760,Zerg,,liquid ; Cress ; Unholy
-Micro Pro,Bdang,1,0,1033,29.41 ± 6.7,0,Zerg,Maarfon,
-Google Xpendables,BlueTopaz,0,3,875,14.06 ± 5.2,2432,Protoss,,CepHaLoPoD ; Lagforce ; Arioch
-Facebook Lingstagram,quarkral,0,3,915,18.36 ± 5.4,2800,Terran,,Alephnaut ; Infinity ; Mestaman
-Facebook Lingstagram,TBSS,0,4,910,17.93 ± 5.5,3365,Terran,,TallMonster ; tskuzzy ; Inkarnate ; brueda
-Amazon Painforest,Noodle,2,1,1093,34.03 ± 4.9,4392,Terran,MrJin ; MxGLasender,StoicWilly
-Facebook Zuckerzerg,Frontstab,3,1,1126,35.78 ± 4.1,4066,Terran,Mestaman ; DisCerN ; FearCat,ZESTisBEST
-Epic Systims,Calm,0,4,884,16.55 ± 5.1,0,Zerg,,Anelit ; Vdek ; Liqht ; tskuzzy
-Google ggMail,IGotPlanz,0,3,912,18.44 ± 5.5,2812,Random,,nowitzki ; Zip ; MrJin
-Google ggMail,IslandCow,1,1,977,20.59 ± 5.5,2449,Terran,Cots,Sunflasher
-Google Xpendables,StagaDish,1,2,971,23.68 ± 4.4,3329,Zerg,Arcane,Syzygy ; Kisa
-Shopify Dropshippers,Ares,0,3,904,17.01 ± 5.4,2461,Zerg,,WryWonder ; Ketse ; wokparty
-MSFT-A,TheGladiator,3,1,1098,31.87 ± 4.6,4879,Protoss,Vdek ; Syrril ; bleatongordy,AGiantSmurf
-MSFT-B,Noobtoss,1,0,1027,27.40 ± 7.2,2585,Protoss,Cots,
-IBM Virtual Private Carriers,Anti,2,1,1048,28.27 ± 5.0,0,Zerg,Velvacaine ; Hyz,fuinkaze
-MSFT-B,LuisG,0,2,952,20.92 ± 6.4,0,Terran,,Auditor ; StoicWilly
-RHECS,ogreinside,0,2,911,15.24 ± 5.7,0,Zerg,,Rook ; MDM
-RHECS,juliuspark,0,1,952,18.39 ± 6.4,0,Protoss,,Sunflasher
-Google Xpendables,Jasonion,0,2,909,15.80 ± 5.7,2830,Zerg,,Philosotoss ; Quirkedkirk
-Micro Pro,Ectoplasm,0,2,938,19.19 ± 6.1,0,Zerg,,Kixantrix ; FAir
-Shopify Dropshippers,protoaST,1,1,996,24.80 ± 5.6,0,Protoss,MrSleep,PandaKhan
-Micro Pro,nStrage,1,0,1030,28.62 ± 6.9,0,Terran,Hyz,
-MSFT-B,DARKARTY,1,0,1034,29.74 ± 6.6,0,Terran,Nitrous,
-Facebook Lingstagram,Syngularity,1,1,1021,25.89 ± 5.5,2923,Protoss,Atlantean,Cicero
-IBM Virtual Private Carriers,Treher,0,1,946,16.88 ± 6.3,2859,Protoss,,OneShotKilla
-MSFT-B,OooLaLa,0,1,995,24.30 ± 7.8,0,Terran,,Zero
-Epic Systims,Pikmet,0,1,973,21.16 ± 6.8,3914,Protoss,,Ender
-Addeparchon,mmun,1,0,1042,31.24 ± 6.5,0,Zerg,Zeman,
-RHECS,TheDoctor,0,1,957,18.40 ± 6.2,0,Zerg,,Anelit
-Google 1E100 Ads Per Minute,BicepCurls,0,1,995,24.31 ± 7.8,0,Zerg,,Zero
+Team Name,Name,Wins,Losses,Elo (avg=1000),Trueskill Rating (avg=25),Peak MMR,zero Number,Race,Players Defeated,Players Lost To
+AltSource,Garett,6,3,1085,29.15 ± 3.5,3846,4,Zerg,Arcane ; KinCornKarn ; Iceman ; Iceman ; MsWolf ; Galoubet,whsper ; DarthNoob ; StoicWilly
+Facebook Zuckerzerg,Arcane,18,16,1064,29.31 ± 1.7,4415,4,Protoss,Inkarnate ; Cicero ; TallMonster ; Taeho ; GreatArchon ; GreatArchon ; Auditor ; DisCerN ; LatinPride ; Infinity ; Atlantean ; icyCow ; DonRagu ; FearCat ; shengy ; CepHaLoPoD ; Maarfon ; QTWO,StagaDish ; Wailord ; Vdek ; Garett ; YolBolsun ; YolBolsun ; TwoBaneZ ; GritBear ; tso ; qxc ; FAir ; FAir ; brueda ; brueda ; danceparty ; ZESTisBEST
+AltSource,MADMDK,1,5,869,15.89 ± 4.4,2503,,Protoss,lifehckr,Jackal ; Phate ; Pacifists ; LuMorY ; Enterprise
+Facebook Heart,Enterprise,7,3,1141,31.44 ± 3.6,4624,4,Zerg,Alken ; DOJ ; rezecib ; kelvinzhong ; MUSTARDTIGER ; MADMDK ; xale,BounD ; BounD ; brueda
+Facebook Heart,Mantric,2,4,926,23.11 ± 4.2,4346,6,Zerg,McStruthers ; halflings,Infinity ; Unknown ; Kolo ; Inkarnate
+AltSource,McStruthers,4,3,1042,27.74 ± 4.4,2817,6,Terran,Anelit ; Trizar ; owlerX ; FarFetchd,Mantric ; Kitagawa ; Kitagawa
+AltSource,Violett,1,2,966,22.27 ± 5.3,0,7,Zerg,Atlantean,Chiy ; nalakuwala
+Facebook Heart,nalakuwala,5,3,1091,29.20 ± 3.9,4626,5,Zerg,wokparty ; Treadle ; seu ; Violett ; Nebula,HawaiiRice ; keelar ; keelar
+Bloomberg Bloomzerg,brueda,26,13,1280,33.12 ± 1.6,5021,3,Zerg,StoicWilly ; Mestaman ; Inkarnate ; Katfish ; Alken ; Enterprise ; bScherm ; whsper ; whsper ; Puzzle ; Arcane ; Arcane ; UWUMcSwagXD ; SourSpinach ; MDM ; Ketse ; LuMorY ; Gyalgatine ; KingOfRage ; Laserath ; CODADarson ; DaFoo ; rpenguin ; TBSS ; Iceman ; CliKing,rezecib ; PluTo ; NaCl ; NaCl ; AGiantSmurf ; Mestaman ; OrangCaramel ; OrangCaramel ; OrangCaramel ; juno ; juno ; juno ; KawaiiRice
+MSFT-A,KingOfRage,6,5,996,25.00 ± 2.9,3738,4,Zerg,Taeho ; Treadle ; Infinity ; MrJefferson ; FireFerret ; Cosmic,Jackal ; Maphtar ; BounD ; PluTo ; brueda
+Microsoft Macrohard,rpenguin,1,2,971,22.67 ± 5.5,3493,8,Terran,sineon,Fent ; brueda
+Bloomberg Bloomzerg,Infinity,10,12,978,26.65 ± 2.2,4404,3,Protoss,You ; bScherm ; MaximumSnail ; Sunflasher ; Mantric ; MrSleep ; quarkral ; CliKing ; DanStraight ; Argyle,KingOfRage ; Foggy ; Arcane ; bScherm ; ViceAdmiral ; You ; DarkZero ; Alken ; OrangCaramel ; juno ; ZESTisBEST ; ZESTisBEST
+Bloomzerg,sustorm,1,3,919,19.66 ± 4.8,0,4,Protoss,Krayze,MrJefferson ; seu ; ZESTisBEST
+Microsoft Macrohard,Krayze,10,4,1151,33.46 ± 2.9,0,3,Zerg,Turing ; Zip ; Taeho ; SourSpinach ; BounD ; REALLYANGRY ; BilboBagins ; FutureNights ; FireFerret ; Greghatch,sustorm ; Katfish ; Turing ; Kevin
+Bloomzerg,Youiur,0,6,826,13.57 ± 4.8,3416,,Zerg,,Anelit ; Syrril ; Taeho ; whsper ; fuinkaze ; MrNovember
+MSFT-A,fuinkaze,18,10,1132,30.82 ± 2.1,4243,3,Protoss,FAir ; Zip ; joLin ; Anti ; GreatArchon ; Kisa ; icyCow ; MrJefferson ; HowieZ ; Projekt ; Thames ; Nitrous ; juice ; DanStraight ; Maarfon ; DJRUFIO ; Youiur ; Argyle,Syrril ; eXiled ; Emil ; keelar ; Katfish ; Inkarnate ; tso ; qxc ; OrangCaramel ; StoicWilly
+Eagleview SC2,DJRUFIO,5,13,829,19.39 ± 2.8,3212,7,Terran,Sunflasher ; Dejanigma ; MAznDragon ; KGBXaiver ; sineon,Argyle ; StdyFriend ; FireFerret ; Philosotoss ; Laserath ; Saichotic ; Zip ; wokparty ; fuinkaze ; Kitagawa ; NaCl ; StoicWilly ; StoicWilly
+Garmin Fenix,Sunflasher,4,8,954,22.24 ± 3.4,3344,,Protoss,IslandCow ; juliuspark ; SophieG ; Galoubet,DJRUFIO ; MrJefferson ; Alex ; Infinity ; sandboX ; Spectre ; ShOckWavE ; juno
+Eagleview SC2,Mannered,15,5,1201,33.02 ± 2.5,4265,3,Terran,Kolo ; Zip ; CowInAPie ; Anelit ; Gokhan ; empathe ; Pacifists ; ZeroCool ; TYTY ; Jakers ; Thames ; TabulaRasa ; KinCornKarn ; PapaGil ; Argyle,Zip ; MrJin ; AGiantSmurf ; juno ; StoicWilly
+Garmin Fenix,MrJin,14,2,1191,32.87 ± 3.5,3804,4,Protoss,Mannered ; DisCerN ; Expendable ; Maphtar ; rskaliotis ; halflings ; Projekt ; bleatongordy ; Lackthereof ; Lackthereof ; IGotPlanz ; ChozSun ; FarFetchd ; FarFetchd,Noodle ; bablit
+Garmin Fenix,PapaGil,1,6,864,18.02 ± 4.3,2772,8,Zerg,MaximumSnail,Majak ; Tiran ; Pacifists ; commamloser ; SourSpinach ; Mannered
+Eagleview SC2,Maphtar,9,13,965,22.35 ± 2.3,3330,5,Terran,Syrril ; Anelit ; KingOfRage ; DaFoo ; MrSleep ; Evan ; Nebula ; Nebula ; Cots,MyKill ; Shardarki ; DaFoo ; DisCerN ; Vutalisk ; Vutalisk ; GreatArchon ; PluTo ; Foggy ; bablit ; MrJin ; StoicWilly ; MrNovember
+Eagleview SC2,Trizar,0,2,929,18.60 ± 6.4,2640,,Terran,,BadassGinger ; McStruthers
+Garmin Fenix,BadassGinger,1,5,852,16.79 ± 4.2,2674,,Terran,Trizar,MUSTARDTIGER ; MrJefferson ; ZeroCool ; LatinPride ; LuMorY
+Google A-Movers,Alken,15,9,1143,29.67 ± 2.0,4504,3,Protoss,frugs ; wokparty ; Taeho ; Taeho ; PluTo ; PluTo ; SourSpinach ; Arioch ; Vutalisk ; Infinity ; segv ; owlerX ; sineon ; sineon ; Galoubet,FutureNights ; seu ; Enterprise ; frugs ; Slumdog ; Turing ; brueda ; juno ; KawaiiRice
+Facebook Zuckerzerg,frugs,13,8,1179,31.26 ± 2.2,4686,4,Zerg,Kevin ; Alken ; Fent ; Anelit ; rezecib ; CheriLady ; Alex ; icyCow ; FearCat ; Syrril ; Feniks ; FireFerret ; colonelxc,rezecib ; You ; DarkZero ; Alken ; Cicero ; tso ; Kevin ; MrNovember
+Google A-Movers,You,13,6,1126,31.52 ± 2.5,3715,4,Terran,frugs ; StirFry ; Spectre ; Wailord ; Wailord ; DisCerN ; Arioch ; Infinity ; BilboBagins ; FearCat ; FireFerret ; Nitrous ; MsWolf,Infinity ; CowInAPie ; Crilmon ; danceparty ; juno ; ZESTisBEST
+Facebook Zuckerzerg,PluTo,18,12,1046,31.24 ± 1.8,4490,2,Protoss,Kevin ; brueda ; tso ; Slumdog ; Cicero ; chelseafan ; Taeho ; pzlin ; Gyalgatine ; KingOfRage ; ABlindMan ; Pacifists ; Maphtar ; Jackal ; FutureNights ; HawaiiRice ; Thames ; Rook,BilboBagins ; Auditor ; DarkZero ; Alken ; Alken ; Slumdog ; TwoBaneZ ; SilverBullet ; Emil ; Mestaman ; StoicWilly ; MrNovember
+Google BetaStars,HawaiiRice,1,4,918,21.00 ± 4.6,3954,6,Random,nalakuwala,shengy ; LatinPride ; PluTo ; DarkZero
+Facebook Zuckerzerg,SourSpinach,20,17,1039,29.95 ± 1.7,4793,2,Protoss,Kevin ; OrangCaramel ; AGiantSmurf ; Inkarnate ; SilverBullet ; Cicero ; Cicero ; Cicero ; Puzzle ; LuMorY ; JimGaynor ; Allen ; ReMiiX ; commamloser ; BigJoeLogs ; Pacifists ; Lagforce ; Syzygy ; MyKill ; PapaGil,shengy ; Gyalgatine ; Zip ; YolBolsun ; Alken ; Krayze ; Katfish ; Turing ; Inkarnate ; brueda ; Mestaman ; Mestaman ; OrangCaramel ; OrangCaramel ; ZESTisBEST ; Zero ; Zero
+Google 1E100 Ads Per Minute,Cicero,12,9,1174,30.39 ± 2.2,4521,4,Protoss,NaCl ; frugs ; ThEUnKnowN ; Alpha ; UWUMcSwagXD ; Syngularity ; DisCerN ; DisCerN ; ABlindMan ; shengy ; sergeydr ; xale,Arioch ; MDM ; SourSpinach ; SourSpinach ; SourSpinach ; IIIIIIIIIIII ; PluTo ; Arcane ; ZESTisBEST
+Google BetaStars,rezecib,4,6,1007,28.29 ± 3.1,4377,4,Zerg,brueda ; frugs ; joLin ; sineon,Wailord ; Enterprise ; frugs ; keelar ; Kevin ; MrNovember
+Facebook Legacy,Wailord,5,4,1034,29.78 ± 3.3,4578,4,Zerg,GritBear ; Arcane ; Fran ; rezecib ; Jackal,DarthNoob ; You ; You ; MrNovember
+IBM Virtual Private Carriers,GreatArchon,20,18,1034,26.67 ± 1.8,4245,4,Terran,StirFry ; DOJ ; chelseafan ; LuMorY ; AlexD ; Maphtar ; Unholy ; Alephnaut ; MrJefferson ; MrJefferson ; Tiran ; Tiran ; baemax ; Jackal ; Nitrous ; lifehckr ; Cots ; Winze ; Argyle ; Galoubet,Gyalgatine ; Fran ; SadKeev ; chelseafan ; Arcane ; Arcane ; fuinkaze ; Slumdog ; Katfish ; Inkarnate ; GritBear ; FAir ; FAir ; StoicWilly ; StoicWilly ; StoicWilly ; StoicWilly ; MrNovember
+Facebook Wings,baemax,1,2,956,20.82 ± 5.4,3591,,Zerg,VoxVeritas,GreatArchon ; DarthNoob
+I BM,VoxVeritas,0,3,888,15.28 ± 5.6,2761,,Zerg,,Projekt ; baemax ; Zip
+Facebook Wings,Littlenold,1,3,927,19.02 ± 5.2,3672,,Zerg,RexAliquid,MorOs ; Treadle ; KiDZ
+IBM Raiders,Treadle,5,5,1011,26.33 ± 3.2,3770,4,Terran,LatinPride ; BilboBagins ; Littlenold ; KinCornKarn ; sergeydr,KingOfRage ; Vutalisk ; Puzzle ; nalakuwala ; juno
+Facebook Wings,StirFry,5,3,1074,25.87 ± 3.9,3009,9,Protoss,Tarnasa ; Bumblebee ; Tetto ; Evan ; MsWolf,Vauxhall ; GreatArchon ; You
+Google Proxy Batch,Expendable,3,4,975,23.80 ± 3.9,3614,6,Protoss,Anelit ; LatinPride ; Projekt,Taeho ; joLin ; MrJin ; StoicWilly
+Findex Fast Expand,Anelit,11,10,1020,22.42 ± 2.3,3387,5,Zerg,Atlantean ; TheDoctor ; Dejanigma ; Pocari ; MUSTARDTIGER ; Greghatch ; Calm ; StdyFriend ; Youiur ; lifehckr ; Galoubet,Daggerfield ; Iceman ; Maphtar ; Expendable ; Vdek ; McStruthers ; wokparty ; Newbi ; frugs ; Mannered
+Findex (AUS),JimGaynor,5,3,1017,25.70 ± 3.8,3424,6,Terran,DarthNoob ; MrJefferson ; Phate ; CulperAgent ; owlerX,FarFetchd ; DisCerN ; SourSpinach
+Google Proxy Batch,DarthNoob,6,4,1117,30.06 ± 3.2,3336,5,Protoss,Garett ; Wailord ; baemax ; MyKill ; MrSleep ; Maarfon,JimGaynor ; Zip ; juno ; StoicWilly
+Findex Fast Expand,MyKill,5,12,924,21.32 ± 2.8,3050,6,Protoss,Maphtar ; CAholder ; smokeygun ; StdyFriend ; ChozSun,imaznation ; MUSTARDTIGER ; MaximumSnail ; Funkytown ; CowInAPie ; SourSpinach ; DarthNoob ; Liqht ; Kitagawa ; Katfish ; GritBear ; NaCl
+Findex Fast Expand,StoicWilly,35,8,1315,35.54 ± 1.8,4962,3,Terran,juno ; FAir ; AGiantSmurf ; AGiantSmurf ; AGiantSmurf ; Mannered ; fuinkaze ; DarthNoob ; Newbi ; Noodle ; Garett ; Alpha ; wokparty ; LilPinkBoba ; PluTo ; GreatArchon ; GreatArchon ; GreatArchon ; GreatArchon ; Fran ; Gokhan ; Gokhan ; Expendable ; maybecake ; Maphtar ; LuisG ; madscyentist ; halflings ; Lackthereof ; Nitrous ; imaznation ; Iceman ; DJRUFIO ; DJRUFIO ; FarFetchd,Puzzle ; Liqht ; Kitagawa ; Pancakes ; brueda ; OrangCaramel ; juno ; MrNovember
+Wraitheon,FireFerret,3,6,922,23.03 ± 3.6,3782,7,Terran,MorOs ; Daggerfield ; DJRUFIO,KingOfRage ; Fran ; You ; Krayze ; frugs ; MrNovember
+Ok Googler,Fran,6,7,1021,26.82 ± 2.9,4530,5,Terran,GreatArchon ; Spitfire ; MrSleep ; FireFerret ; Nitrous ; Starviper,shengy ; seu ; Wailord ; Slumdog ; Inkarnate ; juno ; StoicWilly
+Google A-Movers,Gyalgatine,13,13,1019,27.89 ± 1.9,4544,3,Terran,keelar ; Slumdog ; DOJ ; SourSpinach ; GreatArchon ; Vutalisk ; Gokhan ; Atlantean ; Dejanigma ; Jackal ; Greghatch ; Greghatch ; Starviper,Feniks ; Alephnaut ; PluTo ; ShOckWavE ; Puzzle ; YolBolsun ; Crilmon ; brueda ; danceparty ; juno ; Kevin ; Kevin ; MrNovember
+Alexa 12 Pool,Slumdog,19,9,1184,32.56 ± 1.9,4616,2,Terran,OrangCaramel ; NaCl ; Alken ; Newbi ; ShOckWavE ; Taeho ; PluTo ; GreatArchon ; LuMorY ; Fran ; Alephnaut ; shengy ; shengy ; Nitrous ; Iceman ; Hyz ; ChozSun ; Winze ; Winze,Gyalgatine ; Ketse ; PluTo ; Taeho ; SilverBullet ; Turing ; Inkarnate ; GritBear ; danceparty
+Google A-Movers,SilverBullet,9,4,1188,32.69 ± 2.8,4561,3,Terran,Slumdog ; Puzzle ; Kolo ; PluTo ; Malk ; icyCow ; imaznation ; Hyz ; Hyz,SourSpinach ; YolBolsun ; NaCl ; MrNovember
+Wraitheon,Puzzle,6,5,1088,30.08 ± 2.8,4527,4,Protoss,StoicWilly ; DOJ ; DOJ ; Gyalgatine ; Treadle ; seu,SourSpinach ; SilverBullet ; NaCl ; brueda ; OrangCaramel
+RHECS,Nitrous,7,13,907,23.16 ± 2.4,3262,4,Terran,LuMorY ; Kisa ; juba ; clahey ; clahey ; PanDasoul ; Daggerfield,Unholy ; Alex ; juba ; Fran ; DARKARTY ; GreatArchon ; chelseafan ; TallMonster ; You ; fuinkaze ; Slumdog ; StoicWilly ; MrNovember
+Google Noobernetes,clahey,0,2,929,19.01 ± 6.6,2046,,Terran,,Nitrous ; Nitrous
+Red Hat Hatlings,Bobsponge,0,2,932,18.75 ± 6.3,2823,,Zerg,,halflings ; joLin
+Google Cannon Platform,halflings,5,6,933,22.66 ± 3.4,3265,5,Zerg,Bobsponge ; MrSleep ; Jakers ; MsWolf ; Winze,Mantric ; Arkane ; pzlin ; MrJin ; StoicWilly ; Kevin
+Google Noobernetes,MUSTARDTIGER,4,6,921,20.38 ± 3.4,2470,7,Terran,MyKill ; BadassGinger ; KGBXaiver ; sergeydr,MrSleep ; Vauxhall ; Anelit ; Vutalisk ; Arioch ; Enterprise
+RHECS,MrSleep,6,12,924,20.81 ± 2.5,3549,4,Zerg,Kevin ; Phate ; bleatongordy ; MUSTARDTIGER ; juice ; juice,halflings ; Maphtar ; Infinity ; protoaST ; Fran ; LuMorY ; vTakker ; KiDZ ; DOJ ; Kolo ; DarthNoob ; Kevin
+Red Hatlings,patch,0,5,898,17.30 ± 5.8,3035,,Terran,,Tarnasa ; Pacifists ; Fent ; ZESTisBEST ; Zero
+Google Noobernetes,Tarnasa,2,5,907,19.80 ± 4.0,2995,,Terran,patch ; RexAliquid,Jackal ; joLin ; Zip ; StirFry ; Katfish
+Red Hatlings,Zip,17,11,1072,28.53 ± 1.9,4014,2,Zerg,OrangCaramel ; Mannered ; DarthNoob ; SourSpinach ; Kisa ; Kisa ; meTzelmaTz ; Frolic ; Vauxhall ; Syzygy ; liquid ; IGotPlanz ; Tarnasa ; VoxVeritas ; Maarfon ; QTWO ; DJRUFIO,Kixantrix ; LuMorY ; Alpha ; fuinkaze ; YolBolsun ; Krayze ; Mannered ; Inkarnate ; GritBear ; NaCl ; Kevin
+Peloton Zealot Legs,Iceman,10,15,880,22.67 ± 2.1,3681,3,Protoss,juno ; tskuzzy ; Anelit ; Arioch ; cindy ; Pocari ; PanDasoul ; Majak ; Ockie ; Winze,juice ; ABlindMan ; AlexD ; pzlin ; chelseafan ; chelseafan ; Marshmellow ; Garett ; Garett ; DetRice ; tskuzzy ; Slumdog ; brueda ; StoicWilly ; Kevin
+Google Xpendables,Arioch,4,5,999,23.95 ± 3.6,3307,6,Zerg,wokparty ; Sowha ; maryp ; BlueTopaz,Iceman ; LuMorY ; PandaKhan ; You ; juno
+Peloton Zealot Legs,Daggerfield,2,10,847,17.75 ± 3.4,2559,6,Terran,Anelit ; MsWolf,Winze ; Maarfon ; Nitrous ; FireFerret ; DEVD ; BaconPancake ; MaximumSnail ; meTzelmaTz ; DisCerN ; tskuzzy
+Google ggMail,Maarfon,3,6,850,20.10 ± 3.3,3086,7,Zerg,CulperAgent ; KGBXaiver ; Daggerfield,Argyle ; Bdang ; Arcane ; Zip ; DarthNoob ; fuinkaze
+Google YouNube,Nebula,0,6,796,11.72 ± 4.6,0,,Protoss,,Argyle ; Rook ; Maphtar ; Maphtar ; Laserath ; nalakuwala
+Peloton Zealot Legs,Argyle,5,20,742,18.47 ± 2.3,3005,7,Zerg,Sup ; Maarfon ; DJRUFIO ; lifehckr ; Nebula,Thames ; Jackal ; Pacifists ; Infinity ; BigJoeLogs ; WryWonder ; WryWonder ; Ketse ; GreatArchon ; PandaKhan ; PandaKhan ; wokparty ; DetRice ; Newbi ; Newbi ; fuinkaze ; Mannered ; NaCl ; juno ; MrNovember
+Google YouNube,xale,1,7,828,16.58 ± 4.1,3041,,Zerg,RexAliquid,IIIIIIIIIIII ; Dejanigma ; Gokhan ; pzlin ; Kitagawa ; Enterprise ; Cicero
+Peloton Zealot Legs,Kitagawa,14,3,1138,31.38 ± 3.1,4659,4,Terran,StoicWilly ; DetRice ; McStruthers ; McStruthers ; LuMorY ; GeLouKo ; MrJefferson ; Feniks ; MyKill ; shengy ; sergeydr ; DJRUFIO ; xale ; Galoubet,Alex ; DetRice ; tskuzzy
+Shopify Dropshippers,Alephnaut,12,17,961,25.15 ± 2.0,4547,4,Terran,tskuzzy ; Lyte ; Taeho ; Taeho ; nowitzki ; Gyalgatine ; Alex ; SagittariusG ; FearCat ; IIIIIIIIIIII ; quarkral ; Galoubet,FearCat ; ZergGirl ; GreatArchon ; DOJ ; Chiy ; ThEUnKnowN ; ViceAdmiral ; Slumdog ; Katfish ; OrangCaramel ; OrangCaramel ; danceparty ; juno ; ZESTisBEST ; KawaiiRice ; KawaiiRice ; Kevin
+VISARD,SagittariusG,0,1,960,20.79 ± 7.2,0,,Terran,,Alephnaut
+Shopify Dropshippers,BounD,8,7,1008,29.21 ± 2.8,4774,4,Protoss,Enterprise ; Enterprise ; Vdek ; KingOfRage ; Vauxhall ; PandaLove ; shengy ; Tetto,Krayze ; TwoBaneZ ; Turing ; Turing ; Mestaman ; Zero ; Zero
+VISARD,Tetto,0,4,849,12.94 ± 5.0,0,,Zerg,,Syzygy ; Sup ; BounD ; StirFry
+Shopify Our CEO Plays Zerg,HaZe,1,0,1040,29.21 ± 7.2,2872,10,Protoss,MsWolf,
+VISARD,MsWolf,1,8,795,13.49 ± 3.9,0,9,Protoss,Evan,Daggerfield ; Jackal ; halflings ; HowieZ ; HaZe ; StirFry ; Garett ; You
+United E-commerce Directorate,seu,6,8,996,26.81 ± 2.6,4579,4,Zerg,Alken ; YolBolsun ; Fran ; Alien ; sustorm ; owlerX,Puzzle ; nalakuwala ; TwoBaneZ ; GritBear ; AGiantSmurf ; Kevin ; Kevin ; Zero
+VISARD,owlerX,0,5,857,15.89 ± 5.4,0,,Protoss,,Galoubet ; seu ; JimGaynor ; McStruthers ; Alken
+Ok Googler,Turing,10,7,1210,35.20 ± 2.2,4942,3,Zerg,juno ; juno ; Inkarnate ; Slumdog ; Krayze ; Alken ; DarkZero ; SourSpinach ; BounD ; BounD,YolBolsun ; Krayze ; keelar ; NaCl ; Mestaman ; ZESTisBEST ; KawaiiRice
+Alexa 12 Pool,DarkZero,4,1,1132,33.60 ± 4.2,5476,3,Protoss,frugs ; PluTo ; Infinity ; HawaiiRice,Turing
+Google AlphaStars,Fent,6,1,1135,30.37 ± 4.1,4541,3,Terran,Mestaman ; REALLYANGRY ; rpenguin ; MorOs ; Spitfire ; patch,frugs
+Alexa 12 Pool,Mestaman,23,8,1289,37.75 ± 1.8,5287,2,Protoss,juno ; OrangCaramel ; brueda ; NaCl ; Inkarnate ; Turing ; keelar ; Crilmon ; YolBolsun ; Liqht ; tom ; KiDZ ; PluTo ; SourSpinach ; SourSpinach ; Arioch ; BounD ; Philosotoss ; DonRagu ; IIIIIIIIIIII ; quarkral ; Thames ; maryp,Frontstab ; Fent ; Emil ; FAir ; brueda ; OrangCaramel ; MrNovember ; MrNovember
+Amazon Painforest,MrNovember,22,1,1449,41.57 ± 2.6,5440,2,Zerg,Kevin ; StoicWilly ; OrangCaramel ; OrangCaramel ; Mestaman ; Mestaman ; SilverBullet ; frugs ; eXiled ; PluTo ; GreatArchon ; Wailord ; Gyalgatine ; rezecib ; DisCerN ; Maphtar ; FutureNights ; FireFerret ; Nitrous ; Youiur ; FarFetchd ; Argyle,OrangCaramel
+Google A-Movers,OrangCaramel,27,15,1292,35.46 ± 1.5,5234,1,Protoss,Zero ; MrNovember ; StoicWilly ; juno ; Mestaman ; brueda ; brueda ; brueda ; YolBolsun ; fuinkaze ; bablit ; Puzzle ; Lyte ; Kolo ; joLin ; Taeho ; SourSpinach ; SourSpinach ; Auditor ; Infinity ; Alephnaut ; Alephnaut ; MrJefferson ; HowieZ ; shengy ; Cosmic ; Winze,SourSpinach ; Zip ; bScherm ; Slumdog ; keelar ; tso ; Mestaman ; juno ; juno ; ZESTisBEST ; ZESTisBEST ; MrNovember ; MrNovember ; Zero ; Zero
+Alexa 12 Pool,ZESTisBEST,29,7,1299,38.02 ± 1.9,5411,2,Protoss,juno ; OrangCaramel ; OrangCaramel ; Inkarnate ; Turing ; TwoBaneZ ; Cicero ; Ender ; You ; Frontstab ; Rainier ; ThEUnKnowN ; Arcane ; SourSpinach ; DisCerN ; DisCerN ; NYAAAA ; Infinity ; Infinity ; Shardarki ; Alephnaut ; icyCow ; FearCat ; sustorm ; Jakers ; shengy ; imaznation ; patch ; Cosmic,Kolo ; WhiteRa ; keelar ; Zero ; Zero ; Zero ; Zero
+Amazon Painforest,Feniks,1,3,935,20.26 ± 4.9,3526,4,Protoss,Gyalgatine,Alex ; Kitagawa ; frugs
+Alexa 12 Pool,Kevin,25,11,1359,32.88 ± 1.5,4984,3,Protoss,juno ; danceparty ; NaCl ; NaCl ; Emil ; frugs ; Krayze ; Zip ; pzlin ; Gyalgatine ; Gyalgatine ; rezecib ; seu ; seu ; Alephnaut ; FearCat ; Syzygy ; halflings ; PandaLove ; PandaLove ; MrSleep ; bees ; bees ; Iceman ; smokeygun,MrSleep ; FearCat ; DisCerN ; DisCerN ; SourSpinach ; PluTo ; DOJ ; frugs ; TwoBaneZ ; juno ; MrNovember
+Amazon Primal,Taeho,9,12,1053,24.05 ± 2.3,3846,3,Protoss,Slumdog ; LuMorY ; Expendable ; olaf ; DanStraight ; ChozSun ; Youiur ; RexAliquid ; Winze,Pocari ; Alephnaut ; Alephnaut ; KingOfRage ; Syrril ; PluTo ; Arcane ; Alken ; Alken ; Krayze ; Slumdog ; OrangCaramel
+Facebook Zuckerzerg,keelar,11,2,1201,36.00 ± 3.1,4878,2,Zerg,ZESTisBEST ; OrangCaramel ; Turing ; fuinkaze ; nalakuwala ; nalakuwala ; rezecib ; Pacifists ; TheMageGuy ; Vauxhall ; Syzygy,Gyalgatine ; Mestaman
+Amazon Painforest,TheMageGuy,0,1,960,20.79 ± 7.2,3704,,Protoss,,keelar
+Bloomberg Bloomzerg,FearCat,4,9,952,24.04 ± 3.0,3575,4,Terran,Kevin ; Funkytown ; Alephnaut ; Winze,Alephnaut ; Arcane ; Frontstab ; You ; frugs ; juno ; juno ; ZESTisBEST ; Kevin
+Bloomzerg,shengy,7,12,912,25.75 ± 2.4,3966,3,Zerg,SourSpinach ; Fran ; Allen ; DEVD ; HawaiiRice ; Bumblebee ; KGBXaiver,BounD ; nowitzki ; Arcane ; Lyte ; Kitagawa ; Cicero ; eXiled ; Slumdog ; Slumdog ; Katfish ; OrangCaramel ; ZESTisBEST
+Facebook Lingstagram,Katfish,11,2,1207,36.16 ± 3.0,4175,3,Protoss,Krayze ; fuinkaze ; SourSpinach ; GreatArchon ; Kronya ; juba ; Alex ; Alephnaut ; MyKill ; shengy ; Tarnasa,qxc ; brueda
+Facebook Zuckerzerg,juno,31,9,1295,35.62 ± 1.7,4854,2,Zerg,Kevin ; StoicWilly ; OrangCaramel ; OrangCaramel ; brueda ; brueda ; brueda ; NaCl ; NaCl ; GritBear ; Mannered ; Alken ; You ; DarthNoob ; Foggy ; DOJ ; Fran ; Gyalgatine ; Treadle ; ReMiiX ; Arioch ; LatinPride ; Infinity ; Alex ; Alephnaut ; Sunflasher ; FearCat ; FearCat ; Jackal ; Evan ; Argyle,Iceman ; Turing ; Turing ; Mestaman ; OrangCaramel ; ZESTisBEST ; StoicWilly ; Kevin ; Zero
+Capital OneA,MaximumSnail,2,2,971,20.63 ± 4.7,3200,7,Zerg,MyKill ; Daggerfield,PapaGil ; Infinity
+Capital OneA,MrJefferson,5,7,959,24.11 ± 3.1,4103,5,Protoss,Arkane ; Sunflasher ; Vauxhall ; sustorm ; BadassGinger,KingOfRage ; JimGaynor ; GreatArchon ; GreatArchon ; fuinkaze ; Kitagawa ; OrangCaramel
+Capital OneA,Pocari,2,4,940,20.24 ± 4.1,3006,4,Terran,Taeho ; TabulaRasa,Iceman ; Alex ; Anelit ; wokparty
+Eagleview SC2,DEVD,1,2,953,20.49 ± 5.5,2814,7,Protoss,Daggerfield,shengy ; Chiy
+Google Proxy Batch,Chiy,3,1,1064,27.80 ± 4.8,3343,5,Zerg,Violett ; Alephnaut ; DEVD,joLin
+Google 1E100 Ads Per Minute,Alex,7,9,966,25.71 ± 2.6,3734,5,Zerg,Kitagawa ; Sunflasher ; Pocari ; Feniks ; Nitrous ; KinCornKarn ; CliKing,Alephnaut ; MxGLasender ; LuMorY ; WhiteRa ; frugs ; Katfish ; Inkarnate ; Inkarnate ; juno
+Eagleview SC2,LuMorY,10,9,1026,25.77 ± 2.4,4166,3,Zerg,Zip ; Saichotic ; Arioch ; CODADarson ; Alex ; TYTY ; OneShotKilla ; MrSleep ; MADMDK ; BadassGinger,Nitrous ; Gokhan ; GreatArchon ; SourSpinach ; Taeho ; Alpha ; Kitagawa ; Slumdog ; brueda
+Google Xpendables,Pacifists,7,6,970,24.94 ± 3.0,3509,5,Zerg,FutureNights ; patch ; MADMDK ; PapaGil ; PanDasoul ; sineon ; Argyle,SourSpinach ; PluTo ; tom ; tskuzzy ; Mannered ; keelar
+Google YouNube,ZeroCool,2,3,967,21.66 ± 4.2,2955,5,Protoss,FutureNights ; BadassGinger,Sup ; kelvinzhong ; Mannered
+Eagleview SC2,PanDasoul,0,4,862,14.69 ± 5.2,3281,,Protoss,,Iceman ; Nitrous ; MorOs ; Pacifists
+Facebook Wings,LatinPride,4,4,994,23.50 ± 3.7,0,7,Random,HawaiiRice ; SophieG ; BadassGinger ; FarFetchd,Expendable ; Treadle ; Arcane ; juno
+Google BetaStars,KiDZ,3,1,1047,27.31 ± 5.0,3624,5,Protoss,rskaliotis ; Littlenold ; MrSleep,Mestaman
+Facebook Wings,segv,0,1,964,21.68 ± 7.2,3499,,Zerg,,Alken
+Findex (AUS),lifehckr,0,5,822,12.28 ± 4.8,0,,Protoss,,Argyle ; MADMDK ; Atlantean ; Anelit ; GreatArchon
+Findex Fast Expand,Jackal,7,13,932,22.99 ± 2.4,4487,4,Protoss,Kisa ; KingOfRage ; Kixantrix ; Tarnasa ; MADMDK ; MsWolf ; Argyle,commamloser ; Gyalgatine ; Wailord ; GreatArchon ; PluTo ; UWUMcSwagXD ; Foggy ; Foggy ; Alpha ; bScherm ; Pancakes ; qxc ; juno
+Garmin Fenix,KGBXaiver,0,5,849,14.31 ± 4.9,2475,,Terran,,DJRUFIO ; Maarfon ; shengy ; MUSTARDTIGER ; NaCl
+Google YouNube,KinCornKarn,2,5,886,20.35 ± 3.8,3234,,Terran,Kronos ; TabulaRasa,Alex ; Treadle ; DOJ ; Garett ; Mannered
+Garmin Fenix,Kronos,0,1,960,20.79 ± 7.2,0,,Random,,KinCornKarn
+Google YAM,rskaliotis,0,2,936,19.98 ± 6.5,2938,,Terran,,KiDZ ; MrJin
+Garmin Fenix,RexAliquid,1,6,808,13.46 ± 4.0,0,,Random,sergeydr,xale ; Tarnasa ; Littlenold ; REALLYANGRY ; Smitti ; Taeho
+Garmin Fenix,TabulaRasa,0,3,901,16.44 ± 5.6,2705,,Zerg,,KinCornKarn ; Pocari ; Mannered
+Google Noobernetes,Frolic,0,1,965,22.02 ± 7.3,2405,,Terran,,Zip
+Red Hat Hatlings,Vutalisk,6,4,1022,26.47 ± 3.3,3950,5,Zerg,DOJ ; Treadle ; Maphtar ; Maphtar ; MUSTARDTIGER ; sineon,Gyalgatine ; Kolo ; Alken ; NaCl
+Microsoft Bill 4 Gates,DOJ,8,9,1055,26.44 ± 2.5,4246,4,Terran,Kevin ; NaCl ; Alephnaut ; FunkMasterJ ; wtfpwnlzr ; MrSleep ; KinCornKarn ; StdyFriend,Gyalgatine ; Vutalisk ; GreatArchon ; Puzzle ; Puzzle ; Enterprise ; Inkarnate ; NaCl ; juno
+I BM,HowieZ,1,3,937,21.06 ± 5.4,3515,10,Protoss,MsWolf,Unknown ; fuinkaze ; OrangCaramel
+MSFT-A,GritBear,13,3,1224,32.37 ± 2.7,4341,3,Zerg,Slumdog ; Alpha ; Zip ; Arcane ; GreatArchon ; Syrril ; seu ; AlexD ; MorOs ; FutureNights ; MyKill ; TomNook ; Theios,Wailord ; NaCl ; juno
+I BM,MorOs,2,3,962,21.99 ± 4.5,0,,Zerg,Littlenold ; PanDasoul,FireFerret ; Fent ; GritBear
+Shopify Dropshippers,Thadeaus,1,1,999,25.49 ± 6.3,3052,7,Protoss,Shardarki,tsuki
+Raytheon Husky Unit,Shardarki,1,2,971,23.33 ± 5.8,0,6,Zerg,Maphtar,Thadeaus ; ZESTisBEST
+Raytheon Husky Unit,Thames,2,5,911,22.42 ± 3.9,3918,8,Protoss,Selesse ; Argyle,icyCow ; PluTo ; fuinkaze ; Mannered ; Mestaman
+Shopify Our CEO Plays Zerg,Selesse,0,1,960,20.79 ± 7.2,0,,Zerg,,Thames
+AltSource,maryp,0,2,911,15.43 ± 5.9,1893,,Zerg,,Arioch ; Mestaman
+Alexa 12 Pool,whsper,4,2,1106,31.63 ± 4.1,0,5,Protoss,DetRice ; Garett ; Allen ; Youiur,brueda ; brueda
+AltSource,Jakers,0,3,916,18.67 ± 6.0,0,,Terran,,halflings ; Mannered ; ZESTisBEST
+Amazon Painforest,joLin,6,3,1062,27.61 ± 3.5,4393,4,Zerg,TwoBaneZ ; Chiy ; Expendable ; Bobsponge ; Projekt ; Tarnasa,rezecib ; fuinkaze ; OrangCaramel
+Ok Googler,TwoBaneZ,6,2,1186,34.10 ± 3.1,4405,3,Random,Kevin ; Arcane ; PluTo ; CowInAPie ; BounD ; seu,joLin ; ZESTisBEST
+Amazon Painforest,Malk,0,1,964,21.68 ± 7.2,0,,Protoss,,SilverBullet
+Bloomberg Bloomzerg,DisCerN,10,11,1007,27.82 ± 2.2,4086,4,Zerg,Kevin ; Kevin ; JimGaynor ; Laserath ; Maphtar ; imaznation ; imaznation ; Starviper ; Cosmic ; Daggerfield,Ketse ; Arcane ; Frontstab ; You ; YolBolsun ; Cicero ; Cicero ; MrJin ; ZESTisBEST ; ZESTisBEST ; MrNovember
+Google BetaStar,Vauxhall,2,5,946,21.95 ± 4.0,3565,8,Protoss,StirFry ; MUSTARDTIGER,FutureNights ; MrJefferson ; BounD ; Zip ; keelar
+Capital OneA,Projekt,1,4,928,20.38 ± 5.0,3682,,Protoss,VoxVeritas,Expendable ; joLin ; fuinkaze ; MrJin
+Google ggMail,Atlantean,4,6,975,22.55 ± 3.3,2881,6,Protoss,juba ; Yaxhiro ; Rook ; lifehckr,Rook ; Violett ; Gyalgatine ; Anelit ; Syngularity ; Arcane
+Garmin Fenix,Evan,1,7,820,14.46 ± 3.9,2928,8,Zerg,FarFetchd,MsWolf ; Maphtar ; maybecake ; AquAblAck ; Sapientia ; StirFry ; juno
+Garmin Fenix,Tiran,1,2,957,22.47 ± 5.4,0,9,Zerg,PapaGil,GreatArchon ; GreatArchon
+Google Xpendables,sineon,2,10,811,16.44 ± 3.3,3121,7,Terran,Sup ; Lackthereof,DJRUFIO ; juice ; IIIIIIIIIIII ; Pacifists ; rpenguin ; rezecib ; Vutalisk ; WryWonder ; Alken ; Alken
+VISARD,sergeydr,0,5,833,12.48 ± 4.9,0,,Terran,,RexAliquid ; MUSTARDTIGER ; Treadle ; Kitagawa ; Cicero
+Red Hat Hatlings,AlexD,1,2,991,26.61 ± 5.4,3515,4,Terran,Iceman,GreatArchon ; GritBear
+AltSource,CulperAgent,0,2,931,19.00 ± 6.2,0,,Terran,,Maarfon ; JimGaynor
+Capital OneA,REALLYANGRY,1,2,977,23.47 ± 5.9,3902,,Zerg,RexAliquid,Fent ; Krayze
+Capital OneA,Spitfire,0,2,936,20.15 ± 6.6,0,,Protoss,,Fran ; Fent
+Shopify Dropshippers,Inkarnate,18,10,1220,33.19 ± 1.9,4758,3,Terran,Emil ; Slumdog ; fuinkaze ; Lyte ; Zip ; DOJ ; SourSpinach ; GreatArchon ; Ketse ; Fran ; ZergGirl ; AquAblAck ; Laserath ; commamloser ; Alex ; Alex ; Mantric ; TBSS,SourSpinach ; Arcane ; Turing ; NaCl ; NaCl ; brueda ; Mestaman ; danceparty ; ZESTisBEST ; KawaiiRice
+Google 1E100 Ads Per Minute,Syzygy,2,5,941,20.85 ± 4.2,3937,6,Protoss,StagaDish ; Tetto,FutureNights ; SourSpinach ; Zip ; keelar ; Kevin
+Facebook Wings,Unknown,2,0,1074,32.20 ± 6.0,3677,7,Zerg,HowieZ ; Mantric,
+Google YouNube,Galoubet,1,13,726,13.64 ± 3.5,2706,,Zerg,owlerX,Dejanigma ; Sunflasher ; Alephnaut ; Anelit ; CowInAPie ; GreatArchon ; coolwhip ; Kolo ; Garett ; ViceAdmiral ; ViceAdmiral ; Kitagawa ; Alken
+Google YAM,vTakker,1,0,1040,29.84 ± 6.9,3100,5,Terran,MrSleep,
+Google Cannon Platform,FarFetchd,1,9,820,17.37 ± 3.6,3519,7,Protoss,JimGaynor,Evan ; PandaLove ; LatinPride ; McStruthers ; MrJin ; MrJin ; NaCl ; StoicWilly ; MrNovember
+Amazon Painforest,NaCl,24,9,1231,33.32 ± 1.7,4376,3,Protoss,brueda ; brueda ; GritBear ; Inkarnate ; Inkarnate ; Turing ; SilverBullet ; Puzzle ; Zip ; DOJ ; Vutalisk ; Zeman ; Bobalicious ; Unholy ; BaconPancake ; FutureNights ; MyKill ; Bumblebee ; KGBXaiver ; DJRUFIO ; FarFetchd ; Winze ; Winze ; Argyle,DOJ ; Cicero ; Slumdog ; Emil ; Mestaman ; juno ; juno ; Kevin ; Kevin
+Capital OneA,Bumblebee,0,3,885,15.02 ± 5.5,3604,,Zerg,,shengy ; StirFry ; NaCl
+Bloomzerg,AquAblAck,1,1,997,24.00 ± 6.5,0,9,Zerg,Evan,Inkarnate
+Facebook Wings,kelvinzhong,1,1,1002,24.89 ± 5.7,3679,6,Protoss,ZeroCool,Enterprise
+Findex Fast Expand,icyCow,3,6,960,24.21 ± 3.5,3190,9,Zerg,Thames ; TomNook ; StdyFriend,Laserath ; Arcane ; fuinkaze ; frugs ; SilverBullet ; ZESTisBEST
+Findex Fast Expand,Winze,2,16,747,14.03 ± 3.2,2979,7,Protoss,ITmedic ; Daggerfield,DanStraight ; Iceman ; Lackthereof ; halflings ; FearCat ; DonRagu ; MxGLasender ; GreatArchon ; Taeho ; Foggy ; bablit ; Slumdog ; Slumdog ; NaCl ; NaCl ; OrangCaramel
+IBM Raiders,Kolo,7,4,1077,29.67 ± 3.0,4354,3,Terran,ZESTisBEST ; Vutalisk ; Mantric ; FutureNights ; MrSleep ; bees ; Galoubet,Allen ; SilverBullet ; Mannered ; OrangCaramel
+Facebook Heart,BilboBagins,1,3,956,24.56 ± 4.6,3912,3,Zerg,PluTo,Treadle ; You ; Krayze
+Peloton,Phate,1,2,955,19.76 ± 5.0,2661,,Zerg,MADMDK,MrSleep ; JimGaynor
+VISARD,SophieG,0,2,910,15.55 ± 5.8,0,,Zerg,,Sunflasher ; LatinPride
+AltSource,Sup,2,2,975,20.58 ± 4.4,2440,6,Terran,ZeroCool ; Tetto,Argyle ; sineon
+Amazon Painforest,meTzelmaTz,1,1,991,23.49 ± 6.3,4412,7,Zerg,Daggerfield,Zip
+IBM Virtual Private Carriers,wokparty,12,9,1082,25.32 ± 2.3,3308,5,Terran,Anelit ; Philosotoss ; Rob ; Pocari ; Kerms ; Kerms ; Ares ; Rook ; Greghatch ; CliKing ; DJRUFIO ; Argyle,Kixantrix ; Arioch ; sandboX ; ThEUnKnowN ; nalakuwala ; Rainier ; Alken ; Crilmon ; StoicWilly
+Facebook Wings,Arkane,1,1,1005,25.15 ± 5.4,3814,6,Terran,halflings,MrJefferson
+Google Proxy Batch,Alien,0,1,952,18.70 ± 6.5,0,,Terran,,seu
+Shopify Dropshippers,Allen,2,3,1012,26.64 ± 4.1,3729,4,Protoss,Kolo ; Foggy,shengy ; SourSpinach ; whsper
+Amazon Painforest,bablit,5,1,1120,33.13 ± 4.2,3830,5,Terran,MrJin ; Maphtar ; Majak ; Majak ; Winze,OrangCaramel
+Amazon Painforest,commamloser,2,3,991,25.19 ± 4.4,0,5,Zerg,Jackal ; PapaGil,GeLouKo ; SourSpinach ; Inkarnate
+Shopify Dropshippers,FutureNights,4,13,926,22.17 ± 2.8,3550,4,Zerg,Alken ; Vauxhall ; Syzygy ; CepHaLoPoD,ZeroCool ; Pacifists ; tsuki ; MDM ; PluTo ; Kolo ; Ender ; Krayze ; GritBear ; NaCl ; danceparty ; KawaiiRice ; MrNovember
+AMD RyzenG,CowInAPie,3,2,1033,28.93 ± 4.3,0,5,Terran,You ; MyKill ; Galoubet,TwoBaneZ ; Mannered
+AMD RyzenG,Dejanigma,3,4,952,20.71 ± 3.7,3299,6,Zerg,juba ; xale ; Galoubet,DJRUFIO ; ReMiiX ; Gyalgatine ; Anelit
+AMD RyzenG,Gokhan,2,4,983,25.20 ± 4.0,0,4,Protoss,LuMorY ; xale,Gyalgatine ; Mannered ; StoicWilly ; StoicWilly
+Garmin Fenix,juba,6,5,985,24.97 ± 3.1,3938,5,Zerg,MxGLasender ; Smitti ; maybecake ; Feaisil ; Nitrous ; bees,Nitrous ; Dejanigma ; Atlantean ; Liqht ; Katfish
+AMD RyzenG,Spectre,2,1,1049,29.57 ± 5.1,2886,7,Terran,sandboX ; Sunflasher,You
+AMD RyzenG,iWushu,0,1,960,20.79 ± 7.2,0,,Terran,,tskuzzy
+Google 1E100 Ads Per Minute,tskuzzy,12,3,1175,29.20 ± 2.6,3993,4,Zerg,Kitagawa ; Newbi ; PandaKhan ; Pacifists ; maybecake ; iWushu ; Syrril ; IIIIIIIIIIII ; TBSS ; Calm ; Iceman ; Daggerfield,Iceman ; Alephnaut ; DaFoo
+Micro Pro,AGiantSmurf,10,4,1264,35.20 ± 2.7,5711,4,Protoss,brueda ; Mannered ; Pancakes ; TheGladiator ; Lyte ; tsuki ; seu ; Zeman ; MAznDragon ; Majak,SourSpinach ; StoicWilly ; StoicWilly ; StoicWilly
+Apple MacRoPro,Foggy,5,3,1061,27.82 ± 3.4,0,4,Terran,Infinity ; Maphtar ; Jackal ; Jackal ; Winze,Allen ; YolBolsun ; juno
+Apple MacRoPro,Funkytown,1,1,975,20.57 ± 5.8,0,7,Zerg,MyKill,FearCat
+Google YouNube,MAznDragon,0,2,916,16.16 ± 5.8,0,,Protoss,,DJRUFIO ; AGiantSmurf
+Micro Pro,coolwhip,2,0,1073,32.00 ± 6.1,0,10,Terran,LilPinkBoba ; Galoubet,
+Apple MacRoPro,Laserath,3,3,995,25.85 ± 3.9,3528,8,Protoss,icyCow ; DJRUFIO ; Nebula,DisCerN ; Inkarnate ; brueda
+Facebook Zuckerzerg,tsuki,2,1,1025,26.61 ± 5.2,3255,5,Protoss,Thadeaus ; FutureNights,AGiantSmurf
+Google Noobernetes,maybecake,3,5,969,22.34 ± 3.9,3743,8,Random,Rook ; Rook ; Evan,juba ; Combust ; Lunatic ; tskuzzy ; StoicWilly
+Google Noobernetes,Smitti,2,1,1024,26.11 ± 5.4,2943,8,Zerg,BaconPancake ; RexAliquid,juba
+Garmin Fenix,Rook,3,6,892,17.80 ± 3.6,2983,7,Terran,Atlantean ; ogreinside ; Nebula,maybecake ; maybecake ; Atlantean ; CheeseMaster ; PluTo ; wokparty
+Google Cannon Platform,Arioch,2,2,1034,28.56 ± 4.7,3445,5,Zerg,Cicero ; MUSTARDTIGER,Alken ; Mestaman
+Google Cannon Platform,Lunatic,2,0,1066,31.01 ± 6.4,3521,9,Zerg,maybecake ; Optimization,
+Google BetaStar,Optimization,0,1,960,20.79 ± 7.2,3504,,Zerg,,Lunatic
+Ok Googler,pzlin,3,2,1021,26.92 ± 4.1,4261,4,Protoss,halflings ; Iceman ; xale,PluTo ; Kevin
+Google YouNube,bees,0,4,881,16.63 ± 5.2,3175,,Zerg,,juba ; Kolo ; Kevin ; Kevin
+IBM Virtual Private Carriers,PandaLove,1,3,926,21.48 ± 4.5,4641,8,Terran,FarFetchd,BounD ; Kevin ; Kevin
+IBM Raiders,IIIIIIIIIIII,2,3,948,22.24 ± 4.4,3415,8,Terran,xale ; sineon,Alephnaut ; tskuzzy ; Mestaman
+Google YouNube,sandboX,2,1,1020,27.19 ± 5.3,3074,6,Zerg,wokparty ; Sunflasher,Spectre
+Wraitheon,Starviper,0,4,872,16.42 ± 5.0,0,,Terran,,ReMiiX ; DisCerN ; Gyalgatine ; Fran
+Wraitheon,Newbi,10,5,1109,30.16 ± 2.7,2832,3,Protoss,FAir ; bScherm ; UWUMcSwagXD ; MDM ; Anelit ; Kerms ; Greghatch ; DanStraight ; Argyle ; Argyle,tskuzzy ; eXiled ; Slumdog ; FAir ; StoicWilly
+Workday My Life for HR,DetRice,4,2,1092,32.54 ± 4.2,3625,4,Zerg,Kitagawa ; Larry ; Iceman ; Argyle,whsper ; Kitagawa
+Workday My Life for HR,SLeePY,0,1,960,20.79 ± 7.2,0,,Terran,,OneShotKilla
+Peloton Zealot Legs,OneShotKilla,2,4,927,19.22 ± 4.0,0,,Protoss,SLeePY ; Treher,DonRagu ; Kisa ; LuMorY ; Sowha
+Shopify Dropshippers,Zero,20,2,1512,42.48 ± 2.1,6049,0,Terran,KawaiiRice ; ZESTisBEST ; ZESTisBEST ; ZESTisBEST ; ZESTisBEST ; juno ; OrangCaramel ; OrangCaramel ; qxc ; tso ; YolBolsun ; SourSpinach ; SourSpinach ; BounD ; BounD ; ReMiiX ; seu ; BicepCurls ; OooLaLa ; patch,tso ; OrangCaramel
+Micro Pro,Lagforce,1,3,957,22.12 ± 4.9,0,,Terran,BlueTopaz,SourSpinach ; Ender ; Pancakes
+Micro Pro,Vdek,3,2,1035,28.41 ± 4.1,4685,5,Zerg,Arcane ; Anelit ; Calm,BounD ; TheGladiator
+Google YouNube,empathe,0,1,978,22.67 ± 7.2,3004,,Zerg,,Mannered
+Google Noobernetes,Lackthereof,1,4,915,18.17 ± 4.8,0,8,Zerg,Winze,sineon ; MrJin ; MrJin ; StoicWilly
+Google A-Movers,YolBolsun,12,9,1140,32.18 ± 2.0,4873,3,Protoss,FAir ; FAir ; Turing ; SilverBullet ; Zip ; Arcane ; Arcane ; Foggy ; SourSpinach ; Gyalgatine ; DisCerN ; Zergachu,seu ; IIIIIIIIIIII ; TallMonster ; bScherm ; Liqht ; Mestaman ; OrangCaramel ; danceparty ; Zero
+Workday My Life for HR,BaconPancake,1,2,961,21.83 ± 5.6,3084,7,Zerg,Daggerfield,Smitti ; NaCl
+Workday My Life for HR,GeLouKo,1,1,1024,27.90 ± 6.2,0,6,Protoss,commamloser,Kitagawa
+Workday My Life for HR,olaf,0,1,946,17.19 ± 6.2,0,,Zerg,,Taeho
+Wraitheon,Zergachu,0,1,966,22.71 ± 7.4,0,,Zerg,,YolBolsun
+Google YouNube,Sapientia,1,0,1022,26.41 ± 7.6,3047,9,Zerg,Evan,
+Google ggMail,Majak,2,7,861,19.68 ± 3.9,2868,9,Zerg,PapaGil ; Cots,Iceman ; Joba ; CheriLady ; undertone ; bablit ; bablit ; AGiantSmurf
+Google BetaStar,Combust,1,0,1035,28.95 ± 6.9,0,9,Zerg,maybecake,
+Ok Googler,ReMiiX,2,3,1004,25.72 ± 4.7,4183,7,Terran,Dejanigma ; Starviper,SourSpinach ; juno ; Zero
+Google Cannon Platform,CheeseMaster,1,0,1040,29.16 ± 6.9,3425,8,Zerg,Rook,
+Google BetaStar,CheriLady,1,1,1004,25.91 ± 5.6,0,10,Terran,Majak,frugs
+Google Noobernetes,Larry,0,1,966,22.16 ± 7.1,0,,Protoss,,DetRice
+Google Noobernetes,Feaisil,0,1,964,20.27 ± 6.8,0,,Zerg,,juba
+Wraitheon,smokeygun,2,7,843,17.38 ± 3.7,2640,,Zerg,A.I. 1 (Very Hard) ; RelaxedBrain,DanStraight ; Greghatch ; MyKill ; UWUMcSwagXD ; UWUMcSwagXD ; FAir ; Kevin
+TEAM_NOT_KNOWN,A.I. 1 (Very Hard),0,1,960,20.79 ± 7.2,0,,Zerg,,smokeygun
+Addeparchon,Ender,11,6,1148,29.25 ± 2.8,4693,5,Protoss,MDM ; DaFoo ; DaFoo ; Pikmet ; Milkman ; Lagforce ; DonRagu ; FutureNights ; Faz ; CliKing ; ITmedic,DaFoo ; Lyte ; qxc ; qxc ; danceparty ; ZESTisBEST
+MSFT-B,DaFoo,4,6,977,23.64 ± 3.0,4076,5,Terran,tskuzzy ; Ender ; WryWonder ; Maphtar,Maphtar ; Rainier ; Ender ; Ender ; FAir ; brueda
+Addeparchon,FAir,15,7,1265,33.30 ± 2.1,4960,3,Protoss,Mestaman ; Pancakes ; Newbi ; PandaKhan ; Arcane ; Arcane ; TallMonster ; chelseafan ; GreatArchon ; GreatArchon ; Quirkedkirk ; DaFoo ; Ectoplasm ; colonelxc ; smokeygun,Newbi ; fuinkaze ; YolBolsun ; YolBolsun ; KawaiiRice ; KawaiiRice ; StoicWilly
+MSFT-B,PandaKhan,5,2,1081,28.73 ± 3.9,2093,6,Zerg,whoyou ; Arioch ; protoaST ; Argyle ; Argyle,tskuzzy ; FAir
+Microsoft One Xbox One X,TYTY,1,3,936,20.82 ± 4.8,3224,,Terran,Greghatch,Kronya ; LuMorY ; Mannered
+Addeparchon,Greghatch,3,11,891,20.01 ± 3.1,2806,,Protoss,Cress ; TheMonkies ; smokeygun,TYTY ; BigJoeLogs ; Saichotic ; Gyalgatine ; Gyalgatine ; Anelit ; hello ; wokparty ; ThEUnKnowN ; Newbi ; Krayze
+Addeparchon,Kronya,2,2,1025,28.04 ± 5.2,2851,,Zerg,TYTY ; ActiveFire,Lyte ; Katfish
+Microsoft One Xbox One X,ActiveFire,0,2,915,16.50 ± 6.1,2186,,Protoss,,Ockie ; Kronya
+Amazon Primal,Kisa,5,6,1000,23.16 ± 3.0,3124,4,Protoss,Kixantrix ; Kixantrix ; StagaDish ; OneShotKilla ; juice,Nitrous ; Jackal ; Zip ; Zip ; Lyte ; fuinkaze
+MSFT-B,imaznation,1,6,904,20.80 ± 4.1,3340,7,Protoss,MyKill,DisCerN ; DisCerN ; PeeAndKeele ; SilverBullet ; ZESTisBEST ; StoicWilly
+Microsoft Bill 4 Gates,ThEUnKnowN,6,4,1087,29.28 ± 3.4,0,5,Terran,Rainier ; wokparty ; Philosotoss ; Philosotoss ; Alephnaut ; Greghatch,UWUMcSwagXD ; Cicero ; tso ; ZESTisBEST
+Red Hatlings,CODADarson,1,2,991,24.23 ± 5.0,3011,9,Protoss,BigJoeLogs,LuMorY ; brueda
+Red Hatlings,Syrril,4,3,1029,25.71 ± 3.5,3961,4,Zerg,fuinkaze ; Taeho ; Faz ; Youiur,Maphtar ; Rainier ; GritBear
+New Nerds On The Block,QTWO,0,5,834,14.07 ± 4.8,1934,,Protoss,,Cots ; Hyz ; Arcane ; Zip ; Alpha
+New Nerds On The Block,chelseafan,4,4,1054,28.36 ± 3.3,4719,4,Protoss,GreatArchon ; Nitrous ; Iceman ; Iceman,GreatArchon ; PluTo ; FAir ; KawaiiRice
+New Nerds On The Block,BigJoeLogs,3,3,978,23.11 ± 4.2,3723,8,Zerg,CAholder ; Greghatch ; Argyle,CODADarson ; SourSpinach ; Crilmon
+United E-commerce Directorate,Joba,1,1,989,25.06 ± 6.1,3089,10,Protoss,Majak,hello
+United E-commerce Directorate,tom,2,1,1066,31.04 ± 5.3,4495,6,Zerg,WryWonder ; Pacifists,Mestaman
+IBM Virtual Private Carriers,Alpha,6,4,1084,29.02 ± 3.1,3645,3,Protoss,Zip ; LuMorY ; Jackal ; Yaxhiro ; Kerms ; QTWO,Cicero ; GritBear ; KawaiiRice ; StoicWilly
+Microsoft Macrohard,KawaiiRice,13,2,1312,39.31 ± 2.9,5506,4,Zerg,brueda ; FAir ; FAir ; Inkarnate ; Turing ; eXiled ; Alken ; Alpha ; chelseafan ; IIIIIIIIIIII ; Alephnaut ; Alephnaut ; FutureNights,tso ; Zero
+Microsoft Macrohard,SadKeev,1,0,1040,31.68 ± 6.3,4546,5,Zerg,GreatArchon,
+Microsoft Macrohard,Crilmon,6,2,1180,35.75 ± 3.4,5151,2,Zerg,tso ; You ; wokparty ; Gyalgatine ; BigJoeLogs ; TomNook,tso ; Mestaman
+MSFT-A,danceparty,12,1,1295,37.18 ± 3.0,5038,3,Zerg,Inkarnate ; Slumdog ; Ender ; YolBolsun ; You ; Arcane ; Gyalgatine ; Alephnaut ; FutureNights ; Faz ; Theios ; Cosmic,Kevin
+MSFT-A,Lyte,6,5,1078,28.71 ± 2.9,4185,4,Zerg,Ender ; Kronya ; Kisa ; Philosotoss ; shengy ; DanStraight,Alephnaut ; Inkarnate ; tso ; AGiantSmurf ; OrangCaramel
+Google A-Movers,Emil,6,2,1195,35.05 ± 3.0,0,3,Zerg,Mestaman ; NaCl ; fuinkaze ; PluTo ; DanStraight ; StdyFriend,Inkarnate ; Kevin
+Facebook Lingstagram,IIIIIIIIIIII,2,1,1046,31.88 ± 4.8,4152,4,Zerg,Cicero ; YolBolsun,KawaiiRice
+Facebook Lingstagram,CliKing,1,6,875,18.08 ± 4.2,2640,,Zerg,TheMonkies,Alex ; Infinity ; wokparty ; Ender ; tso ; brueda
+GM-Crew Ready,Cosmic,0,8,848,16.92 ± 4.8,3343,,Protoss,,DonRagu ; KingOfRage ; DisCerN ; qxc ; qxc ; OrangCaramel ; danceparty ; ZESTisBEST
+GM-Crew Ready,DanStraight,2,7,868,20.19 ± 3.6,2632,8,Terran,smokeygun ; Winze,Infinity ; Taeho ; Lyte ; Newbi ; fuinkaze ; Emil ; qxc
+GM-Crew Ready,eXiled,8,3,1175,34.85 ± 3.2,4907,4,Protoss,qxc ; fuinkaze ; Newbi ; MDM ; Tilena ; DonRagu ; DonRagu ; shengy,qxc ; KawaiiRice ; MrNovember
+MSFT-B,MDM,5,5,1038,26.51 ± 3.2,3443,5,Terran,Cicero ; liquid ; FutureNights ; RelaxedBrain ; ogreinside,Auditor ; Newbi ; Ender ; eXiled ; brueda
+GM-Crew Ready,UWUMcSwagXD,5,3,1046,27.07 ± 3.5,4713,5,Terran,ThEUnKnowN ; DonRagu ; Jackal ; smokeygun ; smokeygun,Newbi ; Cicero ; brueda
+Google ggMail,Ockie,1,5,852,16.15 ± 4.2,1938,,Protoss,ActiveFire,Iceman ; TheMonkies ; CAholder ; Milkman ; Sowha
+Shopify Dropshippers,TheMonkies,1,2,923,16.99 ± 4.8,2407,,Terran,Ockie,CliKing ; Greghatch
+Google 1E100 Ads Per Minute,WryWonder,4,2,1025,25.31 ± 4.0,3609,8,Zerg,Ares ; sineon ; Argyle ; Argyle,DaFoo ; tom
+Wraitheon,DonRagu,4,6,955,24.73 ± 3.5,3532,8,Terran,OneShotKilla ; Hyz ; Cosmic ; Winze,UWUMcSwagXD ; Arcane ; Ender ; eXiled ; eXiled ; Mestaman
+Peloton Zealot Legs,RelaxedBrain,0,2,924,18.39 ± 6.3,0,,Zerg,,smokeygun ; MDM
+Microsoft One Xbox One X,Saichotic,2,1,1017,25.41 ± 5.0,0,8,Zerg,Greghatch ; DJRUFIO,LuMorY
+Eagleview SC2,wtfpwnlzr,0,2,929,18.20 ± 6.1,0,,Protoss,,Kerms ; DOJ
+Findex Fast Expand,Kerms,2,5,905,19.64 ± 3.8,3006,,Zerg,wtfpwnlzr ; ITmedic,LilPinkBoba ; wokparty ; wokparty ; Alpha ; Newbi
+United E-commerce Directorate,tso,10,3,1246,37.45 ± 2.6,5247,1,Zerg,Zero ; KawaiiRice ; OrangCaramel ; Crilmon ; frugs ; fuinkaze ; ThEUnKnowN ; Lyte ; Arcane ; CliKing,PluTo ; Crilmon ; Zero
+Facebook Lingstagram,hello,2,0,1072,32.12 ± 6.3,3826,11,Protoss,Joba ; Greghatch,
+Facebook Lingstagram,nowitzki,2,1,1039,27.15 ± 4.7,3434,4,Terran,IGotPlanz ; shengy,Alephnaut
+Wraitheon,qxc,11,2,1263,38.18 ± 3.1,5446,4,Terran,Katfish ; eXiled ; Ender ; Ender ; fuinkaze ; Arcane ; Jackal ; TomNook ; DanStraight ; Cosmic ; Cosmic,eXiled ; Zero
+IBM Virtual Private Carriers,CAholder,1,2,937,18.25 ± 5.0,2809,,Terran,Ockie,MyKill ; BigJoeLogs
+Google Xpendables,Yaxhiro,0,2,918,16.49 ± 5.9,0,,Terran,,Atlantean ; Alpha
+Peloton Zealot Legs,FunkMasterJ,0,1,960,19.99 ± 6.5,0,,Zerg,,DOJ
+New Nerds On The Block,Faz,0,3,897,16.87 ± 5.5,0,,Protoss,,Syrril ; Ender ; danceparty
+Addeparchon,Hyz,2,7,869,19.76 ± 3.9,0,,Zerg,qmx ; QTWO,colonelxc ; DonRagu ; nStrage ; Anti ; Slumdog ; SilverBullet ; SilverBullet
+Peloton Zealot Legs,Cots,1,8,780,13.66 ± 3.7,0,,Terran,QTWO,Majak ; Maphtar ; Philosotoss ; IslandCow ; Noobtoss ; GreatArchon ; undertone ; ViceAdmiral
+Microsoft One Xbox One X,Sowha,2,1,1026,24.85 ± 5.0,0,,Protoss,OneShotKilla ; Ockie,Arioch
+MSFT-B,ViceAdmiral,6,1,1113,30.49 ± 3.9,3302,4,Terran,Infinity ; Alephnaut ; ChozSun ; Cots ; Galoubet ; Galoubet,Rainier
+Findex Fast Expand,Tilena,0,1,971,22.78 ± 7.3,0,,Zerg,,eXiled
+New Nerds On The Block,Rob,0,1,952,18.76 ± 6.4,0,,Terran,,wokparty
+Red Hatlings,Philosotoss,4,6,967,21.67 ± 3.4,3424,8,Protoss,Jasonion ; Theios ; DJRUFIO ; Cots,PeeAndKeele ; Lyte ; wokparty ; ThEUnKnowN ; ThEUnKnowN ; Mestaman
+Facebook Zuckerzerg,NYAAAA,0,1,993,23.86 ± 7.6,0,,Zerg,,ZESTisBEST
+Eagleview SC2,Rainier,4,2,1099,29.96 ± 4.0,4227,5,Zerg,ViceAdmiral ; wokparty ; Syrril ; DaFoo,ThEUnKnowN ; ZESTisBEST
+IBM Virtual Private Carriers,StdyFriend,2,7,836,17.19 ± 3.2,3240,8,Terran,qmx ; DJRUFIO,MyKill ; liquid ; icyCow ; Anelit ; DOJ ; LilPinkBoba ; Emil
+Addeparchon,TomNook,0,4,902,18.17 ± 5.7,0,,Zerg,,icyCow ; Crilmon ; GritBear ; qxc
+Facebook Zuckerzerg,bScherm,4,3,1108,31.20 ± 3.1,4654,2,Zerg,OrangCaramel ; YolBolsun ; Infinity ; Jackal,Infinity ; Newbi ; brueda
+Amazon Primal,juice,2,5,890,19.07 ± 3.5,0,4,Terran,Iceman ; sineon,MrSleep ; MrSleep ; Unholy ; Kisa ; fuinkaze
+Microsoft Bill 4 Gates,ZergGirl,1,1,1013,27.38 ± 5.4,4674,5,Zerg,Alephnaut,Inkarnate
+Google Xpendables,Milkman,1,2,964,21.42 ± 5.3,0,,Protoss,Ockie,Xiv ; Ender
+Google Xpendables,colonelxc,1,4,899,18.46 ± 4.4,3150,,Zerg,Hyz,bleatongordy ; whoyou ; frugs ; FAir
+Google Xpendables,Quirkedkirk,1,1,1011,25.38 ± 6.1,0,,Protoss,Jasonion,FAir
+Alexa 12 Pool,TallMonster,3,2,1054,29.60 ± 3.8,4093,4,Zerg,YolBolsun ; TBSS ; Nitrous,Arcane ; FAir
+Amazon Painforest,Liqht,5,2,1128,33.89 ± 3.6,5297,4,Zerg,StoicWilly ; YolBolsun ; juba ; MyKill ; Calm,Laybunz ; Mestaman
+Amazon Painforest,ShOckWavE,3,1,1078,31.17 ± 4.4,4552,4,Zerg,PeeAndKeele ; Gyalgatine ; Sunflasher,Slumdog
+Amazon Primal,bleatongordy,2,5,922,20.20 ± 4.0,3113,10,Terran,liquid ; colonelxc,MrSleep ; Syrril ; LilPinkBoba ; TheGladiator ; MrJin
+Red Hatlings,Syrril,1,3,949,21.69 ± 4.8,4028,11,Zerg,bleatongordy,TheGladiator ; tskuzzy ; frugs
+Amazon Primal,Theios,0,4,893,15.97 ± 5.5,3678,,Zerg,,Philosotoss ; Velvacaine ; GritBear ; danceparty
+IBM Virtual Private Carriers,ITmedic,0,3,867,12.49 ± 5.0,0,,Terran,,Winze ; Kerms ; Ender
+RHECS,ChozSun,0,6,827,14.60 ± 4.3,2007,,Terran,,MyKill ; Velvacaine ; Taeho ; ViceAdmiral ; Slumdog ; MrJin
+Garmin Fenix,Unholy,3,4,965,23.71 ± 3.8,3646,5,Zerg,Nitrous ; juice ; BondiolaKing,Zeman ; GreatArchon ; Pancakes ; NaCl
+Google 1E100 Ads Per Minute,PeeAndKeele,3,2,1051,29.39 ± 4.3,4237,4,Terran,Ketse ; Philosotoss ; imaznation,ShOckWavE ; Pancakes
+Google 1E100 Ads Per Minute,whoyou,2,1,1030,26.03 ± 5.2,3414,,Random,CepHaLoPoD ; colonelxc,PandaKhan
+Shopify Dropshippers,qmx,0,2,899,14.60 ± 5.4,2053,,Terran,,StdyFriend ; Hyz
+Google 1E100 Ads Per Minute,Laybunz,1,1,1002,27.95 ± 5.6,0,5,Zerg,Liqht,Zeman
+Google 1E100 Ads Per Minute,Bobalicious,0,1,981,22.54 ± 7.1,0,,Protoss,,NaCl
+Amazon Painforest,WhiteRa,2,0,1112,37.48 ± 4.9,0,3,Protoss,ZESTisBEST ; Alex,
+MSFT-A,LilPinkBoba,4,2,1057,27.96 ± 4.4,4362,9,Zerg,bleatongordy ; Kerms ; CepHaLoPoD ; StdyFriend,coolwhip ; StoicWilly
+MSFT-A,Kixantrix,3,3,985,23.96 ± 3.3,4055,3,Terran,wokparty ; Zip ; Ectoplasm,Jackal ; Kisa ; Kisa
+Bloomberg Bloomzerg,Auditor,3,3,1017,28.70 ± 3.6,4432,3,Protoss,PluTo ; MDM ; LuisG,Arcane ; undertone ; OrangCaramel
+Epic Systims,madscyentist,0,2,950,20.10 ± 6.7,3170,,Zerg,,Minkintosh ; StoicWilly
+Garmin Fenix,Minkintosh,1,0,1040,29.21 ± 7.2,2397,,Zerg,madscyentist,
+Epic Systims,MxGLasender,3,2,1026,28.38 ± 4.5,4651,6,Terran,Alex ; Cress ; Winze,juba ; Noodle
+Epic Systims,Pancakes,6,2,1156,33.32 ± 3.4,4839,4,Protoss,StoicWilly ; PeeAndKeele ; Velvacaine ; Unholy ; Lagforce ; Jackal,AGiantSmurf ; FAir
+Garmin Fenix,Velvacaine,2,2,989,23.63 ± 5.1,0,,Protoss,Theios ; ChozSun,Anti ; Pancakes
+Epic Systims,Zeman,2,3,994,27.03 ± 4.2,3496,6,Zerg,Laybunz ; Unholy,mmun ; NaCl ; AGiantSmurf
+Facebook Lingstagram,cindy,0,1,948,19.27 ± 6.4,0,,Protoss,,Iceman
+Facebook Lingstagram,Ketse,4,3,1031,29.06 ± 3.3,3685,3,Terran,Slumdog ; DisCerN ; Ares ; Argyle,PeeAndKeele ; Inkarnate ; brueda
+Facebook Lingstagram,Marshmellow,2,0,1070,31.97 ± 6.0,0,4,Terran,liquid ; Iceman,
+Peloton Zealot Legs,liquid,2,4,926,19.36 ± 4.0,3114,9,Terran,BondiolaKing ; StdyFriend,bleatongordy ; MDM ; Marshmellow ; Zip
+Facebook Lingstagram,undertone,3,0,1097,34.36 ± 5.5,3460,4,Zerg,Auditor ; Majak ; Cots,
+Red Hatlings,CepHaLoPoD,1,4,904,17.83 ± 4.5,0,,Zerg,BlueTopaz,FutureNights ; whoyou ; LilPinkBoba ; Arcane
+Red Hatlings,ABlindMan,1,2,989,24.77 ± 5.0,0,4,Protoss,Iceman,PluTo ; Cicero
+Google A-Movers,Xiv,1,0,1035,28.34 ± 7.2,3389,,Zerg,Milkman,
+Micro Pro,Cress,1,2,935,18.84 ± 5.0,2936,,Protoss,BondiolaKing,Greghatch ; MxGLasender
+Google ggMail,BondiolaKing,0,3,873,13.89 ± 5.3,3760,,Zerg,,liquid ; Cress ; Unholy
+Micro Pro,Bdang,1,0,1033,29.45 ± 6.7,0,8,Zerg,Maarfon,
+Google Xpendables,BlueTopaz,0,3,872,13.71 ± 5.1,2432,,Protoss,,CepHaLoPoD ; Lagforce ; Arioch
+Facebook Lingstagram,quarkral,0,3,915,18.32 ± 5.4,2800,,Terran,,Alephnaut ; Infinity ; Mestaman
+Facebook Lingstagram,TBSS,0,4,910,17.93 ± 5.5,3365,,Terran,,TallMonster ; tskuzzy ; Inkarnate ; brueda
+Amazon Painforest,Noodle,2,1,1093,34.03 ± 4.9,4392,5,Terran,MrJin ; MxGLasender,StoicWilly
+Facebook Zuckerzerg,Frontstab,3,1,1126,35.82 ± 4.1,4066,3,Terran,Mestaman ; DisCerN ; FearCat,ZESTisBEST
+Epic Systims,Calm,0,4,884,16.55 ± 5.1,0,,Zerg,,Anelit ; Vdek ; Liqht ; tskuzzy
+Google ggMail,IGotPlanz,0,3,912,18.42 ± 5.5,2812,,Random,,nowitzki ; Zip ; MrJin
+Google ggMail,IslandCow,1,1,977,20.59 ± 5.5,2449,,Terran,Cots,Sunflasher
+Google Xpendables,StagaDish,1,2,972,23.76 ± 4.4,3329,5,Zerg,Arcane,Syzygy ; Kisa
+Shopify Dropshippers,Ares,0,3,904,16.96 ± 5.4,2461,,Zerg,,WryWonder ; Ketse ; wokparty
+MSFT-A,TheGladiator,3,1,1096,31.77 ± 4.7,4879,6,Protoss,Vdek ; Syrril ; bleatongordy,AGiantSmurf
+MSFT-B,Noobtoss,1,0,1027,27.41 ± 7.2,2585,,Protoss,Cots,
+IBM Virtual Private Carriers,Anti,2,1,1048,28.28 ± 5.0,0,,Zerg,Velvacaine ; Hyz,fuinkaze
+MSFT-B,LuisG,0,2,952,20.94 ± 6.4,0,,Terran,,Auditor ; StoicWilly
+RHECS,ogreinside,0,2,911,15.28 ± 5.7,0,,Zerg,,Rook ; MDM
+RHECS,juliuspark,0,1,952,18.39 ± 6.4,0,,Protoss,,Sunflasher
+Google Xpendables,Jasonion,0,2,909,15.79 ± 5.7,2830,,Zerg,,Philosotoss ; Quirkedkirk
+Micro Pro,Ectoplasm,0,2,938,19.22 ± 6.2,0,,Zerg,,Kixantrix ; FAir
+Shopify Dropshippers,protoaST,1,1,996,24.64 ± 5.6,0,5,Protoss,MrSleep,PandaKhan
+Micro Pro,nStrage,1,0,1030,28.63 ± 6.9,0,,Terran,Hyz,
+MSFT-B,DARKARTY,1,0,1034,29.75 ± 6.6,0,5,Terran,Nitrous,
+Facebook Lingstagram,Syngularity,1,1,1021,26.14 ± 5.5,2923,7,Protoss,Atlantean,Cicero
+IBM Virtual Private Carriers,Treher,0,1,946,16.82 ± 6.3,2859,,Protoss,,OneShotKilla
+MSFT-B,OooLaLa,0,1,995,24.31 ± 7.8,0,,Terran,,Zero
+Epic Systims,Pikmet,0,1,973,21.17 ± 6.8,3914,,Protoss,,Ender
+Addeparchon,mmun,1,0,1044,31.43 ± 6.5,0,7,Zerg,Zeman,
+RHECS,TheDoctor,0,1,957,18.40 ± 6.2,0,,Zerg,,Anelit
+Google 1E100 Ads Per Minute,BicepCurls,0,1,995,24.31 ± 7.8,0,,Zerg,,Zero
