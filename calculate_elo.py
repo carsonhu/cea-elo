@@ -1,24 +1,30 @@
-import sc2reader
-from sc2reader.engine.plugins import APMTracker, SelectionTracker
-from consts import SEASONS, STARTING_DATE, WEEKS
-from setup_replays import find_team, replay_directory, teams_file
-from zeroNumber import zeroNumber
+"""Calculate various statistics for the CEA playerbase, and stores in a spreadsheet.
+
+Attributes:
+    counts (Counter): counting number of games
+    EXTRA_GAMES_FILE (str): File to be used if we need to input extra games
+    K (int): K-value used for elo ratings.
+"""
+import csv
+import json
 import os
 import re
 import string
-import json
-import csv
-import glicko2
-import mpyq
 import sys
 import traceback
-import trueskill
-from elo import EloRating
 from datetime import datetime
 from datetime import timedelta
 from collections import Counter, deque
-
+import mpyq
+import sc2reader
+import trueskill
+import glicko2
 import cea_team_name_parser
+from sc2reader.engine.plugins import APMTracker, SelectionTracker # unused
+from consts import SEASONS, STARTING_DATE, WEEKS
+from setup_replays import find_team, replay_directory, teams_file
+from zeroNumber import zeroNumber
+from elo import EloRating
 
 sc2reader.engine.register_plugin(APMTracker())
 
@@ -103,29 +109,21 @@ class GameObject:
     # self.apm = apm
     self.duration = duration
     self.season = season
-
-def print_dictionary(player_dictionary):
-  # sorted by number of wins, then by winrate
-  with open("ratings.txt", mode='w') as file_object:
-    sorted_player_dict = sorted(player_dictionary.items(), key=lambda item: (  # teams_dict[item[1].name.lower()],
-        item[1].rating, item[1].wins - item[1].losses, len(item[1].games),  -1 * (len(item[1].games) - item[1].wins)), reverse=True)
-    table_data = []
-    table_data.append(["Rank", "Elo", "W", "L", "Player", "Race", "Peak Rating"])
-    for i in range(len(sorted_player_dict)):
-      key = sorted_player_dict[i][0]
-      value = sorted_player_dict[i][1]
-      table_data.append([str(i+1) + ".", int(value.rating), value.wins, value.losses, value.mostRecentTeam + " " + value.name, value.race, int(value.peak_rating)])
-    for row in table_data:
-    	print("{: <5} {: <5} {: >5} : {:<10} {: <40} {: <10} {: <10}".format(*row), file=file_object)
-      # print('{0:d}  {1:5} : {2}  {3}  {4}'.format(int(value.rating), value.wins, value.losses,value.mostRecentTeam + " " + value.name, value.race))
-    #  print("%d : %d %s %s , %d" % (value.rating, value.wins, value.losses,
-    #                           value.mostRecentTeam + " " + value.name, value.race))
-
+    
 # Add in extra games
 # Games is 2d array: each one has [date, player1, player2, win]
 def input_extra_elo(players, games, current_date, season):
+  """Add in extra games.
+  
+  Args:
+      players (Array[PlayerObject]): array of the 2 players
+      games (str[n,4]): Each column is [date, player1, player2, win].
+        Each row is a game.
+      current_date (datetime): current date. don't process games after date.
+      season (int): season. 0 is most recent
+  """
   while games[0][0] and current_date > datetime.strptime(games[0][0], "%m/%d/%Y"):
-    # Note: doesn't resolve aliases
+    # ISSUE: doesn't resolve aliases, doesn't work if player has not already been processed.
     player_names = [games[0][1].lower(), games[0][2].lower()]
     for index, player in enumerate(player_names):
       gameObject = GameObject(opponent=player_names[1-index], race="", mmr=0,
@@ -137,9 +135,6 @@ def input_extra_elo(players, games, current_date, season):
 
     winner = games[0][3].lower() == player_names[0]
     update_rating(players[player_names[0]], players[player_names[1]], winner)
-    #A,B = EloRating(players[player_names[0]].rating, players[player_names[1]].rating, K, games[0][3].lower() == player_names[0])
-    #players[player_names[0]].setRating(A)
-    #players[player_names[1]].setRating(B)
 
     games.popleft()
 

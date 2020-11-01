@@ -1,5 +1,9 @@
-import sc2reader
-from consts import SEASONS, STARTING_DATE, WEEKS
+"""Renames replays in the UploadHere folder to describe their contents.
+
+Attributes:
+    counts (Counter): counting the number of replays
+    UNKNOWN_TEAM (str): Generic name for unknown team.
+"""
 import os
 import re
 import string
@@ -8,8 +12,9 @@ import traceback
 from datetime import datetime
 from datetime import timedelta
 from collections import Counter
-
+import sc2reader
 import cea_team_name_parser
+from consts import SEASONS, STARTING_DATE, WEEKS
 
 UNKNOWN_TEAM = "TEAM_NOT_KNOWN"
 counts = Counter()
