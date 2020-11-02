@@ -8,6 +8,8 @@ Tracking statistics for the Starcraft 2 Corporate Esports Association league.
 pip install -r requirements.txt 
 ```
 
+Replays are stored in UploadHere folder. The data folder contains the data on which teams players are on.
+
 ## To download replays from the replay repo.
 ```
 python download_replays.py
@@ -24,7 +26,7 @@ python setup_replays.py
 There'll be some errors due to a few broken SC2 Replay files, but you can ignore that or remove them.
 
 Errors may pop up due to a missing team name corresponding to a player.
-In the event of a missing team name, update cea_names.csv by adding the player name to their corresponding team.
+In the event of a missing team name, the code will output a suggested team for that player. Update cea_names.csv by adding the player name to their corresponding team.
 
 ## To generate a stats spreadsheet for the season.
 ```
