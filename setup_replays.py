@@ -107,7 +107,8 @@ def identify_unknown_players(matchup_dictionary, team_dictionary):
      
 
 def copy_into_path(original, copyname, path):
-  """copies into a new location, making the folders if necessary and stops if the file's already there
+  """copies into a new location, making the folders if necessary and stops if the file's already there.
+  currently unused.
   
   Args:
       original (string): the file to copy

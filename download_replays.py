@@ -4,10 +4,9 @@ Usage: python download_replays.py
 If you want to redownload all replays,
   python download_replays.py --r True
 
-And pip install whatever packages you need.
+Make sure selenium and webdrivermanager are installed.
 
-TODO: combine this into one script with replay_organizer.py.
-Also TODO: Write a setup file so that people don't have to pip install everything.
+TODO: write a simple shell script to run this with setup_replays.py.
 """
 import argparse
 import requests
@@ -48,6 +47,8 @@ def get_url_list(season):
   Returns:
       TYPE: html of all the links
   """
+  # Since the replays are loaded into page source dynamically,
+  # wait for javascript to execute.
   time.sleep(5)
 
   html = driver.execute_script("return document.getElementsByTagName('html')[0].innerHTML")
@@ -78,6 +79,7 @@ def download_replays(redownload, season):
   """
   links = get_url_list(season)
   print(links)
+  # id_dict contains info on which replays have already been downloaded once
   try:
     with open(id_dict_json(season), 'r') as f:
       id_dict = json.load(f)
