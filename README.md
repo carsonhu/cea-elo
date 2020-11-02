@@ -28,7 +28,11 @@ There'll be some errors due to a few broken SC2 Replay files, but you can ignore
 Errors may pop up due to a missing team name corresponding to a player.
 In the event of a missing team name, the code will output a suggested team for that player. Update cea_names.csv by adding the player name to their corresponding team.
 
+Any potential team allocation errors are recorded in errors.txt.
+
 ## To generate a stats spreadsheet for the season.
 ```
 python calculate_elo.py
 ```
+
+Stored in cea_season_stats.csv
