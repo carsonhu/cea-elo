@@ -14,10 +14,11 @@ Replays are stored in UploadHere folder. The data folder contains the data on wh
 ```
 python download_replays.py
 ```
-The replay organizer only downloads replays it hasn't seen before. To (re)download all replays for the season, use:
+The replay organizer only downloads replays it hasn't seen before. This data is stored in data/[SEASON]id_dict.json. If you need to redownload replays, use
 ```
 python download_replays.py --r true
 ```
+Or delete the corresponding id_dict.json files.
 
 ## To rename replays.
 ```
