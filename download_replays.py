@@ -93,8 +93,10 @@ def download_replays(redownload, season):
   count = 0
   for link in links:
     count += 1
+    # hack to temporarily deal with the case where we get a link that's not a google drive file
+    if len(link.get('href').split("=")) <= 1:
+      continue
     drive_id = link.get('href').split("=")[-1]
-    #print(drive_id)
     if drive_id not in id_dict:
       id_dict[drive_id] = 1
       gdd.download_file_from_google_drive(

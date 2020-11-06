@@ -108,7 +108,6 @@ def identify_unknown_players(matchup_dictionary, team_dictionary):
 
 def copy_into_path(original, copyname, path):
   """copies into a new location, making the folders if necessary and stops if the file's already there.
-  currently unused.
   
   Args:
       original (string): the file to copy
@@ -191,6 +190,12 @@ def organize_replays(directory, output_directory, teams, aliases, season):
         player_names[0], player_names[1],
         player_races[0], player_races[1],
         map_name]).replace(" ","_") + ".SC2Replay"
+
+      # copy into team/player/matchup folders
+      copy_into_path(src, to_rename,
+          ["replays", SEASONS[season], player_teams[0], "%s (%s)" % (player_names[0], player_races[0]), "vs " + player_races[1]])
+      copy_into_path(src, to_rename,
+          ["replays", SEASONS[season], player_teams[1], "%s (%s)" % (player_names[1], player_races[1]), "vs " + player_races[0]])
       dst = os.path.join(output_directory, to_rename)
       if src.lower() != dst.lower():
         counts['replays processed'] += 1
@@ -210,9 +215,10 @@ def organize_replays(directory, output_directory, teams, aliases, season):
   identify_unknown_players(matchup_dictionary, teams)          
 
 if __name__ == "__main__":
-  season = 0
-  teams, aliases = cea_team_name_parser.init_dictionary(teams_file(season))
-  organize_replays(replay_directory(season), replay_directory(season), 
-                   teams, aliases, season)
+  for season in reversed(range(len(SEASONS))):
+    teams, aliases = cea_team_name_parser.init_dictionary(teams_file(season))
+    organize_replays(replay_directory(season), replay_directory(season), 
+                     teams, aliases, season)
+    counts.clear()
 
 
