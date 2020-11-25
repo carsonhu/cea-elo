@@ -1,80 +1,105 @@
-Potential error in teams file: In Preseason, Alexa 12 Pool faced multiple teams:
-Players: 
-	Facebook Zuckerzerg PluTo
-	Google A-Movers Alken
-	Facebook Zuckerzerg Arcane
-Potential error in teams file: In Preseason, Google A-Movers faced multiple teams:
-Players: 
-	Amazon Painforest NaCl
-	Alexa 12 Pool Slumdog
-	Amazon Painforest ShOckWavE
-	Amazon Painforest Liqht
-Potential error in teams file: In Preseason, Amazon Primal faced multiple teams:
-Players: 
-	Red Hatlings Syrril
-	RHECS MrSleep
-	Red Hatlings Philosotoss
-	Red Hatlings ZiP
-Potential error in teams file: In Preseason, RHECS faced multiple teams:
-Players: 
-	Garmin Fenix Unholy
-	Garmin Fenix juba
-	Garmin Fenix MrJin
-	Amazon Primal juice
-Potential error in teams file: In Week1, Google Xpendables faced multiple teams:
-Players: 
-	Google A-Movers You
-	Micro Pro Lagforce
-	Google A-Movers Xiv
-	Google A-Movers Alken
-Potential error in teams file: In Week1, Micro Pro faced multiple teams:
-Players: 
-	Google ggMail Majak
-	Google ggMail Maarfon
-	Google ggMail BondiolaKing
-	Google Xpendables BlueTopaz
-Potential error in teams file: In Week3, Findex Fast Expand faced multiple teams:
-Players: 
-	MSFT-B LuisG
-	MSFT-A KingOfRage
-	MSFT-B imaznation
-	MSFT-A fuinkaze
-Potential error in teams file: In Week3, MSFT-A faced multiple teams:
-Players: 
-	Micro Pro Ectoplasm
-	Findex Fast Expand icyCow
-	Findex Fast Expand Jackal
-	Micro Pro Vdek
-	Micro Pro coolwhip
-	Micro Pro AGiantSmurf
-Potential error in teams file: In Week3, RHECS faced multiple teams:
-Players: 
-	Garmin Fenix Sunflasher
-	Garmin Fenix Rook
-	Shopify Dropshippers protoaST
-	Garmin Fenix juba
-	Garmin Fenix Velvacaine
-Potential error in teams file: In Week3, Google Xpendables faced multiple teams:
-Players: 
-	Google Xpendables arioch
-	Google Xpendables Jasonion
-	Google ggMail ockie
-	Google ggMail Atlantean
-	Google Xpendables Quirkedkirk
-	Google Xpendables BlueTopaz
-Potential error in teams file: In Week3, Shopify Dropshippers faced multiple teams:
-Players: 
-	Red Hatlings CepHaLoPoD
-	RHECS MrSleep
-	Red Hatlings ZiP
-Potential error in teams file: In Week5, Red Hatlings faced multiple teams:
-Players: 
-	Google ggMail IGotPlanz
-	Google Xpendables Jasonion
-	Google Xpendables BlueTopaz
 Potential error in teams file: In Week7, Facebook Lingstagram faced multiple teams:
 Players: 
 	Red Hatlings Syrril
 	Red Hatlings CepHaLoPoD
 	RHECS MrSleep
 	Red Hatlings ZiP
+Potential error in teams file: In Week7, Google Xpendables faced multiple teams:
+Players: 
+	Google 1E100 Ads Per Minute whoyou
+	Google 1E100 Ads Per Minute PeeAndKeele
+	Peloton Zealot Legs liquid
+	Google 1E100 Ads Per Minute WryWonder
+	Google 1E100 Ads Per Minute Alex
+Potential error in teams file: In Week7, Peloton Zealot Legs faced multiple teams:
+Players: 
+	Google ggMail Maarfon
+	Google ggMail BondiolaKing
+	Google ggMail Atlantean
+	Google Xpendables BlueTopaz
+Potential error in teams file: In Preseason, Alexa 12 Pool faced multiple teams:
+Players: 
+	Facebook Zuckerzerg PluTo
+	Facebook Zuckerzerg Arcane
+	Google A-Movers Alken
+Potential error in teams file: In Preseason, Google A-Movers faced multiple teams:
+Players: 
+	Alexa 12 Pool Slumdog
+	Amazon Painforest NaCl
+	Amazon Painforest ShOckWavE
+	Amazon Painforest Liqht
+Potential error in teams file: In Preseason, Amazon Primal faced multiple teams:
+Players: 
+	Red Hatlings Syrril
+	Red Hatlings Philosotoss
+	RHECS MrSleep
+	Red Hatlings ZiP
+Potential error in teams file: In Preseason, RHECS faced multiple teams:
+Players: 
+	Amazon Primal juice
+	Garmin Fenix MrJin
+	Garmin Fenix Unholy
+	Garmin Fenix juba
+Potential error in teams file: In Week1, Google Xpendables faced multiple teams:
+Players: 
+	Micro Pro Lagforce
+	Google A-Movers Xiv
+	Google A-Movers You
+	Google A-Movers Alken
+Potential error in teams file: In Week1, Micro Pro faced multiple teams:
+Players: 
+	Google ggMail Maarfon
+	Google ggMail BondiolaKing
+	Google ggMail Majak
+	Google Xpendables BlueTopaz
+Potential error in teams file: In Week3, Findex Fast Expand faced multiple teams:
+Players: 
+	MSFT-A KingOfRage
+	MSFT-B LuisG
+	MSFT-B imaznation
+	MSFT-A fuinkaze
+Potential error in teams file: In Week3, MSFT-A faced multiple teams:
+Players: 
+	Micro Pro Ectoplasm
+	Micro Pro Vdek
+	Findex Fast Expand icyCow
+	Findex Fast Expand Jackal
+	Micro Pro AGiantSmurf
+	Micro Pro coolwhip
+Potential error in teams file: In Week3, RHECS faced multiple teams:
+Players: 
+	Garmin Fenix Rook
+	Garmin Fenix Velvacaine
+	Garmin Fenix Sunflasher
+	Garmin Fenix juba
+	Shopify Dropshippers protoaST
+Potential error in teams file: In Week3, Google Xpendables faced multiple teams:
+Players: 
+	Google Xpendables Jasonion
+	Google Xpendables arioch
+	Google Xpendables BlueTopaz
+	Google Xpendables Quirkedkirk
+	Google ggMail ockie
+	Google ggMail Atlantean
+Potential error in teams file: In Week3, Shopify Dropshippers faced multiple teams:
+Players: 
+	Red Hatlings ZiP
+	Red Hatlings CepHaLoPoD
+	RHECS MrSleep
+Potential error in teams file: In Week5, Red Hatlings faced multiple teams:
+Players: 
+	Google ggMail IGotPlanz
+	Google Xpendables Jasonion
+	Google Xpendables BlueTopaz
+Potential error in teams file: In WGapWeek, MSFT-A faced multiple teams:
+Players: 
+	Facebook Zuckerzerg juno
+	Facebook Zuckerzerg frugs
+	Facebook Zuckerzerg PluTo
+	Google A-Movers You
+Potential error in teams file: In WGapWeek, Google A-Movers faced multiple teams:
+Players: 
+	MSFT-B ViceAdmiral
+	MSFT-B imaznation
+	MSFT-A fuinkaze
+	MSFT-B LuisG
