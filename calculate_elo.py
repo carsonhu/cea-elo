@@ -122,7 +122,7 @@ def input_extra_elo(players, games, current_date, season):
       current_date (datetime): current date. don't process games after date.
       season (int): season. 0 is most recent
   """
-  while games[0][0] and current_date > datetime.strptime(games[0][0], "%m/%d/%Y"):
+  while games and games[0][0] and current_date > datetime.strptime(games[0][0], "%m/%d/%Y"):
     # ISSUE: doesn't resolve aliases, doesn't work if player has not already been processed.
     player_names = [games[0][1].lower(), games[0][2].lower()]
     for index, player in enumerate(player_names):
@@ -209,10 +209,16 @@ def load_value(replay_filename, value):
   return mmrs
 
 
+
+
 def calculate_elo(directory, players, teams, aliases, season, games):
   # Using mypq, load the replay file
   matcher = re.compile(r'\.SC2Replay$', re.IGNORECASE)
+  def myFunc(replay):
+    replay_file = sc2reader.load_replay(os.path.join(directory, replay), load_level=2)
+    return replay_file.date
   replays = [file for file in os.listdir(directory) if matcher.search(file)]
+  replays.sort(key=myFunc)
   print("Found %d replays to scan" % len(replays))
 
   for replay in replays:
@@ -225,6 +231,10 @@ def calculate_elo(directory, players, teams, aliases, season, games):
       player_mmrs = load_value(replay_filename, 'MMR')
 
       input_extra_elo(players, games, replay_file.date, season)
+
+      # ignore 2v2
+      if len(replay_file.players) > 2:
+        continue
 
       # resolve aliases for players who play under several accounts
       for i in range(len(player_names)):
