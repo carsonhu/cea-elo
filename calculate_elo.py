@@ -58,6 +58,9 @@ class PlayerObject:
     if rating > self.peak_rating:
       self.peak_rating = rating
 
+  def isActive(self):
+    return 0 in self.teams
+
   def addTeam(self, season, team):
     self.teams[season] = team
 
@@ -234,6 +237,7 @@ def calculate_elo(directory, players, teams, aliases, season, games):
 
       # ignore 2v2
       if len(replay_file.players) > 2:
+        print(replay)
         continue
 
       # resolve aliases for players who play under several accounts
@@ -245,6 +249,7 @@ def calculate_elo(directory, players, teams, aliases, season, games):
       
       # Ignore it
       if replay_file.winner is None:
+        print(replay)
         continue
       # Add them to the player list if they're not there
       for index, player in enumerate(player_list):
@@ -281,7 +286,7 @@ def make_csv(player_dictionary):
 
   # calculate zero number
   maxPlayer = zeroNumber(player_dictionary)
-  headers_arr = ["Team Name", "Name", "Wins", "Losses", "Elo (avg=1000)", "Trueskill Rating (avg=25)", "Peak MMR", maxPlayer + " Number", "Race",
+  headers_arr = ["Team Name", "Name", "Wins", "Losses", "Elo (avg=1000)", "Trueskill Rating (avg=25)", "Peak MMR", maxPlayer + " Number", "Active", "Race",
                 "Players Defeated", "Players Lost To"]
   with open("cea_season_stats.csv", "w", newline='') as my_csv:
     csvWriter = csv.writer(my_csv, delimiter=',')
@@ -315,6 +320,8 @@ def make_csv(player_dictionary):
       zeroNum = int(value.zeroNumber) if value.zeroNumber < sys.maxsize else ''
       new_entry.append(zeroNum)
 
+      new_entry.append("Yes" if value.isActive() else "No")
+
       # Race
       new_entry.append(value.race)
       # APM
@@ -337,7 +344,7 @@ def make_csv(player_dictionary):
 
       csvWriter.writerow(new_entry)
       csv_arr.append(new_entry)
-  print("Done creating CSV");
+  print("Done creating CSV")
 
 if __name__ == "__main__":
   players = {}

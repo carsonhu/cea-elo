@@ -4,8 +4,9 @@ from queue import PriorityQueue
 import operator
 
 def zeroNumber(player_dictionary):
-    maxPlayer = max(player_dictionary.keys(), key=(lambda key: player_dictionary[key].trueskill.mu))
-
+    #maxPlayer = max(player_dictionary.keys(), key=(lambda key: player_dictionary[key].trueskill.mu))
+    # temporarily just setting it to zero instead of max player
+    maxPlayer = "zero"
     # then we do a BFS
     q = PriorityQueue()
     discovered = set(maxPlayer)
