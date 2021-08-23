@@ -57,10 +57,12 @@ class GoogleDriveDownloader:
     """
 
     destination_directory = dirname(dest_path)
+    print(dest_path)
     if not exists(destination_directory):
       makedirs(destination_directory)
 
     if not exists(dest_path) or overwrite:
+      
 
       session = requests.Session()
 
@@ -96,6 +98,8 @@ class GoogleDriveDownloader:
                 continue
               zip_info.filename = new_file_name + \
                   os.path.basename(zip_info.filename)
+              if zip_info.filename.endswith('\r'):
+                zip_info.filename = zip_info.filename[0:-1]
               z.extract(zip_info, destination_directory)
           print('Done.')
         except zipfile.BadZipfile:

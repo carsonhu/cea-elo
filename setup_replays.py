@@ -215,10 +215,11 @@ def organize_replays(directory, output_directory, teams, aliases, season):
   identify_unknown_players(matchup_dictionary, teams)          
 
 if __name__ == "__main__":
-  for season in reversed(range(len(SEASONS))):
-    teams, aliases = cea_team_name_parser.init_dictionary(teams_file(season))
-    organize_replays(replay_directory(season), replay_directory(season), 
-                     teams, aliases, season)
-    counts.clear()
+  # for season in reversed(range(len(SEASONS))):
+  season = 0
+  teams, aliases = cea_team_name_parser.init_dictionary(teams_file(season))
+  organize_replays(replay_directory(season), replay_directory(season), 
+                   teams, aliases, season)
+  counts.clear()
 
 

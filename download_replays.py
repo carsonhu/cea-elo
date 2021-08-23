@@ -78,7 +78,7 @@ def download_replays(redownload, season):
       season (INT): current season
   """
   links = get_url_list(season)
-  print(links)
+  
   # id_dict contains info on which replays have already been downloaded once
   try:
     with open(id_dict_json(season), 'r') as f:

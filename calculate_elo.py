@@ -20,6 +20,7 @@ import sc2reader
 import trueskill
 import glicko2
 import cea_team_name_parser
+import xlsxwriter
 from sc2reader.engine.plugins import APMTracker, SelectionTracker # unused
 from consts import SEASONS, STARTING_DATE, WEEKS
 from setup_replays import find_team, replay_directory, teams_file
