@@ -6,7 +6,7 @@ USAGE: Called in download_replays.py, which downloads replays from the replay
 vault in an instant.
 """
 from __future__ import print_function
-import requests
+import requests, zipfile, io
 import zipfile
 import warnings
 from sys import stdout
@@ -17,7 +17,6 @@ from os.path import exists
 
 
 
-
 class GoogleDriveDownloader:
   """
   Minimal class to download shared files from Google Drive.
@@ -25,6 +24,35 @@ class GoogleDriveDownloader:
 
   CHUNK_SIZE = 32768
   DOWNLOAD_URL = 'https://docs.google.com/uc?export=download'
+
+
+  @staticmethod
+  def download_file_from_url(url, dest_path, new_file_name, overwrite=False, unzip=False, showsize=False):
+    url = url.replace(" ","%20")
+    destination_directory = dirname(dest_path)
+    if not exists(destination_directory):
+      makedirs(destination_directory)
+
+    print(new_file_name)
+    if not exists(dest_path) or overwrite:
+      print('Downloading {} into {}... '.format(
+          url, dest_path), end='')
+      stdout.flush()
+      r = requests.get(url)
+      z = zipfile.ZipFile(io.BytesIO(r.content))
+      for zip_info in z.infolist():
+        # Ignore directory.
+        if zip_info.filename[-1] == '/':
+          continue
+        zip_info.filename = new_file_name + \
+            os.path.basename(zip_info.filename)
+        if zip_info.filename.endswith('\r'):
+          zip_info.filename = zip_info.filename[0:-1]
+        z.extract(zip_info, destination_directory)
+      print('Done.')
+
+    # if unzip:
+    #     GoogleDriveDownloader._unzipFile(dest_path, new_file_name)
 
   @staticmethod
   def download_file_from_google_drive(file_id, dest_path, new_file_name,
@@ -88,25 +116,30 @@ class GoogleDriveDownloader:
       print('Done.')
 
       if unzip:
-        try:
-          print('Unzipping...', end='')
-          stdout.flush()
-          with zipfile.ZipFile(dest_path, 'r') as z:
-            for zip_info in z.infolist():
-              # Ignore directory.
-              if zip_info.filename[-1] == '/':
-                continue
-              zip_info.filename = new_file_name + \
-                  os.path.basename(zip_info.filename)
-              if zip_info.filename.endswith('\r'):
-                zip_info.filename = zip_info.filename[0:-1]
-              z.extract(zip_info, destination_directory)
-          print('Done.')
-        except zipfile.BadZipfile:
-          warnings.warn(
-              'Ignoring `unzip` since "{}" does not look like a valid zip file'.format(dest_path))
+        GoogleDriveDownloader._unzipFile(dest_path, new_file_name)
 
-        os.remove(dest_path)  # delete the zip file.
+  @staticmethod
+  def _unzipFile(dest_path, new_file_name):
+    try:
+      destination_directory = dirname(dest_path)
+      print('Unzipping...', end='')
+      stdout.flush()
+      with zipfile.ZipFile(dest_path, 'r') as z:
+        for zip_info in z.infolist():
+          # Ignore directory.
+          if zip_info.filename[-1] == '/':
+            continue
+          zip_info.filename = new_file_name + \
+              os.path.basename(zip_info.filename)
+          if zip_info.filename.endswith('\r'):
+            zip_info.filename = zip_info.filename[0:-1]
+          z.extract(zip_info, destination_directory)
+      print('Done.')
+    except zipfile.BadZipfile:
+      warnings.warn(
+          'Ignoring `unzip` since "{}" does not look like a valid zip file'.format(dest_path))
+    os.remove(dest_path)
+
 
   @staticmethod
   def _get_confirm_token(response):

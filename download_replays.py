@@ -91,18 +91,27 @@ def download_replays(redownload, season):
     id_dict = {}
 
   count = 0
+  print(links)
   for link in links:
     count += 1
     # hack to temporarily deal with the case where we get a link that's not a google drive file
-    if len(link.get('href').split("=")) <= 1:
-      continue
-    drive_id = link.get('href').split("=")[-1]
-    if drive_id not in id_dict:
-      id_dict[drive_id] = 1
-      gdd.download_file_from_google_drive(
-          file_id=drive_id, dest_path=replay_directory(season)
+    # if len(link.get('href').split("=")) <= 1:
+    #   continue
+    # if it's amazonaws
+    print(link.get('href'))
+    if 'amazonaws' in link.get('href'):
+      gdd.download_file_from_url(
+          url=link.get('href'), dest_path=replay_directory(season)
           + "temp_dir" + '.zip', new_file_name=str(count) + " ",
           unzip=True)      
+    elif 'drive.google.com' in link.get('href'): 
+      drive_id = link.get('href').split("=")[-1]
+      if drive_id not in id_dict:
+        id_dict[drive_id] = 1
+        gdd.download_file_from_google_drive(
+            file_id=drive_id, dest_path=replay_directory(season)
+            + "temp_dir" + '.zip', new_file_name=str(count) + " ",
+            unzip=True)      
   update_json(id_dict, id_dict_json(season))
 
 if __name__ == "__main__":

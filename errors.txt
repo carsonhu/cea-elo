@@ -1,157 +1,311 @@
-Potential error in teams file: In WGapWeek, FB Zuckerzerg faced multiple teams:
+Potential error in teams file: In Week2, Addeparchon faced multiple teams:
 Players: 
-	Macrohard Microsoft danceparty
-	Hatlings Syrril
-	Hatlings ZiP
-	Macrohard Microsoft goldenwitch
-	Hatlings CepHaLoPoD
-	Macrohard Microsoft fuinkaze
-	Macrohard Microsoft MDM
-Potential error in teams file: In WGapWeek, Shopify, Not Spotify faced multiple teams:
-Players: 
-	Google AlphaStars Alken
-	Google AlphaStars BenchPress
-	Google Xemplars Yaxhiro
-	Google Xemplars gerp
-	Google AlphaStars OrangCaramel
-Potential error in teams file: In WGapWeek, Google Xemplars faced multiple teams:
-Players: 
-	Thrive on Changelings Keener
-	Thrive on Changelings ender
-	Shopify, Not Spotify FutureNights
-	Shopify, Not Spotify Ares
-Potential error in teams file: In Week6, FB Zuckerzerg faced multiple teams:
-Players: 
-	Epic Systims Ambrosia
-	FB Zuckerzerg PluTo
-	FB Lingstagram Ketse
 	FB Zuckerzerg frugs
-	TEAM_NOT_KNOWN Centoss
-	FB Lingstagram Syngularity
-Potential error in teams file: In Week6, Macrohard Microsoft faced multiple teams:
-Players: 
-	Addeparchon IamTheBoss
-	Addeparchon FAir
-	Thrive on Changelings ender
-	Addeparchon mmun
-Potential error in teams file: In Week6, Addeparchon faced multiple teams:
+	FB Lingstagram Ketse
+	Epic Systims Ambrosia
+Potential error in teams file: In Week2, Epic Systims faced multiple teams:
 Players: 
 	Macrohard Microsoft danceparty
-	Shopify, Not Spotify Bugz
-	Macrohard Microsoft goldenwitch
 	Macrohard Microsoft dadahaha
-Potential error in teams file: In Week6, Shopify, Not Spotify faced multiple teams:
-Players: 
-	Addeparchon nick
-	IBM Virtual Private Carriers Treher
-	Google BetaStars Emil
-	Google BetaStars You
-Potential error in teams file: In Week6, Epic Systims faced multiple teams:
-Players: 
-	Google AlphaStars YolBolsun
-	Google AlphaStars Gyalgatine
-	Google AlphaStars Turing
-	Google AlphaStars Alken
-	FB Zuckerzerg juno
-Potential error in teams file: In Week6, IBM Virtual Private Carriers faced multiple teams:
-Players: 
-	Thrive on Changelings atomicdog
+	Macrohard Microsoft MDM
 	Thrive on Changelings ender
-	Thrive on Changelings TheMonkies
-	Shopify, Not Spotify Ares
-Potential error in teams file: In Week6, Thrive on Changelings faced multiple teams:
+	Addeparchon Hyz
+	Macrohard Microsoft goldenwitch
+Potential error in teams file: In Week2, FB Zuckerzerg faced multiple teams:
+Players: 
+	Jane Street Janelings ownageforce
+	Addeparchon mmun
+	Jane Street Janelings mrormus
+	Addeparchon FAir
+	Jane Street Janelings BazookaJoe
+Potential error in teams file: In Week2, Thrive on Changelings faced multiple teams:
 Players: 
 	IBM Virtual Private Carriers Rafael
+	Epic Systims Andcoderes
+Potential error in teams file: In Week2, IBM Virtual Private Carriers faced multiple teams:
+Players: 
+	Thrive on Changelings Keener
+	Shopify, Not Spotify protoaST
+	Shopify, Not Spotify squarepusher
+	Shopify, Not Spotify Lopert
+Potential error in teams file: In Week1, Amazon Primal faced multiple teams:
+Players: 
+	Thrive on Changelings ender
+	Addeparchon FAir
+	Addeparchon greghatch
+	Addeparchon mmun
+Potential error in teams file: In Week1, Google Xemplars faced multiple teams:
+Players: 
+	Alexa 12 Pool Noname
+	Amazon Painforest ShOckWavE
+	Alexa 12 Pool Slumdog
+Potential error in teams file: In Week1, Amazon Painforest faced multiple teams:
+Players: 
+	IBM Virtual Private Carriers Rafael
+	IBM Virtual Private Carriers Treher
+	IBM Virtual Private Carriers Alpha
+	Google Xemplars Majak
+Potential error in teams file: In Week1, IBM Virtual Private Carriers faced multiple teams:
+Players: 
+	Amazon Painforest bleatongordy
+	Amazon Painforest tuna
+	FB Zuckerzerg SchAmToo
+	Amazon Painforest MysterEWisp
+Potential error in teams file: In Week1, Thrive on Changelings faced multiple teams:
+Players: 
+	Byte dance ZAiN
+	Byte dance Mallow
+	Byte dance LumiSSenS
+	Amazon Primal MikeOOO
+Potential error in teams file: In Week1, FB Zuckerzerg faced multiple teams:
+Players: 
+	Google AlphaStars YolBolsun
 	IBM Virtual Private Carriers GreatArchon
-	Macrohard Microsoft LuisG
-	IBM Virtual Private Carriers wokparty
-Potential error in teams file: In Week4, Shopify, Not Spotify faced multiple teams:
+	Google AlphaStars Turing
+	Google AlphaStars OrangCaramel
+	Google AlphaStars Alken
+Potential error in teams file: In Week3, Addeparchon faced multiple teams:
 Players: 
-	Addeparchon nick
-	Google BetaStars MachoTaco
-	Google BetaStars Emil
-	Google BetaStars You
-Potential error in teams file: In Week4, FB Zuckerzerg faced multiple teams:
+	Epic Systims Zeman
+	Macrohard Microsoft fuinkaze
+	Epic Systims Calm
+	Epic Systims Pancakes
+Potential error in teams file: In Week3, Epic Systims faced multiple teams:
 Players: 
-	FB Zuckerzerg BilboBagins
-	Epic Systims Ambrosia
-	FB Zuckerzerg PluTo
-	FB Zuckerzerg frugs
-	FB Zuckerzerg Arcane
-	FB Lingstagram Syngularity
-Potential error in teams file: In Week5, Addeparchon faced multiple teams:
-Players: 
-	FB Zuckerzerg PluTo
-	FB Zuckerzerg SourSpinach
-	FB Zuckerzerg Frontstab
-	FB Lingstagram Syngularity
-Potential error in teams file: In Week5, FB Zuckerzerg faced multiple teams:
-Players: 
-	Thrive on Changelings atomicdog
+	Amazon Primal Recondite
 	Thrive on Changelings ender
 	Addeparchon mmun
 	Addeparchon Hyz
 	Addeparchon FAir
+	Amazon Primal MikeOOO
+Potential error in teams file: In Week3, Macrohard Microsoft faced multiple teams:
+Players: 
+	Google BetaStars Tapirus
+	Google BetaStars MachoTaco
+	Addeparchon nick
+Potential error in teams file: In Week3, Amazon Painforest faced multiple teams:
+Players: 
+	Alexa 12 Pool Noname
+	Amazon Painforest tuna
+	Amazon Painforest WhiteRa
+	Alexa 12 Pool Slumdog
+Potential error in teams file: In Week3, Amazon Primal faced multiple teams:
+Players: 
+	FB Zuckerzerg BilboBagins
+	FB Lingstagram Ketse
+	Epic Systims Andcoderes
+	Epic Systims Ambrosia
+Potential error in teams file: In Week3, FB Zuckerzerg faced multiple teams:
+Players: 
+	Byte dance ZAiN
+	Byte dance Mallow
+	Amazon Primal AnanZero
+Potential error in teams file: In Week3, Thrive on Changelings faced multiple teams:
+Players: 
+	Epic Systims MxGLasender
+	Google Xemplars colonelxc
+	Google Xemplars gerp
+	Google Xemplars aroich666
+Potential error in teams file: In Week3, Shopify, Not Spotify faced multiple teams:
+Players: 
+	IBM Virtual Private Carriers wokparty
+	Google Xemplars Majak
+	Google Xemplars gerp
+	IBM Virtual Private Carriers Alpha
+	IBM Virtual Private Carriers Treher
+	IBM Virtual Private Carriers Rafael
+Potential error in teams file: In Week3, Google Xemplars faced multiple teams:
+Players: 
+	Thrive on Changelings ender
+	Shopify, Not Spotify Ares
+	Thrive on Changelings TheMonkies
+	Shopify, Not Spotify FutureNights
+Potential error in teams file: In Week4, Addeparchon faced multiple teams:
+Players: 
+	Google AlphaStars YolBolsun
+	Google AlphaStars BenchPress
+	Google AlphaStars Turing
+	Shopify, Not Spotify Zero
+Potential error in teams file: In Week4, Google AlphaStars faced multiple teams:
+Players: 
+	Addeparchon FAir
+	Thrive on Changelings ender
+	Addeparchon mmun
+	Addeparchon Hyz
+Potential error in teams file: In Week4, Shopify, Not Spotify faced multiple teams:
+Players: 
+	Google BetaStars MachoTaco
+	Addeparchon nick
+	Google BetaStars Emil
+	Macrohard Microsoft fuinkaze
+	Macrohard Microsoft dadahaha
+	Google BetaStars You
+Potential error in teams file: In Week4, Amazon Painforest faced multiple teams:
+Players: 
+	Amazon Primal Theios
+	Amazon Painforest ShOckWavE
+	Amazon Primal juice
+	Amazon Primal Recondite
+	Amazon Painforest tuna
+Potential error in teams file: In Week4, FB Zuckerzerg faced multiple teams:
+Players: 
+	FB Zuckerzerg Arcane
+	FB Zuckerzerg PluTo
+	FB Zuckerzerg BilboBagins
+	FB Zuckerzerg frugs
+	FB Lingstagram Syngularity
+	Epic Systims Ambrosia
+Potential error in teams file: In Week4, Thrive on Changelings faced multiple teams:
+Players: 
+	Google AlphaStars OrangCaramel
+	Macrohard Microsoft LuisG
+	Macrohard Microsoft goldenwitch
+Potential error in teams file: In Week4, Macrohard Microsoft faced multiple teams:
+Players: 
+	Thrive on Changelings Keener
+	Shopify, Not Spotify protoaST
+	Shopify, Not Spotify Ares
+	Thrive on Changelings Cerro
+Potential error in teams file: In Week5, Addeparchon faced multiple teams:
+Players: 
+	FB Zuckerzerg SourSpinach
+	FB Lingstagram Syngularity
+	FB Zuckerzerg PluTo
+	FB Zuckerzerg Frontstab
+Potential error in teams file: In Week5, FB Zuckerzerg faced multiple teams:
+Players: 
+	Thrive on Changelings ender
+	Addeparchon mmun
+	Addeparchon Hyz
+	Addeparchon FAir
+	Thrive on Changelings atomicdog
 Potential error in teams file: In Week5, Shopify, Not Spotify faced multiple teams:
 Players: 
-	Amazon Painforest tuna
-	Amazon Painforest bleatongordy
 	Byte dance Ghaelen
 	Byte dance ZAiN
 	Byte dance Mallow
+	Amazon Painforest bleatongordy
+	Amazon Painforest tuna
 Potential error in teams file: In Week5, Epic Systims faced multiple teams:
 Players: 
 	Google AlphaStars BenchPress
-	Google AlphaStars PeeAndKeele
 	Google BetaStars Emil
-	Google BetaStars You
+	Google AlphaStars PeeAndKeele
 	Google AlphaStars OrangCaramel
+	Google BetaStars You
+Potential error in teams file: In Week6, Macrohard Microsoft faced multiple teams:
+Players: 
+	Addeparchon FAir
+	Thrive on Changelings ender
+	Addeparchon mmun
+	Addeparchon IamTheBoss
+Potential error in teams file: In Week6, Addeparchon faced multiple teams:
+Players: 
+	Macrohard Microsoft danceparty
+	Macrohard Microsoft dadahaha
+	Macrohard Microsoft goldenwitch
+	Shopify, Not Spotify Bugz
+Potential error in teams file: In Week6, Shopify, Not Spotify faced multiple teams:
+Players: 
+	Google BetaStars You
+	IBM Virtual Private Carriers Treher
+	Addeparchon nick
+	Google BetaStars Emil
+Potential error in teams file: In Week6, FB Zuckerzerg faced multiple teams:
+Players: 
+	FB Zuckerzerg PluTo
+	FB Lingstagram Centoss
+	FB Zuckerzerg frugs
+	FB Lingstagram Syngularity
+	FB Lingstagram Ketse
+	Epic Systims Ambrosia
+Potential error in teams file: In Week6, Epic Systims faced multiple teams:
+Players: 
+	Google AlphaStars Gyalgatine
+	Google AlphaStars YolBolsun
+	Google AlphaStars Turing
+	FB Zuckerzerg juno
+	Google AlphaStars Alken
+Potential error in teams file: In Week6, IBM Virtual Private Carriers faced multiple teams:
+Players: 
+	Thrive on Changelings ender
+	Shopify, Not Spotify Ares
+	Thrive on Changelings atomicdog
+	Thrive on Changelings TheMonkies
+Potential error in teams file: In Week6, Thrive on Changelings faced multiple teams:
+Players: 
+	Macrohard Microsoft LuisG
+	IBM Virtual Private Carriers Rafael
+	IBM Virtual Private Carriers GreatArchon
+	IBM Virtual Private Carriers wokparty
+Potential error in teams file: In WGapWeek, FB Zuckerzerg faced multiple teams:
+Players: 
+	Hatlings Syrril
+	Macrohard Microsoft fuinkaze
+	Hatlings ZiP
+	Macrohard Microsoft danceparty
+	Hatlings CepHaLoPoD
+	Macrohard Microsoft MDM
+	Macrohard Microsoft goldenwitch
+Potential error in teams file: In WGapWeek, Shopify, Not Spotify faced multiple teams:
+Players: 
+	Google AlphaStars BenchPress
+	Google Xemplars Yaxhiro
+	Google Xemplars gerp
+	Google AlphaStars OrangCaramel
+	Google AlphaStars Alken
+Potential error in teams file: In WGapWeek, Google Xemplars faced multiple teams:
+Players: 
+	Thrive on Changelings Keener
+	Thrive on Changelings ender
+	Shopify, Not Spotify Ares
+	Shopify, Not Spotify FutureNights
 Potential error in teams file: In WRound1, Addeparchon faced multiple teams:
 Players: 
 	Alexa 12 Pool Noname
-	Alexa 12 Pool Sietesoles
-	Alexa 12 Pool Slumdog
 	Amazon Painforest WhiteRa
+	Alexa 12 Pool Slumdog
+	Alexa 12 Pool Sietesoles
 Potential error in teams file: In WRound1, Alexa 12 Pool faced multiple teams:
 Players: 
-	Addeparchon ThreePutt
 	Addeparchon FAir
+	Addeparchon ThreePutt
 	Thrive on Changelings ender
 	Addeparchon Hyz
 Potential error in teams file: In WRound1, Thrive on Changelings faced multiple teams:
 Players: 
 	Jane Street Janelings Rotsor
-	Alexa 12 Pool Sietesoles
 	Jane Street Janelings yaqh
+	Alexa 12 Pool Sietesoles
 Potential error in teams file: In WRound1, FB Zuckerzerg faced multiple teams:
 Players: 
 	Amazon Primal Theios
-	Amazon Primal MikeOOO
 	Amazon Primal juice
 	Hatlings CepHaLoPoD
 	Hatlings NachozSuprem
+	Amazon Primal MikeOOO
 Potential error in teams file: In WRound1, Epic Systims faced multiple teams:
 Players: 
 	Hatlings Syrril
-	Shopify, Not Spotify Alephnaut
+	Shopify, Not Spotify Inkarnate
 	Shopify, Not Spotify sOs
 	Shopify, Not Spotify Zero
-	Shopify, Not Spotify Inkarnate
+	Shopify, Not Spotify Alephnaut
 Potential error in teams file: In WRound1, Hatlings faced multiple teams:
 Players: 
-	FB Lingstagram Ketse
 	FB Lingstagram Syngularity
 	FB Zuckerzerg BilboBagins
+	FB Lingstagram Ketse
 	Epic Systims Ambrosia
 Potential error in teams file: In WRound1, Shopify, Not Spotify faced multiple teams:
 Players: 
-	Epic Systims MxGLasender
 	Epic Systims Zeman
 	Jane Street Janelings pfeng
+	Epic Systims MxGLasender
 	Epic Systims Calm
 	Epic Systims Pancakes
 Potential error in teams file: In WRound1, Jane Street Janelings faced multiple teams:
 Players: 
-	Thrive on Changelings Cerro
 	Thrive on Changelings ender
 	Shopify, Not Spotify Ares
+	Thrive on Changelings Cerro

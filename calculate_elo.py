@@ -21,6 +21,7 @@ import trueskill
 import glicko2
 import cea_team_name_parser
 import xlsxwriter
+import pandas as pd
 from sc2reader.engine.plugins import APMTracker, SelectionTracker # unused
 from consts import SEASONS, STARTING_DATE, WEEKS
 from setup_replays import find_team, replay_directory, teams_file
@@ -100,12 +101,14 @@ class GameObject:
       race (str): Selected race
   """
 
-  def __init__(self, opponent, race, mmr, win, duration,
+  def __init__(self, opponent, race, opponent_race, map_name, mmr, win, duration,
                season, glicko_longterm, opp_glicko_longterm):
     self.opponent = opponent
     self.race = race
+    self.opponent_race = opponent_race
     self.mmr = mmr
     self.win = win
+    self.map = map_name
     self.glicko_rating = glicko_longterm.getRating()
     self.glicko_rd = glicko_longterm.getRd()
     self.opp_glicko_rating = opp_glicko_longterm.getRating()
@@ -130,7 +133,12 @@ def input_extra_elo(players, games, current_date, season):
     # ISSUE: doesn't resolve aliases, doesn't work if player has not already been processed.
     player_names = [games[0][1].lower(), games[0][2].lower()]
     for index, player in enumerate(player_names):
-      gameObject = GameObject(opponent=player_names[1-index], race="", mmr=0,
+      # add them in if not in there
+      if player not in players:
+        players[player] = PlayerObject(player,
+                season, find_team(teams, player))
+    for index, player in enumerate(player_names):
+      gameObject = GameObject(opponent=player_names[1-index], race="", opponent_race="", map_name="", mmr=0,
                               win=games[0][3].lower() == player,
                               duration=0, season=season,
                               glicko_longterm = players[player].glicko_longterm,
@@ -266,6 +274,8 @@ def calculate_elo(directory, players, teams, aliases, season, games):
         player_name = player_names[index]
         gameObject = GameObject(opponent=player_names[1-index],
           race = player.pick_race,
+          opponent_race=player_list[1-index].pick_race,
+          map_name = replay_file.map_name,
           mmr = player_mmrs[index],
           win=replay_file.winner.players[0] == player,
           duration=replay_file.real_length,
@@ -282,70 +292,156 @@ def calculate_elo(directory, players, teams, aliases, season, games):
       print("Error processing replay: %s" % replay)
       traceback.print_exc()
 
-def make_csv(player_dictionary):
-  csv_arr = []
+def writeProfile(value, workbook, player_dictionary):
+  if value.name not in workbook.sheetnames:
+    sheet_name = value.name
+  else:
+    sheet_name = value.name + ' 1'
+  playerWorksheet = workbook.add_worksheet(sheet_name)
+  main_sheet = "Main"
+  playerWorksheet.write_url(0, 0, f"internal:'{main_sheet}'!A1", string='Back to Main Sheet')
+  playerWorksheet.write(0, 1, 'Player Name')
+  playerWorksheet.write(1, 1, value.name)
+  playerWorksheet.set_column(1, 1, max(len('Player Name'), len(value.name))+1)
+  playerWorksheet.write(0, 2, 'Teams')
+  playerWorksheet.set_column(2, 2, 20)
+  playerWorksheet.set_column(3, 4, 12)
+  playerWorksheet.write(0, 4, 'Games')
+  playerWorksheet.write(0, 5, 'Opponent Team')
+  playerWorksheet.set_column(5, 5, 15)
+  playerWorksheet.write(0, 6, 'Opponent')
+  playerWorksheet.set_column(6, 6, 15)
+  playerWorksheet.write(0, 7, 'Player Race')
+  playerWorksheet.set_column(7, 7, 8)
+  playerWorksheet.write(0, 8, 'Opponent Race')
+  playerWorksheet.set_column(8, 8, 8)
+  playerWorksheet.write(0, 9, 'Match Result')
+  playerWorksheet.set_column(9, 9, 6)
+  playerWorksheet.write(0, 10, 'Map')
+  playerWorksheet.set_column(10, 10, 20)
+  playerWorksheet.write(0, 12, 'Records')
+  playerWorksheet.set_column(12, 12, 25)
 
+  index = 1
+  for season, team in value.teams.items():
+    startIndex = 2
+    playerWorksheet.write(index, startIndex, team)
+    playerWorksheet.write(index, startIndex + 1, SEASONS[season])
+    index += 1
+  indexGame = 1
+  for game in value.games:
+    win = "Win" if game.win else "Loss"
+    startIndex = 4
+    playerWorksheet.write(indexGame, startIndex, SEASONS[game.season])
+    if game.season in player_dictionary[game.opponent].teams:
+      oppTeam = player_dictionary[game.opponent].teams[game.season]
+    else:
+      oppTeam = "UNKOWN_TEAM"
+    playerWorksheet.write(indexGame, startIndex + 1, oppTeam)
+    playerWorksheet.write(indexGame, startIndex + 2, player_dictionary[game.opponent].name)
+    playerWorksheet.write(indexGame, startIndex + 3, game.race)
+    playerWorksheet.write(indexGame, startIndex + 4, game.opponent_race)
+    playerWorksheet.write(indexGame, startIndex + 5, win)
+    playerWorksheet.write(indexGame, startIndex + 6, game.map)
+    indexGame += 1
+
+  # For Player Records
+  opponentsBeaten = Counter(value.opponents_beaten)
+  opponentsLostTo = Counter(value.opponents_lost_to)
+  indexRecord = 1
+
+  for opponent in set(value.opponents_beaten + value.opponents_lost_to):
+    count = 0
+    startIndex = 12
+    if opponent in opponentsBeaten:
+      count += opponentsBeaten[opponent]
+    if opponent in opponentsLostTo:
+      count += opponentsLostTo[opponent]
+    if count >= 2:
+      playerWorksheet.write(indexRecord, startIndex, player_dictionary[opponent].name)
+      playerWorksheet.write(indexRecord, startIndex+1, "{0}:{1}".format(opponentsBeaten[opponent], opponentsLostTo[opponent]))
+      indexRecord += 1
+
+  return sheet_name
+
+def write_profiles(player_dictionary):
+  workbook = xlsxwriter.Workbook('cea_season_stats.xlsx')
+  index = 0
+  for key, value in player_dictionary.items():
+    writeProfile(value, workbook, player_dictionary)
+    index +=1
+  workbook.close()
+
+def make_csv(player_dictionary):
   # calculate zero number
   maxPlayer = zeroNumber(player_dictionary)
   headers_arr = ["Team Name", "Name", "Wins", "Losses", "Elo (avg=1000)", "Trueskill Rating (avg=25)", "Peak MMR", maxPlayer + " Number", "Active", "Race",
                 "Players Defeated", "Players Lost To"]
-  with open("cea_season_stats.csv", "w", newline='') as my_csv:
-    csvWriter = csv.writer(my_csv, delimiter=',')
-    csvWriter.writerow(headers_arr)
-    for key, value in player_dictionary.items():
-      new_entry = []
-      # Name
-      new_entry.append(value.mostRecentTeam)
-      new_entry.append(value.name)
+  workbook = xlsxwriter.Workbook('cea_season_stats.xlsx')
+  worksheet1 = workbook.add_worksheet("Main")
+  worksheet1.write_row(0, 0, headers_arr)
+  worksheet1.freeze_panes(1, 0)
+  worksheet1.autofilter('A1:L9999')
+  index = 0
+  for key, value in player_dictionary.items():
+    new_entry = []
+    # Name
+    new_entry.append(value.mostRecentTeam)
 
-      # Wins
-      new_entry.append(int(value.wins))
+    new_entry.append(value.name)
 
-      # Losses
-      new_entry.append(int(value.losses))
+    # Wins
+    new_entry.append(int(value.wins))
 
-      # Elo
-      new_entry.append(int(value.rating))
+    # Losses
+    new_entry.append(int(value.losses))
 
-      # Glicko-2
-      # new_entry.append("{} ± {}".format(int(value.glicko.getRating()), int(value.glicko.getRd())) )
+    # Elo
+    new_entry.append(int(value.rating))
 
-      # Trueskill Rating
+    # Glicko-2
+    # new_entry.append("{} ± {}".format(int(value.glicko.getRating()), int(value.glicko.getRd())) )
 
-      new_entry.append("{:.2f} ± {:.1f}".format(value.trueskill.mu, value.trueskill.sigma))
+    # Trueskill Rating
 
-      # MMR
-      new_entry.append(int(value.mmr))
+    new_entry.append("{:.2f} ± {:.1f}".format(value.trueskill.mu, value.trueskill.sigma))
 
-      # zero number
-      zeroNum = int(value.zeroNumber) if value.zeroNumber < sys.maxsize else ''
-      new_entry.append(zeroNum)
+    # MMR
+    new_entry.append(int(value.mmr))
 
-      new_entry.append("Yes" if value.isActive() else "No")
+    # zero number
+    zeroNum = int(value.zeroNumber) if value.zeroNumber < sys.maxsize else ''
+    new_entry.append(zeroNum)
 
-      # Race
-      new_entry.append(value.race)
-      # APM
-      # new_entry.append(int(value.apm))
+    new_entry.append("Yes" if value.isActive() else "No")
 
-      # Retrieve list of opponents beaten / lost to, with MMR differential.
-      def opponent_func(opponents_list, descending):
-        new_opponents_list = [opp_nickname for opp_nickname in opponents_list]
-        new_opponents_list = sorted(new_opponents_list, key=lambda item: (
-            player_dictionary[item].rating), reverse=descending)
-        new_opponents_list = [player_dictionary[opponent].name for opponent in new_opponents_list]
-        return new_opponents_list
+    # Race
+    new_entry.append(value.race)
+    # APM
+    # new_entry.append(int(value.apm))
 
-      opponents_beaten = opponent_func(value.opponents_beaten, True)
-      opponents_lost_to = opponent_func(value.opponents_lost_to, False)
+    # Retrieve list of opponents beaten / lost to, with MMR differential.
+    def opponent_func(opponents_list, descending):
+      new_opponents_list = [opp_nickname for opp_nickname in opponents_list]
+      new_opponents_list = sorted(new_opponents_list, key=lambda item: (
+          player_dictionary[item].rating), reverse=descending)
+      new_opponents_list = [player_dictionary[opponent].name for opponent in new_opponents_list]
+      return new_opponents_list
 
-      # Opponents beaten / lost to
-      new_entry.append(" ; ".join(opponents_beaten))
-      new_entry.append(" ; ".join(opponents_lost_to))
+    opponents_beaten = opponent_func(value.opponents_beaten, True)
+    opponents_lost_to = opponent_func(value.opponents_lost_to, False)
 
-      csvWriter.writerow(new_entry)
-      csv_arr.append(new_entry)
+    # Opponents beaten / lost to
+    new_entry.append(" ; ".join(opponents_beaten))
+    new_entry.append(" ; ".join(opponents_lost_to))
+
+    worksheet1.write_row(index + 1, 0, new_entry)
+    playerSheet = writeProfile(value, workbook, player_dictionary)
+    worksheet1.write_url(index + 1, 1, f"internal:'{playerSheet}'!A1", string=value.name)
+    index += 1
+  worksheet1.conditional_format('E2:E9999', {'type': '3_color_scale'})
   print("Done creating CSV")
+  workbook.close()
 
 if __name__ == "__main__":
   players = {}
@@ -366,3 +462,4 @@ if __name__ == "__main__":
 
 
   make_csv(players)
+  #write_profiles(players)
