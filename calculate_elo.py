@@ -320,7 +320,7 @@ def writeProfile(value, workbook, player_dictionary):
   playerWorksheet.write(0, 10, 'Map')
   playerWorksheet.set_column(10, 10, 20)
   playerWorksheet.write(0, 12, 'Records')
-  playerWorksheet.set_column(12, 12, 25)
+  playerWorksheet.set_column(11, 11, 25)
 
   index = 1
   for season, team in value.teams.items():
@@ -329,8 +329,16 @@ def writeProfile(value, workbook, player_dictionary):
     playerWorksheet.write(index, startIndex + 1, SEASONS[season])
     index += 1
   indexGame = 1
+  raceWinCounter = Counter()
+  raceLossCounter = Counter()
   for game in value.games:
     win = "Win" if game.win else "Loss"
+    if game.opponent_race:
+      if game.win:
+        raceWinCounter[game.opponent_race] += 1
+      else:
+        raceLossCounter[game.opponent_race] += 1
+
     startIndex = 4
     playerWorksheet.write(indexGame, startIndex, SEASONS[game.season])
     if game.season in player_dictionary[game.opponent].teams:
@@ -350,9 +358,10 @@ def writeProfile(value, workbook, player_dictionary):
   opponentsLostTo = Counter(value.opponents_lost_to)
   indexRecord = 1
 
+  
   for opponent in set(value.opponents_beaten + value.opponents_lost_to):
     count = 0
-    startIndex = 12
+    startIndex = 11
     if opponent in opponentsBeaten:
       count += opponentsBeaten[opponent]
     if opponent in opponentsLostTo:
@@ -361,6 +370,12 @@ def writeProfile(value, workbook, player_dictionary):
       playerWorksheet.write(indexRecord, startIndex, player_dictionary[opponent].name)
       playerWorksheet.write(indexRecord, startIndex+1, "{0}:{1}".format(opponentsBeaten[opponent], opponentsLostTo[opponent]))
       indexRecord += 1
+
+  indexRecord += 1
+  for race in ['Terran', 'Zerg', 'Protoss', 'Random']:
+    playerWorksheet.write(indexRecord, startIndex, "vs " + race)
+    playerWorksheet.write(indexRecord, startIndex + 1, "{0}:{1}".format(raceWinCounter[race], raceLossCounter[race]))
+    indexRecord += 1
 
   return sheet_name
 
@@ -381,7 +396,7 @@ def make_csv(player_dictionary):
   worksheet1 = workbook.add_worksheet("Main")
   worksheet1.write_row(0, 0, headers_arr)
   worksheet1.freeze_panes(1, 0)
-  worksheet1.autofilter('A1:L9999')
+  # worksheet1.autofilter('A1:L500')
   index = 0
   for key, value in player_dictionary.items():
     new_entry = []
@@ -436,10 +451,11 @@ def make_csv(player_dictionary):
     new_entry.append(" ; ".join(opponents_lost_to))
 
     worksheet1.write_row(index + 1, 0, new_entry)
-    playerSheet = writeProfile(value, workbook, player_dictionary)
-    worksheet1.write_url(index + 1, 1, f"internal:'{playerSheet}'!A1", string=value.name)
+    if 0 in value.teams or (1 in value.teams and len(value.games) >= 5):
+      playerSheet = writeProfile(value, workbook, player_dictionary)
+      worksheet1.write_url(index + 1, 1, f"internal:'{playerSheet}'!A1", string=value.name)
     index += 1
-  worksheet1.conditional_format('E2:E9999', {'type': '3_color_scale'})
+  worksheet1.conditional_format('E2:E500', {'type': '3_color_scale'})
   print("Done creating CSV")
   workbook.close()
 
