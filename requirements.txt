@@ -2,6 +2,6 @@ mpyq==0.2.5
 trueskill==0.4.5
 webdriver_manager==2.4.0
 sc2reader==1.6.0
-requests==2.22.0
+requests==2.31.0
 selenium==3.141.0
 beautifulsoup4==4.9.3
